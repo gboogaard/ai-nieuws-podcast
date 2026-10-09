@@ -172,7 +172,12 @@ def main():
         if not key:
             sys.exit("ELEVENLABS_API_KEY ontbreekt (GitHub-secret).")
         text, _ = full_text(load_json(p))
-        synthesize(text, cfg, key, mp3)
+        try:
+            synthesize(text, cfg, key, mp3)
+        except Exception as e:
+            # Niet stoppen: de app leest de aflevering dan voor met de iPhone-stem.
+            mp3.unlink(missing_ok=True)
+            print(f"::warning title=AI in 5 audio::{e}".replace("\n", " "), flush=True)
 
     # 3. opruimen
     for p in episode_files:
@@ -190,12 +195,10 @@ def main():
         if mp3.exists():
             duration = round(mp3.stat().st_size * 8 / (bitrate(cfg) * 1000))
             audio = f"audio/{p.stem}.mp3"
-        elif skip:
+        else:
+            # Geen mp3: de app leest de tekst voor met de iPhone-stem.
             duration = round(len(text.split()) / 150 * 60)
             audio = None
-        else:
-            print(f"Let op: {p.stem} heeft nog geen audio en blijft buiten de app.")
-            continue
         total = max(1, len(text))
         entries.append({
             "id": p.stem,

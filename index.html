@@ -77,6 +77,7 @@ body.playing .live i{animation:ping 1.6s infinite}
 .eyebrow{font-size:12.5px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--apricot)}
 .title{font-family:'Instrument Serif',serif;font-weight:400;font-size:34px;line-height:1.05;margin:8px 0 10px}
 .summary{color:var(--ink-2);margin:0 0 18px;font-size:15.5px}
+.engine{margin:-8px 0 16px;font-size:13px;color:var(--apricot)}
 
 .stage{display:flex;align-items:center;gap:18px;margin:6px 0 16px}
 .play{position:relative;flex:none;width:84px;height:84px;border-radius:50%;
@@ -180,6 +181,7 @@ details[open] summary::after{content:"–"}
     <div class="eyebrow" id="epDate">Vandaag</div>
     <h1 class="title" id="epTitle">Even laden…</h1>
     <p class="summary" id="epSummary"></p>
+    <p class="engine" id="engine" style="display:none"></p>
 
     <div class="stage">
       <button class="play" id="playBtn" aria-label="Afspelen">
@@ -271,10 +273,76 @@ details[open] summary::after{content:"–"}
     var dt = new Date(d + 'T08:00:00');
     return dt.toLocaleDateString('nl-NL', long ? {weekday:'long', day:'numeric', month:'long'} : {day:'numeric', month:'short'});
   }
-  function isDemo(){ return cur && !cur.audio; }
-  function duration(){ return isDemo() ? (cur.duration || 300) : (isFinite(audio.duration) && audio.duration > 0 ? audio.duration : (cur ? cur.duration || 300 : 300)); }
-  function time(){ return isDemo() ? demoT : audio.currentTime; }
-  function playing(){ return isDemo() ? !!demoTimer : !audio.paused; }
+  // Voorlezen met de iPhone-stem als een aflevering geen mp3 heeft.
+  var synth = ('speechSynthesis' in window) ? window.speechSynthesis : null;
+  var sents = [], starts = [], totalChars = 1, sIdx = 0, speaking = false, token = 0, uttAt = 0, ticker = null, nlVoice = null, wake = null;
+  function score(v){ return (/nl[-_]NL/i.test(v.lang) ? 4 : 0) + (/premium|enhanced|verbeterd|siri/i.test(v.name) ? 2 : 0) + (v.localService ? 1 : 0); }
+  function pickVoice(){
+    if (!synth) return;
+    var vs = synth.getVoices().filter(function(v){ return /^nl/i.test(v.lang); });
+    vs.sort(function(a, b){ return score(b) - score(a); });
+    nlVoice = vs[0] || null;
+  }
+  if (synth) { pickVoice(); if (synth.addEventListener) synth.addEventListener('voiceschanged', pickVoice); }
+
+  function prepSpeech(ep){
+    var t = ep.transcript || ((ep.title || '') + '. ' + (ep.summary || ''));
+    sents = (t.match(/[^.!?\n]+[.!?]*/g) || []).map(function(s){ return s.trim(); }).filter(Boolean);
+    starts = []; var pos = 0;
+    sents.forEach(function(s){ starts.push(pos); pos += s.length + 1; });
+    totalChars = Math.max(1, pos);
+  }
+  function isSpeech(){ return !!(cur && !cur.audio); }
+  function secPerChar(){ return (cur.duration || 300) / totalChars; }
+  function rate(){ return {1: 1, 1.25: 1.18, 1.5: 1.35, 0.85: 0.9}[speeds[si]] || 1; }
+  function duration(){ return isSpeech() ? (cur.duration || 300) : (isFinite(audio.duration) && audio.duration > 0 ? audio.duration : (cur ? cur.duration || 300 : 300)); }
+  function time(){
+    if (!isSpeech()) return audio.currentTime;
+    if (!sents.length) return 0;
+    if (sIdx >= sents.length) return duration();
+    var base = starts[sIdx] * secPerChar();
+    if (speaking && uttAt) base += Math.min((Date.now() - uttAt) / 1000 * speeds[si], sents[sIdx].length * secPerChar());
+    return base;
+  }
+  function playing(){ return isSpeech() ? speaking : !audio.paused; }
+
+  function keepAwake(on){
+    try {
+      if (on && navigator.wakeLock && !wake) navigator.wakeLock.request('screen').then(function(w){ wake = w; }).catch(function(){});
+      if (!on && wake) { wake.release(); wake = null; }
+    } catch(e){}
+  }
+  function speakNext(my){
+    if (my !== token || !speaking) return;
+    if (sIdx >= sents.length) { stopSpeech(); sIdx = 0; tick(); return; }
+    var u = new SpeechSynthesisUtterance(sents[sIdx]);
+    u.lang = 'nl-NL';
+    if (nlVoice) u.voice = nlVoice;
+    u.rate = rate();
+    u.onstart = function(){ if (my === token) uttAt = Date.now(); };
+    u.onend = function(){ if (my !== token) return; sIdx++; uttAt = 0; speakNext(my); };
+    u.onerror = function(e){
+      if (my !== token || (e && (e.error === 'interrupted' || e.error === 'canceled'))) return;
+      stopSpeech(); // bij een echte fout stoppen in plaats van door alle zinnen te jagen
+    };
+    uttAt = Date.now();
+    synth.speak(u);
+  }
+  function speakFrom(i){
+    var my = ++token;
+    synth.cancel();
+    sIdx = Math.max(0, Math.min(i, sents.length - 1));
+    speaking = true; setPlaying(true); keepAwake(true);
+    if (!ticker) ticker = setInterval(tick, 250);
+    setTimeout(function(){ speakNext(my); }, 60);
+  }
+  function stopSpeech(){
+    token++; speaking = false; uttAt = 0;
+    if (synth) synth.cancel();
+    clearInterval(ticker); ticker = null;
+    setPlaying(false); keepAwake(false);
+  }
+  document.addEventListener('visibilitychange', function(){ if (document.hidden && speaking) stopSpeech(); });
 
   function setPlaying(on){
     document.body.classList.toggle('playing', on);
@@ -284,25 +352,20 @@ details[open] summary::after{content:"–"}
 
   function play(){
     if (!cur) return;
-    if (isDemo()) {
-      if (demoTimer) return;
-      demoTimer = setInterval(function(){
-        demoT += 0.25 * speeds[si];
-        if (demoT >= duration()) { demoT = 0; pause(); }
-        tick();
-      }, 250);
-      setPlaying(true);
-    } else {
-      audio.play().catch(function(){});
-    }
+    if (isSpeech()) { if (synth && !speaking && sents.length) speakFrom(sIdx >= sents.length ? 0 : sIdx); }
+    else audio.play().catch(function(){});
   }
   function pause(){
-    if (isDemo()) { clearInterval(demoTimer); demoTimer = null; setPlaying(false); }
+    if (isSpeech()) { if (speaking) stopSpeech(); }
     else audio.pause();
   }
   function seek(t){
     t = Math.max(0, Math.min(duration() - 0.5, t));
-    if (isDemo()) demoT = t; else audio.currentTime = t;
+    if (isSpeech()) {
+      var spc = secPerChar(), i = 0;
+      for (var k = 0; k < starts.length; k++) if (starts[k] * spc <= t) i = k;
+      if (speaking) speakFrom(i); else sIdx = i;
+    } else audio.currentTime = t;
     tick();
   }
 
@@ -318,7 +381,7 @@ details[open] summary::after{content:"–"}
     for (var i = 0; i < chs.length; i++) if (t >= chs[i].start) on = i;
     var btns = el('chapters').children;
     for (var j = 0; j < btns.length; j++) btns[j].classList.toggle('on', j === on);
-    if (cur && !isDemo() && Date.now() - lastSave > 4000) { lastSave = Date.now(); store.set('pos:' + cur.id, String(Math.floor(t))); }
+    if (cur && !isSpeech() && Date.now() - lastSave > 4000) { lastSave = Date.now(); store.set('pos:' + cur.id, String(Math.floor(t))); }
   }
 
   function esc(s){ return String(s == null ? '' : s).replace(/[&<>"']/g, function(c){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]; }); }
@@ -326,10 +389,13 @@ details[open] summary::after{content:"–"}
 
   function select(ep, autoplay){
     pause();
-    cur = ep; demoT = 0;
+    cur = ep; sIdx = 0;
+    if (!ep.audio) prepSpeech(ep);
     el('epDate').textContent = (ep.id === episodes[0].id ? 'Vandaag · ' : '') + dayLabel(ep.date, true);
     el('epTitle').textContent = ep.title || 'AI in 5';
     el('epSummary').textContent = ep.summary || '';
+    el('engine').textContent = ep.audio ? '' : (synth ? 'Voorgelezen door je iPhone · houd het scherm aan tijdens het luisteren' : 'Voorlezen werkt niet in deze browser; lees de volledige tekst hieronder.');
+    el('engine').style.display = ep.audio ? 'none' : '';
 
     var ch = el('chapters'); ch.innerHTML = '';
     (ep.chapters || []).forEach(function(c){
@@ -411,6 +477,7 @@ details[open] summary::after{content:"–"}
   el('speed').addEventListener('click', function(){
     si = (si + 1) % speeds.length;
     audio.playbackRate = speeds[si];
+    if (isSpeech() && speaking) speakFrom(sIdx);
     el('speed').textContent = String(speeds[si]).replace('.', ',') + '×';
   });
   audio.addEventListener('play', function(){ setPlaying(true); });
