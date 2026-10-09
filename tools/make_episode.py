@@ -102,11 +102,18 @@ def request(url, key, body=None, want_audio=False):
 
 
 def synthesize(text, cfg, key, out_path):
-    models = json.loads(request(f"{API}/models", key))
-    model = next((m for m in models if m.get("model_id") == cfg["model"]), None)
-    if not model:
-        raise RuntimeError(f"Model {cfg['model']} niet gevonden in dit ElevenLabs-account.")
-    use_tts = bool(model.get("can_do_text_to_speech"))
+    try:
+        models = json.loads(request(f"{API}/models", key))
+        model = next((m for m in models if m.get("model_id") == cfg["model"]), None)
+        if not model:
+            raise RuntimeError(f"Model {cfg['model']} niet gevonden in dit ElevenLabs-account.")
+        use_tts = bool(model.get("can_do_text_to_speech"))
+    except RuntimeError as e:
+        if "models_read" not in str(e) and "401" not in str(e):
+            raise
+        # Sleutel zonder leesrecht op modellen: ga uit van gewone text-to-speech.
+        print("  geen leesrecht op modellen, ik gebruik text-to-speech", flush=True)
+        use_tts = True
     voice = os.environ.get("ELEVENLABS_VOICE_ID") or cfg["voiceId"]
     if not voice or voice.startswith("VUL_"):
         raise RuntimeError("Geen voice ID: zet het secret ELEVENLABS_VOICE_ID of vul voiceId in tools/config.json.")
