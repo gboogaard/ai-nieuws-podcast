@@ -1,0 +1,13 @@
+{
+  "voiceId": "VUL_HIER_JE_VOICE_ID_IN",
+  "model": "eleven_v4",
+  "languageCode": "nl",
+  "outputFormat": "mp3_44100_128",
+  "voiceSettings": {
+    "stability": 0.65,
+    "similarity_boost": 0.8,
+    "style": 0.05,
+    "use_speaker_boost": true
+  },
+  "keepDays": 60
+}

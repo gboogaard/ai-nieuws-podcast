@@ -1,0 +1,61 @@
+name: Podcast maken en publiceren
+
+# Start zodra Claude om 08:00 een nieuwe aflevering (episodes/JJJJ-MM-DD.json) in de repo zet,
+# bij elke andere wijziging aan de app, of met de hand via Actions > Run workflow.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: podcast
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Audio maken met ElevenLabs
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          ELEVENLABS_VOICE_ID: ${{ secrets.ELEVENLABS_VOICE_ID }}
+        run: python tools/make_episode.py
+
+      - name: Audio en index terugzetten in de repo
+        run: |
+          git config user.name "AI in 5 bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A audio episodes
+          if git diff --cached --quiet; then
+            echo "Niets nieuws."
+          else
+            git commit -m "Audio en index $(date +%F)"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
