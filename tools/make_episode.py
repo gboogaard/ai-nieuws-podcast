@@ -170,7 +170,8 @@ def main():
         print(f"Aflevering {p.stem}: audio maken", flush=True)
         key = os.environ.get("ELEVENLABS_API_KEY")
         if not key:
-            sys.exit("ELEVENLABS_API_KEY ontbreekt (GitHub-secret).")
+            print("Geen ELEVENLABS_API_KEY: de app gebruikt de iPhone-stem.", flush=True)
+            continue
         text, _ = full_text(load_json(p))
         try:
             synthesize(text, cfg, key, mp3)
