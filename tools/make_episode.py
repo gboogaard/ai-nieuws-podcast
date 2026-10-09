@@ -207,4 +207,13 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except SystemExit as e:
+        if e.code not in (None, 0):
+            print(f"::error title=AI in 5::{e.code}", flush=True)
+        raise
+    except Exception as e:
+        # Als annotatie tonen, zodat de fout ook zonder logs zichtbaar is.
+        print(f"::error title=AI in 5::{type(e).__name__}: {e}".replace("\n", " "), flush=True)
+        sys.exit(1)
