@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-09",
+  "title": "ABN AMRO adverteert in ChatGPT, OpenAI-omzet lager dan gedacht",
+  "summary": "ABN AMRO test advertenties in ChatGPT, Nederlanders willen strikte AI-regels en een Amsterdams bedrijf koppelt drones in Oekraïne. Internationaal: de omzet van OpenAI, dure adviezen van AI-winkelassistenten en nieuw beleid voor Claude.",
+  "intro": "Goedemorgen. Het is vrijdag 9 oktober. Dit is AI in 5. Vandaag: ABN AMRO adverteert in ChatGPT, de jaaromzet van OpenAI blijkt lager dan gedacht, en AI-winkelassistenten raden rijke gebruikers duurdere opties aan.",
+  "sections": [
+    {
+      "key": "nl",
+      "title": "Nederland",
+      "script": "ABN AMRO adverteert als een van de eerste Europese banken in ChatGPT. Dat meldt Dutch IT Channel. Volgens de bank leverde de proef in de eerste tien dagen al hypotheekberekeningen en hypotheekgesprekken op. Consumenten vergelijken financiële producten steeds vaker via AI-assistenten, nog voordat ze een website bezoeken. De bank bereidt zich ook voor op digitale agents die namens klanten met banken praten. Voor een hypotheekadviseur betekent dit: controleer wat AI-assistenten nu over uw kantoor en tarieven zeggen.\n\nDan het vertrouwen van de burger. Achtenzeventig procent van de Nederlanders wil strikte regels voor het gebruik van AI en algoritmes door bedrijven en overheid. Dat blijkt uit het Privacy Marktonderzoek van KPMG. Slechts zesentwintig procent vertrouwt erop dat organisaties open zijn over AI en persoonsgegevens. Drieënzestig procent vertrouwt bij belangrijke beslissingen liever op mensen dan op AI. Een zorginstelling die AI inzet bij planning of triage, doet er dus goed aan dat actief en in begrijpelijke taal uit te leggen.\n\nTot slot het Amsterdamse softwarebedrijf Intelic. Zijn platform Nexus koppelt radars, camera's en drones van verschillende leveranciers in één systeem, meldt Defense News. Het wordt ingezet in Oekraïne om vijandelijke drones te herkennen en te onderscheppen. In de test nam een mens de laatste beslissing. Het ministerie van Defensie gaf Intelic een opdracht van dertig miljoen euro om de eigen luchtverdediging te verbeteren. Voor Nederlandse toeleveranciers in de maakindustrie laat dit zien dat software die bestaande apparatuur verbindt, een eigen markt is."
+    },
+    {
+      "key": "wereld",
+      "title": "Wereldwijd",
+      "script": "Dan het nieuws uit het buitenland. De jaaromzet van OpenAI ligt lager dan gedacht. Volgens beleggersdocumenten die de Financial Times inzag, kwam de geannualiseerde omzet in september uit op vijftig miljard dollar. Eerder circuleerde zeventig miljard. Het verschil komt door de rekenmethode, niet door minder vraag. Concurrent Anthropic telt ook verkopen via cloudpartners mee, OpenAI alleen directe inkomsten. Anthropic mikt op een beursgang in november. Voor een inkoper van AI-diensten is de les: vergelijk leveranciers op dezelfde maatstaf, niet op koppen in het nieuws.\n\nTen tweede een studie naar AI-winkelassistenten. Onderzoekers van Cisco en Carnegie Mellon lieten dertien taalmodellen keuzes maken namens gebruikers. Acht van de dertien raadden rijkere gebruikers systematisch duurdere opties aan, bijvoorbeeld vliegtickets en zorgverzekeringen. Vragen om de goedkoopste optie hielp weinig. Een concreet maximumbedrag noemen verkleinde het verschil bij de meeste sterke modellen bijna tot nul. Het gaat om een voorpublicatie met gesimuleerde gebruikers, meldt Het Laatste AI Nieuws. Een inkoopafdeling die agents laat bestellen, geeft dus altijd een harde prijsgrens mee.\n\nTen derde scherpt Anthropic zijn gebruiksbeleid voor Claude aan, met ingang van twaalf november. Er komt een nieuw hoofdstuk over nepaccounts, verzonnen nieuwssites en nepreviews. Claude mag geen mensen volgen zonder toestemming. Wie Claude hardware laat aansturen, moet zorgen dat een mens kan ingrijpen. Een bureau dat met Claude chatbots of producten bouwt, kan de eigen toepassingen nu langs de nieuwe regels leggen."
+    },
+    {
+      "key": "kansen",
+      "title": "Kansen",
+      "script": "Tot slot: de kansen.\n\nDe eerste kans ligt bij marketingbureaus voor financiële dienstverleners en makelaars. Klanten oriënteren zich steeds vaker via AI-assistenten, zoals de proef van ABN AMRO laat zien. Bureaus kunnen meten hoe hun klanten in die antwoorden verschijnen en daar de content op aanpassen. Wie nu begint, bouwt kennis op voordat de concurrentie dat doet.\n\nDe tweede kans is voor adviseurs in privacy en compliance. Met slechts een kwart vertrouwen in openheid over AI is er vraag naar heldere AI-verklaringen. Denk aan een korte, begrijpelijke uitleg voor gemeenten, zorginstellingen en webshops over waar en hoe zij AI gebruiken.\n\nDe derde kans ligt bij softwarebedrijven die inkoopsystemen bouwen. Nu blijkt dat AI-assistenten duurdere keuzes kunnen maken, is er ruimte voor controlelagen. Bijvoorbeeld een module die elke bestelling van een agent toetst aan een budget en een prijsvergelijking."
+    }
+  ],
+  "outro": "Dat was AI in 5, het AI-nieuws van vrijdag 9 oktober in vijf minuten. Dank u voor het luisteren. Morgen om acht uur weer.",
+  "items": [
+    {
+      "section": "nl",
+      "headline": "ABN AMRO boekt eerste resultaten met advertenties in ChatGPT",
+      "takeaway": "Klanten oriënteren zich via AI-assistenten op financiële producten. Hypotheekadviseurs doen er goed aan te controleren wat AI-assistenten over hen zeggen.",
+      "source_name": "Dutch IT Channel",
+      "source_url": "https://www.dutchitchannel.nl/news/762044/abn-amro-boekt-eerste-successen-met-advertentiepilot-op-chatgpt"
+    },
+    {
+      "section": "nl",
+      "headline": "KPMG: 78 procent van de Nederlanders wil strikte AI-regels",
+      "takeaway": "Slechts 26 procent vertrouwt op openheid over AI en persoonsgegevens. Zorginstellingen die AI inzetten, leggen dat beter actief uit.",
+      "source_name": "Dutch IT Channel",
+      "source_url": "https://www.dutchitchannel.nl/news/762109/nederlanders-willen-actie-vanuit-eu-tegen-cyberdreigingen-en-strengere-ai-regels"
+    },
+    {
+      "section": "nl",
+      "headline": "Amsterdamse Intelic koppelt dronesystemen in Oekraïne, Defensie gunt 30 miljoen euro",
+      "takeaway": "Software die bestaande apparatuur van verschillende leveranciers verbindt, is een eigen markt, ook voor Nederlandse toeleveranciers.",
+      "source_name": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/08/dutch-firm-uses-ai-to-help-drone-systems-talk-on-ukraines-battlefield/"
+    },
+    {
+      "section": "wereld",
+      "headline": "Jaaromzet OpenAI 50 miljard dollar, niet 70 miljard",
+      "takeaway": "Het verschil komt door de rekenmethode. Inkopers vergelijken AI-leveranciers het best op dezelfde maatstaf.",
+      "source_name": "Dutch IT Channel, via Financial Times",
+      "source_url": "https://www.dutchitchannel.nl/news/762245/openai-omzet-valt-20-miljard-dollar-lager-uit-door-boekhoudkundig-verschil"
+    },
+    {
+      "section": "wereld",
+      "headline": "AI-winkelassistenten raden rijke gebruikers duurdere opties aan",
+      "takeaway": "Acht van dertien modellen kozen duurder voor rijkere profielen. Een harde prijsgrens meegeven verkleint het verschil.",
+      "source_name": "Het Laatste AI Nieuws",
+      "source_url": "https://www.hetlaatsteainieuws.nl/nieuws/ai-shoppingassistent-duurder-voor-rijke-gebruikers"
+    },
+    {
+      "section": "wereld",
+      "headline": "Anthropic scherpt gebruiksbeleid Claude aan per 12 november",
+      "takeaway": "Nieuwe regels over nepaccounts, nepreviews, surveillance en hardware. Bouwers van Claude-toepassingen kunnen hun producten nu toetsen.",
+      "source_name": "Het Laatste AI Nieuws",
+      "source_url": "https://www.hetlaatsteainieuws.nl/nieuws/claude-gebruiksbeleid-wreed-gedrag-verboden"
+    },
+    {
+      "section": "kansen",
+      "headline": "Zichtbaarheid in AI-assistenten voor financiële dienstverleners",
+      "takeaway": "Marketingbureaus meten hoe klanten in AI-antwoorden verschijnen en passen content daarop aan.",
+      "source_name": "",
+      "source_url": ""
+    },
+    {
+      "section": "kansen",
+      "headline": "Begrijpelijke AI-verklaringen",
+      "takeaway": "Privacy- en complianceadviseurs helpen gemeenten, zorg en webshops uitleggen waar zij AI gebruiken.",
+      "source_name": "",
+      "source_url": ""
+    },
+    {
+      "section": "kansen",
+      "headline": "Controlelaag voor inkoop-agents",
+      "takeaway": "Softwarebedrijven bouwen modules die bestellingen van agents toetsen aan budget en prijsvergelijking.",
+      "source_name": "",
+      "source_url": ""
+    }
+  ]
+}
