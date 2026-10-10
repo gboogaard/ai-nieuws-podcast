@@ -4,7 +4,7 @@ Deze instructie volgt de geplande taak elke ochtend. Het resultaat is één best
 
 ## Doel
 
-Een zakelijk nieuwsbulletin van vijf minuten over AI, voorgelezen in het Nederlands. Luisteraars zijn professionals en ondernemers. Ze willen weten wat er gebeurde, wat het voor hen betekent en waar kansen liggen.
+Een zakelijk nieuwsbulletin van ongeveer vijf minuten over AI, voorgelezen in het Nederlands. Luisteraars zijn professionals en ondernemers. Ze willen weten wat er gebeurde, wat het voor hen betekent en waar kansen liggen.
 
 ## Onderzoek
 
@@ -18,15 +18,17 @@ Een zakelijk nieuwsbulletin van vijf minuten over AI, voorgelezen in het Nederla
 
 ## Opbouw en lengte
 
-Totaal **650 tot 750 woorden** (ongeveer vijf minuten).
+De lengte volgt het nieuws: niet elke dag is hetzelfde. Totaal **550 tot 1.000 woorden** (ongeveer vier tot zeven minuten). Vul nooit op om een lengte te halen; een rustige dag is gewoon een korte aflevering.
+
+De woorden per blok hieronder zijn het **normale** aantal. Is er veel praktische informatie te delen in **Werk** of **Kansen**, verdubbel dat blok dan tot maximaal **300 woorden**. Dat mag voor één of beide blokken. Doe het alleen als die extra ruimte concrete, bruikbare inhoud oplevert: cijfers, voorbeelden, stappen die de luisteraar kan zetten.
 
 | Onderdeel | Woorden | Inhoud |
 | --- | --- | --- |
 | intro | 30-45 | "Goedemorgen. Het is [weekdag] [datum]. Dit is AI in 5." Daarna in één zin de drie hoofdpunten. |
 | sectie `nl` | 170-200 | Nederlands AI-nieuws. Per bericht: wat gebeurde er, waarom telt het, één praktisch voorbeeld. |
 | sectie `wereld` | 170-200 | Internationaal nieuws, steeds vertaald naar de Nederlandse praktijk, met een praktisch voorbeeld. |
-| sectie `werk` | 120-150 | AI en (toekomstig) werk: wat verandert er aan banen, taken en vaardigheden, met cijfers waar die er zijn. Eindig met wat het betekent voor werkenden, werkgevers of het onderwijs. |
-| sectie `kansen` | 100-130 | Twee concrete marktkansen die uit het nieuws volgen: voor wie, wat je kunt doen, waarom nu. |
+| sectie `werk` | 120-150, bij veel praktische info tot 300 | AI en (toekomstig) werk: wat verandert er aan banen, taken en vaardigheden, met cijfers waar die er zijn. Eindig met wat het betekent voor werkenden, werkgevers of het onderwijs. |
+| sectie `kansen` | 100-130, bij veel praktische info tot 300 | Twee (of bij een uitgebreid blok drie à vier) concrete marktkansen die uit het nieuws volgen: voor wie, wat je kunt doen, waarom nu. |
 | outro | 20-35 | Korte afsluiting: "Dat was AI in 5. Morgen om acht uur weer." |
 
 ## Toon: zakelijk nieuwsbulletin
