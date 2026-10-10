@@ -40,7 +40,7 @@ Op woensdag komen er twee blokken bij. Totaal dan **800 tot 1.300 woorden**.
 | Onderdeel | Woorden | Inhoud |
 | --- | --- | --- |
 | sectie `onderwijs` (na `werk`) | 150-250 | **Onderwijs en AI**, met nadruk op het mbo: beleid en richtlijnen (OCW, MBO Raad, Kennisnet, SURF, Npuls, Inspectie), AI-platforms voor het onderwijs zoals EduGenAI, toetsing en fraude, AI-geletterdheid (EU AI Act), studentbegeleiding en welzijn, onderzoek. Nieuws van de afgelopen week. Per bericht: wat betekent dit voor docenten, begeleiders en studenten. |
-| sectie `persoonlijk` (na `kansen`) | 200-300 | **Uw kansen**: twee of drie concrete acties voor de luisteraar zelf, op basis van het nieuws van deze week en het luisterprofiel in de opdracht van de geplande taak. Eén voor het eigen bedrijf, één voor het werk in het onderwijs, eventueel één extra. Per actie: welk nieuws, wat precies te doen, hoeveel tijd het kost, en wat het oplevert. Schrijf in de jij-vorm. Noem geen collega's, studenten of vertrouwelijke zaken: de aflevering is openbaar. |
+| sectie `persoonlijk` (na `kansen`) | 200-300 | **Uw kansen**: twee concrete acties voor de luisteraar zelf, op basis van het nieuws van deze week en het luisterprofiel in de opdracht van de geplande taak. Eén kans om als ondernemer iets met AI te doen (een dienst, product, training of adviesrol die uit het nieuws volgt), en één voor het werk als I-coach in het onderwijs. Per actie: welk nieuws, wat precies te doen, hoeveel tijd het kost, en wat het oplevert. Schrijf in de jij-vorm. Noem geen collega's, studenten of vertrouwelijke zaken: de aflevering is openbaar. |
 
 Overgangen op woensdag: "Dan onderwijs en AI." en "Tot slot, speciaal voor jou: jouw kansen deze week."
 
