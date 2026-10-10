@@ -148,6 +148,29 @@ def synthesize(text, cfg, key, out_path):
     out_path.write_bytes(audio)
 
 
+def record_usage(date, chars, cfg, key):
+    """Houdt per aflevering het aantal tekens bij in episodes/usage.json, plus het ElevenLabs-tegoed als de sleutel dat mag lezen."""
+    path = EP_DIR / "usage.json"
+    data = load_json(path) if path.exists() else {"episodes": []}
+    data["episodes"] = [e for e in data.get("episodes", []) if e.get("date") != date]
+    data["episodes"].append({"date": date, "chars": chars, "model": cfg["model"]})
+    data["episodes"] = sorted(data["episodes"], key=lambda e: e["date"])[-120:]
+    try:
+        sub = json.loads(request(f"{API}/user/subscription", key))
+        data["subscription"] = {
+            "checked": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
+            "tier": sub.get("tier"),
+            "character_count": sub.get("character_count"),
+            "character_limit": sub.get("character_limit"),
+            "next_reset": dt.datetime.fromtimestamp(sub["next_character_count_reset_unix"], dt.timezone.utc).date().isoformat()
+            if sub.get("next_character_count_reset_unix") else None,
+        }
+    except Exception as e:
+        data["subscription"] = {"checked": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
+                                "error": "tegoed niet leesbaar (sleutel mist leesrecht 'User')" if "401" in str(e) else str(e)[:200]}
+    path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
 def bitrate(cfg):
     m = re.search(r"_(\d+)$", cfg.get("outputFormat", "mp3_44100_128"))
     return int(m.group(1)) if m else 128
@@ -175,6 +198,7 @@ def main():
         text, _ = full_text(load_json(p))
         try:
             synthesize(text, cfg, key, mp3)
+            record_usage(p.stem, len(text), cfg, key)
         except Exception as e:
             # Niet stoppen: de app leest de aflevering dan voor met de iPhone-stem.
             mp3.unlink(missing_ok=True)
