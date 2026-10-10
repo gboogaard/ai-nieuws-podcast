@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>AI in een paar minuten</title>
 <meta name="description" content="Elke ochtend in een paar minuten het belangrijkste AI-nieuws: Nederland, wereldwijd en de kansen.">
-<meta name="theme-color" content="#1A0B2E">
+<meta name="theme-color" content="#1F0A0C">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -21,9 +21,9 @@
   --ink:#FFF7EF;
   --ink-2:rgba(255,247,239,.78);
   --ink-3:rgba(255,247,239,.62);
-  --ground:#1A0B2E;
-  --plum:#3B1466;
-  --violet:#7B2FD0;
+  --ground:#1F0A0C;
+  --plum:#4A0F18;
+  --violet:#D7263D;
   --orange:#FF7A2E;
   --apricot:#FFB25C;
   --glass:rgba(255,255,255,.08);
@@ -39,13 +39,13 @@ a{color:var(--apricot)}a:hover{color:#FFD2A1}
 
 /* achtergrond */
 .sky{position:fixed;inset:0;z-index:0;overflow:hidden;background:
-  radial-gradient(120% 80% at 50% -10%, #4A1A80 0%, transparent 60%),
-  linear-gradient(170deg,#24103F 0%,#1A0B2E 55%,#2A0E2A 100%)}
+  radial-gradient(120% 80% at 50% -10%, #7A1222 0%, transparent 60%),
+  linear-gradient(170deg,#2E0C12 0%,#1F0A0C 55%,#2A0D0A 100%)}
 .blob{position:absolute;border-radius:50%;opacity:.55;will-change:transform;
   animation:drift 22s ease-in-out infinite alternate;transition:opacity 1.2s ease}
-.b1{width:70vmax;height:70vmax;left:-25vmax;top:-20vmax;background:radial-gradient(circle,#8E3BE6 0%,rgba(142,59,230,0) 65%)}
+.b1{width:70vmax;height:70vmax;left:-25vmax;top:-20vmax;background:radial-gradient(circle,#E0303F 0%,rgba(224,48,63,0) 65%)}
 .b2{width:60vmax;height:60vmax;right:-25vmax;top:20vh;background:radial-gradient(circle,#FF7A2E 0%,rgba(255,122,46,0) 62%);animation-delay:-6s;animation-duration:26s}
-.b3{width:55vmax;height:55vmax;left:5vmax;bottom:-30vmax;background:radial-gradient(circle,#C2398A 0%,rgba(194,57,138,0) 62%);animation-delay:-12s;animation-duration:30s}
+.b3{width:55vmax;height:55vmax;left:5vmax;bottom:-30vmax;background:radial-gradient(circle,#A8102E 0%,rgba(168,16,46,0) 62%);animation-delay:-12s;animation-duration:30s}
 @keyframes drift{
   0%{transform:translate3d(0,0,0) scale(1)}
   50%{transform:translate3d(6vmax,4vmax,0) scale(1.12)}
@@ -61,7 +61,7 @@ body.playing .b3{animation-duration:13s}
 header{display:flex;align-items:center;justify-content:space-between;margin-bottom:22px}
 .brand{display:flex;align-items:center;gap:10px}
 .mark{width:38px;height:38px;border-radius:12px;background:linear-gradient(135deg,var(--violet),var(--orange));
-  display:grid;place-items:center;font-family:'Instrument Serif',serif;font-size:24px;box-shadow:0 6px 20px rgba(255,122,46,.35)}
+  display:grid;place-items:center;font-family:'Instrument Serif',serif;font-size:19px;font-style:italic;box-shadow:0 6px 20px rgba(255,122,46,.35)}
 .brand b{font-weight:700;font-size:18px;letter-spacing:.01em}
 .brand small{display:block;color:var(--ink-3);font-size:12.5px;line-height:1.2}
 .live{font-size:12.5px;color:var(--ink-2);display:flex;align-items:center;gap:6px}
@@ -81,7 +81,7 @@ body.playing .live i{animation:ping 1.6s infinite}
 
 .stage{display:flex;align-items:center;gap:18px;margin:6px 0 16px}
 .play{position:relative;flex:none;width:84px;height:84px;border-radius:50%;
-  background:linear-gradient(140deg,#FF9A4A,#FF6A2A 45%,#B63CC9);
+  background:linear-gradient(140deg,#FF9A4A,#FF6A2A 45%,#D7263D);
   display:grid;place-items:center;box-shadow:0 14px 34px rgba(255,106,42,.45);transition:transform .2s ease}
 .play:active{transform:scale(.94)}
 .play::before,.play::after{content:"";position:absolute;inset:-6px;border-radius:50%;border:2px solid rgba(255,178,92,.55);opacity:0}
@@ -95,7 +95,7 @@ body.playing .play .i-pause{display:block}
 
 .bars{flex:1;height:64px;display:flex;align-items:center;gap:4px}
 .bars span{flex:1;height:100%;border-radius:4px;transform-origin:center;
-  background:linear-gradient(180deg,var(--apricot),var(--orange) 45%,#A94BE8);
+  background:linear-gradient(180deg,var(--apricot),var(--orange) 45%,#E0303F);
   transform:scaleY(.12);opacity:.75;transition:transform .5s ease;
   animation:bounce var(--d) ease-in-out var(--dl) infinite alternate;animation-play-state:paused}
 body.playing .bars span{animation-play-state:running;opacity:1}
@@ -118,11 +118,16 @@ input[type=range]::-moz-range-thumb{width:18px;height:18px;border:0;border-radiu
 .speed{padding:0 14px;border:1px solid var(--line);border-radius:999px;height:40px;font-variant-numeric:tabular-nums}
 
 .chapters{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin-top:16px}
-.chap{min-height:56px;border-radius:16px;border:1px solid var(--line);padding:8px 10px;text-align:left;
+.chap{position:relative;overflow:hidden;min-height:64px;border-radius:16px;border:1px solid var(--line);padding:8px 10px;text-align:left;
   display:flex;flex-direction:column;justify-content:center;transition:background .3s ease,border-color .3s ease}
 .chap small{color:var(--ink-3);font-size:12px;font-variant-numeric:tabular-nums}
 .chap b{font-size:14.5px;font-weight:600}
-.chap.on{background:linear-gradient(135deg,rgba(123,47,208,.55),rgba(255,122,46,.45));border-color:rgba(255,178,92,.6)}
+.chap .st{font-size:12px;color:var(--ink-3);font-variant-numeric:tabular-nums}
+.chap.on .st{color:var(--apricot);font-weight:600}
+.chap.done .st{color:var(--ink-2)}
+.chap .bar{position:absolute;left:0;bottom:0;height:3px;width:0;background:linear-gradient(90deg,var(--apricot),var(--orange));transition:width .25s linear}
+.tag .len{font-weight:500;letter-spacing:0;text-transform:none;opacity:.85}
+.chap.on{background:linear-gradient(135deg,rgba(215,38,61,.55),rgba(255,122,46,.45));border-color:rgba(255,178,92,.6)}
 
 /* secties */
 section{margin-top:26px}
@@ -131,10 +136,10 @@ h2{font-family:'Instrument Serif',serif;font-weight:400;font-size:26px;margin:0 
 .tag{display:inline-block;font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;
   padding:4px 10px;border-radius:999px;margin-bottom:8px}
 .tag.nl{background:rgba(255,122,46,.22);color:#FFC48C}
-.tag.wereld{background:rgba(142,59,230,.3);color:#D9B8FF}
-.tag.werk{background:rgba(194,57,138,.3);color:#FFC2E4}
+.tag.wereld{background:rgba(224,48,63,.3);color:#FFC2C7}
+.tag.werk{background:rgba(168,16,46,.45);color:#FFB8C8}
 .tag.onderwijs{background:rgba(90,120,255,.28);color:#C9D3FF}
-.tag.persoonlijk{background:linear-gradient(135deg,rgba(123,47,208,.55),rgba(255,122,46,.5));color:#FFF7EF}
+.tag.persoonlijk{background:linear-gradient(135deg,rgba(215,38,61,.6),rgba(255,122,46,.5));color:#FFF7EF}
 .tag.kansen{background:rgba(255,255,255,.14);color:var(--ink)}
 .item{padding:16px 18px;margin-bottom:10px}
 .item h3{font-size:16.5px;line-height:1.3;margin:0 0 6px;font-weight:600}
@@ -144,7 +149,7 @@ h2{font-family:'Instrument Serif',serif;font-weight:400;font-size:26px;margin:0 
 .archive{display:flex;flex-direction:column;gap:8px}
 .ep{display:flex;align-items:center;gap:14px;padding:12px 14px;text-align:left;width:100%}
 .ep .d{flex:none;width:52px;height:52px;border-radius:14px;display:flex;flex-direction:column;align-items:center;justify-content:center;
-  background:linear-gradient(150deg,rgba(123,47,208,.6),rgba(255,122,46,.5))}
+  background:linear-gradient(150deg,rgba(215,38,61,.6),rgba(255,122,46,.5))}
 .ep .d b{font-size:19px;line-height:1}
 .ep .d small{font-size:11px;text-transform:uppercase;letter-spacing:.06em}
 .ep .t{flex:1;min-width:0}
@@ -174,7 +179,7 @@ details[open] summary::after{content:"–"}
 <main class="wrap">
   <header>
     <div class="brand">
-      <div class="mark" aria-hidden="true">5</div>
+      <div class="mark" aria-hidden="true">AI</div>
       <div><b>AI in een paar minuten</b><small>Dagelijks AI-nieuws</small></div>
     </div>
     <div class="live" id="today"><i></i><span>Elke ochtend 08:00</span></div>
@@ -299,7 +304,9 @@ details[open] summary::after{content:"–"}
   function secPerChar(){ return (cur.duration || 300) / totalChars; }
   function rate(){ return {1: 1, 1.25: 1.18, 1.5: 1.35, 0.85: 0.9}[speeds[si]] || 1; }
   function duration(){ return isSpeech() ? (cur.duration || 300) : (isFinite(audio.duration) && audio.duration > 0 ? audio.duration : (cur ? cur.duration || 300 : 300)); }
+  var pendingSeek = null;
   function time(){
+    if (pendingSeek != null && cur && cur.audio) return pendingSeek;
     if (!isSpeech()) return audio.currentTime;
     if (!sents.length) return 0;
     if (sIdx >= sents.length) return duration();
@@ -368,6 +375,9 @@ details[open] summary::after{content:"–"}
       var spc = secPerChar(), i = 0;
       for (var k = 0; k < starts.length; k++) if (starts[k] * spc <= t) i = k;
       if (speaking) speakFrom(i); else sIdx = i;
+    } else if (audio.readyState < 1) {
+      pendingSeek = t; // audio nog niet geladen: positie onthouden en toepassen zodra het kan
+      audio.load();
     } else audio.currentTime = t;
     tick();
   }
@@ -383,7 +393,17 @@ details[open] summary::after{content:"–"}
     var chs = (cur && cur.chapters) || [], on = 0;
     for (var i = 0; i < chs.length; i++) if (t >= chs[i].start) on = i;
     var btns = el('chapters').children;
-    for (var j = 0; j < btns.length; j++) btns[j].classList.toggle('on', j === on);
+    for (var j = 0; j < btns.length; j++) {
+      var c = chs[j]; if (!c) continue;
+      var end = j + 1 < chs.length ? chs[j + 1].start : d, len = Math.max(1, end - c.start);
+      var frac = t >= end ? 1 : (t <= c.start ? 0 : (t - c.start) / len);
+      var started = t > 0.5 || playing();
+      btns[j].classList.toggle('on', j === on && started);
+      btns[j].classList.toggle('done', frac >= 1 && started);
+      btns[j].querySelector('.bar').style.width = (started ? frac * 100 : 0) + '%';
+      btns[j].querySelector('.st').textContent = !started || frac === 0 ? fmt(len) + ' min'
+        : (frac >= 1 ? 'Voorbij' : 'nog ' + fmt(end - t));
+    }
     if (cur && !isSpeech() && Date.now() - lastSave > 4000) { lastSave = Date.now(); store.set('pos:' + cur.id, String(Math.floor(t))); }
   }
 
@@ -406,7 +426,7 @@ details[open] summary::after{content:"–"}
     (ep.chapters || []).forEach(function(c){
       var b = document.createElement('button');
       b.className = 'chap';
-      b.innerHTML = '<small>' + fmt(c.start) + '</small><b>' + esc(c.title || SECTION[c.key] || '') + '</b>';
+      b.innerHTML = '<small>' + fmt(c.start) + '</small><b>' + esc(c.title || SECTION[c.key] || '') + '</b><span class="st"></span><span class="bar"></span>';
       b.addEventListener('click', function(){ seek(c.start + 0.01); play(); });
       ch.appendChild(b);
     });
@@ -415,7 +435,13 @@ details[open] summary::after{content:"–"}
     ['nl', 'wereld', 'werk', 'onderwijs', 'kansen', 'persoonlijk'].forEach(function(key){
       var list = (ep.items || []).filter(function(it){ return it.section === key; });
       if (!list.length) return;
-      html += '<div class="group"><span class="tag ' + key + '">' + SECTION[key] + '</span>';
+      var cix = -1; (ep.chapters || []).forEach(function(c, i){ if (c.key === key) cix = i; });
+      var clen = '';
+      if (cix >= 0) {
+        var cend = cix + 1 < ep.chapters.length ? ep.chapters[cix + 1].start : (ep.duration || 0);
+        if (cend > ep.chapters[cix].start) clen = ' <span class="len">· ' + fmt(cend - ep.chapters[cix].start) + ' min</span>';
+      }
+      html += '<div class="group"><span class="tag ' + key + '">' + SECTION[key] + clen + '</span>';
       list.forEach(function(it){
         var u = safeUrl(it.source_url);
         html += '<div class="card item"><h3>' + esc(it.headline) + '</h3><p>' + esc(it.takeaway) + '</p>' +
@@ -489,7 +515,7 @@ details[open] summary::after{content:"–"}
   audio.addEventListener('pause', function(){ setPlaying(false); if (cur) store.set('pos:' + cur.id, String(Math.floor(audio.currentTime))); });
   audio.addEventListener('ended', function(){ if (cur) store.set('pos:' + cur.id, '0'); });
   audio.addEventListener('timeupdate', tick);
-  audio.addEventListener('loadedmetadata', tick);
+  audio.addEventListener('loadedmetadata', function(){ if (pendingSeek != null) { audio.currentTime = pendingSeek; pendingSeek = null; } tick(); });
 
   if ('mediaSession' in navigator) {
     var ms = navigator.mediaSession;
