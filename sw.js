@@ -1,5 +1,5 @@
 // AI in een paar minuten — service worker: app-schil offline, afleveringen altijd vers.
-const CACHE = 'ai-in-5-v4';
+const CACHE = 'ai-in-5-v5';
 const SHELL = ['./', 'index.html', 'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png'];
 
 self.addEventListener('install', (e) => {
