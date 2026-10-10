@@ -18,7 +18,10 @@ import datetime as dt
 import json
 import os
 import re
+import shutil
+import subprocess
 import sys
+import tempfile
 import time
 import urllib.error
 import urllib.request
@@ -102,7 +105,8 @@ def request(url, key, body=None, want_audio=False):
     raise RuntimeError(f"ElevenLabs-fout bij {url.split('?')[0]}: {last}")
 
 
-def synthesize(text, cfg, key, out_path):
+def speech_mode(cfg, key):
+    """Bepaalt stem en route (text-to-speech of text-to-dialogue)."""
     try:
         models = json.loads(request(f"{API}/models", key))
         model = next((m for m in models if m.get("model_id") == cfg["model"]), None)
@@ -118,9 +122,15 @@ def synthesize(text, cfg, key, out_path):
     voice = os.environ.get("ELEVENLABS_VOICE_ID") or cfg["voiceId"]
     if not voice or voice.startswith("VUL_"):
         raise RuntimeError("Geen voice ID: zet het secret ELEVENLABS_VOICE_ID of vul voiceId in tools/config.json.")
+    print(f"  model {cfg['model']} via {'text-to-speech' if use_tts else 'text-to-dialogue'}", flush=True)
+    return use_tts, voice
+
+
+def synthesize(text, cfg, key, mode):
+    """Spreekt één blok tekst in en geeft de mp3-bytes terug."""
+    use_tts, voice = mode
     fmt = cfg.get("outputFormat", "mp3_44100_128")
     chunks = split_text(text, 9000 if use_tts else 1900)
-    print(f"  model {cfg['model']} via {'text-to-speech' if use_tts else 'text-to-dialogue'}, {len(chunks)} deel/delen", flush=True)
     audio = b""
     for i, chunk in enumerate(chunks):
         if use_tts:
@@ -145,8 +155,79 @@ def synthesize(text, cfg, key, out_path):
                 audio += request(url, key, body, want_audio=True)
             else:
                 raise
-        print(f"  deel {i + 1}/{len(chunks)} klaar", flush=True)
-    out_path.write_bytes(audio)
+    return audio
+
+
+def blocks(ep):
+    """Intro, secties en afsluiting als losse blokken: (key, titel, tekst)."""
+    out = []
+    if ep.get("intro", "").strip():
+        out.append(("intro", "", ep["intro"].strip()))
+    for s in ep.get("sections", []):
+        if s.get("script", "").strip():
+            out.append((s.get("key", ""), s.get("title") or SECTION_TITLES.get(s.get("key"), ""), s["script"].strip()))
+    if ep.get("outro", "").strip():
+        out.append(("outro", "", ep["outro"].strip()))
+    return out
+
+
+def probe_seconds(path):
+    r = subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(path)],
+                       capture_output=True, text=True, check=True)
+    return float(r.stdout.strip())
+
+
+def assemble(segments, pause, cfg, out_path):
+    """Plakt de blokken achter elkaar met `pause` seconden stilte ertussen. Geeft per blok de starttijd en de totale duur."""
+    br = bitrate(cfg)
+    if not shutil.which("ffmpeg"):
+        print("::warning title=AI in 5::ffmpeg ontbreekt, blokken zonder pauze aan elkaar geplakt", flush=True)
+        starts, t, data = [], 0.0, b""
+        for seg in segments:
+            starts.append(t)
+            b = Path(seg).read_bytes()
+            data += b
+            t += len(b) * 8 / (br * 1000)
+        out_path.write_bytes(data)
+        return starts, t
+    tmp = Path(segments[0]).parent
+    sil = tmp / "pauze.mp3"
+    if pause > 0:
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "lavfi", "-i", "anullsrc=r=44100:cl=mono",
+                        "-t", str(pause), "-c:a", "libmp3lame", "-b:a", f"{br}k", str(sil)], check=True)
+    lst = tmp / "lijst.txt"
+    lines, starts, t = [], [], 0.0
+    for i, seg in enumerate(segments):
+        if i > 0 and pause > 0:
+            lines.append(f"file '{sil}'")
+            t += pause
+        starts.append(t)
+        lines.append(f"file '{seg}'")
+        t += probe_seconds(seg)
+    lst.write_text("\n".join(lines) + "\n")
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", str(lst),
+                    "-ac", "1", "-ar", "44100", "-c:a", "libmp3lame", "-b:a", f"{br}k", str(out_path)], check=True)
+    return starts, probe_seconds(out_path)
+
+
+def make_audio(ep, cfg, key, mp3, synth=synthesize):
+    """Maakt de mp3 van een aflevering, blok voor blok, en schrijft de tijden naar audio/<datum>.json."""
+    mode = speech_mode(cfg, key) if synth is synthesize else None
+    parts = blocks(ep)
+    with tempfile.TemporaryDirectory() as tmp:
+        segs = []
+        for i, (k, _, text) in enumerate(parts):
+            seg = Path(tmp) / f"blok{i:02d}.mp3"
+            seg.write_bytes(synth(text, cfg, key, mode))
+            segs.append(seg)
+            print(f"  blok {i + 1}/{len(parts)} ({k}) klaar", flush=True)
+        starts, duration = assemble(segs, float(cfg.get("pauseSeconds", 4)), cfg, mp3)
+    chapters = [{"key": k, "title": t, "start": round(s)} for (k, t, _), s in zip(parts, starts) if k not in ("intro", "outro")]
+    if chapters:
+        chapters[0]["start"] = 0
+    timing = {"duration": round(duration), "chapters": chapters}
+    mp3.with_suffix(".json").write_text(json.dumps(timing, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    return sum(len(t) for _, _, t in parts)
 
 
 def record_usage(date, chars, cfg, key):
@@ -196,13 +277,13 @@ def main():
         if not key:
             print("Geen ELEVENLABS_API_KEY: de app gebruikt de iPhone-stem.", flush=True)
             continue
-        text, _ = full_text(load_json(p))
         try:
-            synthesize(text, cfg, key, mp3)
-            record_usage(p.stem, len(text), cfg, key)
+            chars = make_audio(load_json(p), cfg, key, mp3)
+            record_usage(p.stem, chars, cfg, key)
         except Exception as e:
             # Niet stoppen: de app leest de aflevering dan voor met de iPhone-stem.
             mp3.unlink(missing_ok=True)
+            mp3.with_suffix(".json").unlink(missing_ok=True)
             print(f"::warning title=AI in 5 audio::{e}".replace("\n", " "), flush=True)
 
     # 3. opruimen
@@ -210,6 +291,7 @@ def main():
         if p.stem < cutoff:
             p.unlink()
             (AUDIO_DIR / f"{p.stem}.mp3").unlink(missing_ok=True)
+            (AUDIO_DIR / f"{p.stem}.json").unlink(missing_ok=True)
             print(f"Opgeruimd: {p.stem}")
 
     # 4. index opbouwen
@@ -218,9 +300,15 @@ def main():
         ep = load_json(p)
         mp3 = AUDIO_DIR / f"{p.stem}.mp3"
         text, starts = full_text(ep)
+        timing = AUDIO_DIR / f"{p.stem}.json"
+        chapters = None
         if mp3.exists():
-            duration = round(mp3.stat().st_size * 8 / (bitrate(cfg) * 1000))
             audio = f"audio/{p.stem}.mp3"
+            if timing.exists():
+                tj = load_json(timing)
+                duration, chapters = tj["duration"], tj["chapters"]
+            else:
+                duration = round(mp3.stat().st_size * 8 / (bitrate(cfg) * 1000))
         else:
             # Geen mp3: de app leest de tekst voor met de iPhone-stem.
             duration = round(len(text.split()) / 150 * 60)
@@ -233,7 +321,7 @@ def main():
             "summary": ep.get("summary", ""),
             "duration": duration,
             "audio": audio,
-            "chapters": [{"key": k, "title": t, "start": round(s / total * duration)} for k, t, s in starts],
+            "chapters": chapters or [{"key": k, "title": t, "start": round(s / total * duration)} for k, t, s in starts],
             "items": ep.get("items", []),
             "transcript": text,
         })

@@ -9,5 +9,6 @@
     "style": 0.05,
     "use_speaker_boost": true
   },
-  "keepDays": 60
+  "keepDays": 60,
+  "pauseSeconds": 4
 }

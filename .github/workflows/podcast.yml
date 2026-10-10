@@ -26,6 +26,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: ffmpeg klaarzetten (voor de pauzes tussen de blokken)
+        run: which ffmpeg || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
+
       - name: Audio maken met ElevenLabs
         env:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
