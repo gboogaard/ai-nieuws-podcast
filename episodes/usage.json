@@ -7,13 +7,13 @@
     },
     {
       "date": "2026-10-10",
-      "chars": 4403,
+      "chars": 8218,
       "model": "eleven_v4"
     }
   ],
   "note": "De aflevering van 2026-10-09 is twee keer gemaakt (twee tests), dus het werkelijke verbruik ligt hoger.",
   "subscription": {
-    "checked": "2026-10-10T05:51:36+00:00",
+    "checked": "2026-10-10T19:56:48+00:00",
     "error": "tegoed niet leesbaar (sleutel mist leesrecht 'User')"
   }
 }
