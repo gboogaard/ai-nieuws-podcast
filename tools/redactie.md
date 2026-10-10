@@ -29,7 +29,20 @@ De woorden per blok hieronder zijn het **normale** aantal. Is er veel praktische
 | sectie `wereld` | 170-200 | Internationaal nieuws, steeds vertaald naar de Nederlandse praktijk, met een praktisch voorbeeld. |
 | sectie `werk` | 120-150, bij veel praktische info tot 300 | AI en (toekomstig) werk: wat verandert er aan banen, taken en vaardigheden, met cijfers waar die er zijn. Eindig met wat het betekent voor werkenden, werkgevers of het onderwijs. |
 | sectie `kansen` | 100-130, bij veel praktische info tot 300 | Twee (of bij een uitgebreid blok drie à vier) concrete marktkansen die uit het nieuws volgen: voor wie, wat je kunt doen, waarom nu. |
-| outro | 20-35 | Korte afsluiting: "Dat was AI in 5. Morgen om acht uur weer." |
+| outro | 20-35 | Korte afsluiting: "Dat was AI in 5. Morgen om acht uur weer." Op vrijdag: "Maandag om acht uur weer." |
+
+Er is alleen een aflevering op **maandag tot en met vrijdag**. Op maandag gaat het nieuws over de periode sinds vrijdagochtend.
+
+### Woensdag-editie
+
+Op woensdag komen er twee blokken bij. Totaal dan **800 tot 1.300 woorden**.
+
+| Onderdeel | Woorden | Inhoud |
+| --- | --- | --- |
+| sectie `onderwijs` (na `werk`) | 150-250 | **Onderwijs en AI**, met nadruk op het mbo: beleid en richtlijnen (OCW, MBO Raad, Kennisnet, SURF, Npuls, Inspectie), AI-platforms voor het onderwijs zoals EduGenAI, toetsing en fraude, AI-geletterdheid (EU AI Act), studentbegeleiding en welzijn, onderzoek. Nieuws van de afgelopen week. Per bericht: wat betekent dit voor docenten, begeleiders en studenten. |
+| sectie `persoonlijk` (na `kansen`) | 200-300 | **Uw kansen**: twee of drie concrete acties voor de luisteraar zelf, op basis van het nieuws van deze week en het luisterprofiel in de opdracht van de geplande taak. Eén voor het eigen bedrijf, één voor het werk in het onderwijs, eventueel één extra. Per actie: welk nieuws, wat precies te doen, hoeveel tijd het kost, en wat het oplevert. Schrijf in de jij-vorm. Noem geen collega's, studenten of vertrouwelijke zaken: de aflevering is openbaar. |
+
+Overgangen op woensdag: "Dan onderwijs en AI." en "Tot slot, speciaal voor jou: jouw kansen deze week."
 
 ## Toon: zakelijk nieuwsbulletin
 
@@ -61,6 +74,8 @@ De woorden per blok hieronder zijn het **normale** aantal. Is er veel praktische
     { "key": "wereld", "title": "Wereldwijd", "script": "…" },
     { "key": "werk", "title": "Werk", "script": "…" },
     { "key": "kansen", "title": "Kansen", "script": "…" }
+    // alleen op woensdag: { "key": "onderwijs", "title": "Onderwijs" } na "werk",
+    // en { "key": "persoonlijk", "title": "Jouw kansen" } na "kansen"
   ],
   "outro": "Dat was AI in 5. Morgen om acht uur weer.",
   "items": [
@@ -75,7 +90,8 @@ De woorden per blok hieronder zijn het **normale** aantal. Is er veel praktische
 }
 ```
 
-- `items`: één per nieuwsbericht (sectie `nl`, `wereld` of `werk`) en één per kans (sectie `kansen`, `source_url` mag leeg zijn).
+- Het commentaar (`//`) in het voorbeeld hierboven hoort niet in het echte bestand: dat moet geldige JSON zijn.
+- `items`: één per nieuwsbericht (sectie `nl`, `wereld`, `werk` of `onderwijs`), één per kans (`kansen`) en één per persoonlijke actie (`persoonlijk`) (sectie `kansen`, `source_url` mag leeg zijn).
 - Geldige JSON, UTF-8. Controleer na het schrijven met een JSON-parser en tel de woorden (intro + secties + outro).
 
 ## Publiceren
