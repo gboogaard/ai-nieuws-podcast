@@ -1,6 +1,6 @@
-# AI in 5
+# AI in een paar minuten
 
-Elke ochtend om 08:00 een zakelijk AI-nieuwsbulletin van vijf minuten: eerst Nederland, dan wereldwijd, en tot slot de kansen in de markt. Je luistert in een web-app op je iPhone-beginscherm.
+Elke ochtend om 08:00 een zakelijk AI-nieuwsbulletin van een paar minuten: eerst Nederland, dan wereldwijd, en tot slot de kansen in de markt. Je luistert in een web-app op je iPhone-beginscherm.
 
 ## Hoe het werkt
 

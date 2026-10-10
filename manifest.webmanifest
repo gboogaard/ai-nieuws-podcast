@@ -1,7 +1,7 @@
 {
-  "name": "AI in 5 · Dagelijks AI-nieuws",
-  "short_name": "AI in 5",
-  "description": "Elke ochtend in vijf minuten het belangrijkste AI-nieuws: Nederland, wereldwijd en de kansen.",
+  "name": "AI in een paar minuten · Dagelijks AI-nieuws",
+  "short_name": "AI in een paar minuten",
+  "description": "Elke ochtend in een paar minuten het belangrijkste AI-nieuws: Nederland, wereldwijd en de kansen.",
   "lang": "nl",
   "start_url": "./",
   "scope": "./",

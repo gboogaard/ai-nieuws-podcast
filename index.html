@@ -3,13 +3,13 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>AI in 5</title>
-<meta name="description" content="Elke ochtend in vijf minuten het belangrijkste AI-nieuws: Nederland, wereldwijd en de kansen.">
+<title>AI in een paar minuten</title>
+<meta name="description" content="Elke ochtend in een paar minuten het belangrijkste AI-nieuws: Nederland, wereldwijd en de kansen.">
 <meta name="theme-color" content="#1A0B2E">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="AI in 5">
+<meta name="apple-mobile-web-app-title" content="AI in een paar minuten">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
 <link rel="icon" href="icons/icon-192.png">
@@ -175,7 +175,7 @@ details[open] summary::after{content:"–"}
   <header>
     <div class="brand">
       <div class="mark" aria-hidden="true">5</div>
-      <div><b>AI in 5</b><small>AI-nieuws in vijf minuten</small></div>
+      <div><b>AI in een paar minuten</b><small>Dagelijks AI-nieuws</small></div>
     </div>
     <div class="live" id="today"><i></i><span>Elke ochtend 08:00</span></div>
   </header>
@@ -247,7 +247,7 @@ details[open] summary::after{content:"–"}
       {section:'wereld',headline:'[Voorbeeld] Internationaal AI-nieuws',takeaway:'De grootste ontwikkeling wereldwijd, vertaald naar de Nederlandse praktijk.',source_name:'Bron',source_url:''},
       {section:'kansen',headline:'[Voorbeeld] Kans in de markt',takeaway:'Een concrete kans voor ondernemers of organisaties op basis van het nieuws.',source_name:'',source_url:''}
     ],
-    transcript:'Goedemorgen. Dit is AI in 5, uw dagelijkse overzicht van het belangrijkste AI-nieuws.\n\nIn de echte aflevering leest u hier de volledige tekst van het bulletin.'
+    transcript:'Goedemorgen. Dit is AI in een paar minuten, uw dagelijkse overzicht van het belangrijkste AI-nieuws.\n\nIn de echte aflevering leest u hier de volledige tekst van het bulletin.'
   }]};
 
   var audio = new Audio();
@@ -395,7 +395,7 @@ details[open] summary::after{content:"–"}
     cur = ep; sIdx = 0;
     if (!ep.audio) prepSpeech(ep);
     el('epDate').textContent = (ep.id === episodes[0].id ? 'Vandaag · ' : '') + dayLabel(ep.date, true);
-    el('epTitle').textContent = ep.title || 'AI in 5';
+    el('epTitle').textContent = ep.title || 'AI in een paar minuten';
     el('epSummary').textContent = ep.summary || '';
     el('engine').textContent = ep.audio ? '' : (synth ? 'Voorgelezen door je iPhone · houd het scherm aan tijdens het luisteren' : 'Voorlezen werkt niet in deze browser; lees de volledige tekst hieronder.');
     el('engine').style.display = ep.audio ? 'none' : '';
@@ -442,9 +442,9 @@ details[open] summary::after{content:"–"}
 
     if ('mediaSession' in navigator) {
       navigator.mediaSession.metadata = new MediaMetadata({
-        title: ep.title || 'AI in 5',
-        artist: 'AI in 5 · ' + dayLabel(ep.date, true),
-        album: 'AI in 5',
+        title: ep.title || 'AI in een paar minuten',
+        artist: 'AI in een paar minuten · ' + dayLabel(ep.date, true),
+        album: 'AI in een paar minuten',
         artwork: [{src:'icons/icon-512.png', sizes:'512x512', type:'image/png'}, {src:'icons/icon-192.png', sizes:'192x192', type:'image/png'}]
       });
     }
@@ -468,7 +468,7 @@ details[open] summary::after{content:"–"}
 
   function showEmpty(){
     el('epTitle').textContent = 'De eerste aflevering komt eraan';
-    el('epSummary').textContent = 'Elke ochtend om 08:00 verschijnt hier een nieuw bulletin van vijf minuten.';
+    el('epSummary').textContent = 'Elke ochtend om 08:00 verschijnt hier een nieuw bulletin van een paar minuten.';
     el('itemsSec').style.display = 'none';
     el('transcriptBox').style.display = 'none';
     el('playBtn').disabled = true;

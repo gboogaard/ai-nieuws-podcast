@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""AI in 5 - maakt audio voor nieuwe afleveringen en bouwt episodes/index.json.
+"""AI in een paar minuten - maakt audio voor nieuwe afleveringen en bouwt episodes/index.json.
 
 Draait in GitHub Actions (zie .github/workflows/podcast.yml), alleen standaard-Python.
 
@@ -181,7 +181,7 @@ def assemble(segments, pause, cfg, out_path):
     """Plakt de blokken achter elkaar met `pause` seconden stilte ertussen. Geeft per blok de starttijd en de totale duur."""
     br = bitrate(cfg)
     if not shutil.which("ffmpeg"):
-        print("::warning title=AI in 5::ffmpeg ontbreekt, blokken zonder pauze aan elkaar geplakt", flush=True)
+        print("::warning title=AI in een paar minuten::ffmpeg ontbreekt, blokken zonder pauze aan elkaar geplakt", flush=True)
         starts, t, data = [], 0.0, b""
         for seg in segments:
             starts.append(t)
@@ -284,7 +284,7 @@ def main():
             # Niet stoppen: de app leest de aflevering dan voor met de iPhone-stem.
             mp3.unlink(missing_ok=True)
             mp3.with_suffix(".json").unlink(missing_ok=True)
-            print(f"::warning title=AI in 5 audio::{e}".replace("\n", " "), flush=True)
+            print(f"::warning title=AI in een paar minuten audio::{e}".replace("\n", " "), flush=True)
 
     # 3. opruimen
     for p in episode_files:
@@ -335,9 +335,9 @@ if __name__ == "__main__":
         main()
     except SystemExit as e:
         if e.code not in (None, 0):
-            print(f"::error title=AI in 5::{e.code}", flush=True)
+            print(f"::error title=AI in een paar minuten::{e.code}", flush=True)
         raise
     except Exception as e:
         # Als annotatie tonen, zodat de fout ook zonder logs zichtbaar is.
-        print(f"::error title=AI in 5::{type(e).__name__}: {e}".replace("\n", " "), flush=True)
+        print(f"::error title=AI in een paar minuten::{type(e).__name__}: {e}".replace("\n", " "), flush=True)
         sys.exit(1)

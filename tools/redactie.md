@@ -1,4 +1,4 @@
-# Redactie-instructie AI in 5
+# Redactie-instructie AI in een paar minuten
 
 Deze instructie volgt de geplande taak elke ochtend. Het resultaat is één bestand: `episodes/JJJJ-MM-DD.json` (de datum van vandaag, Europe/Amsterdam). Daarna commit en push naar `main`; GitHub maakt de audio en publiceert.
 
@@ -24,12 +24,12 @@ De woorden per blok hieronder zijn het **normale** aantal. Is er veel praktische
 
 | Onderdeel | Woorden | Inhoud |
 | --- | --- | --- |
-| intro | 30-45 | "Goedemorgen. Het is [weekdag] [datum]. Dit is AI in 5." Daarna in één zin de drie hoofdpunten. |
+| intro | 30-45 | "Goedemorgen. Het is [weekdag] [datum]. Dit is AI in een paar minuten." Daarna in één zin de drie hoofdpunten. |
 | sectie `nl` | 170-200 | Nederlands AI-nieuws. Per bericht: wat gebeurde er, waarom telt het, één praktisch voorbeeld. |
 | sectie `wereld` | 170-200 | Internationaal nieuws, steeds vertaald naar de Nederlandse praktijk, met een praktisch voorbeeld. |
 | sectie `werk` | 120-150, bij veel praktische info tot 300 | AI en (toekomstig) werk: wat verandert er aan banen, taken en vaardigheden, met cijfers waar die er zijn. Eindig met wat het betekent voor werkenden, werkgevers of het onderwijs. |
 | sectie `kansen` | 100-130, bij veel praktische info tot 300 | Twee (of bij een uitgebreid blok drie à vier) concrete marktkansen die uit het nieuws volgen: voor wie, wat je kunt doen, waarom nu. |
-| outro | 20-35 | Korte afsluiting: "Dat was AI in 5. Morgen om acht uur weer." Op vrijdag: "Maandag om acht uur weer." |
+| outro | 20-35 | Korte afsluiting: "Dat was AI in een paar minuten. Morgen om acht uur weer." Op vrijdag: "Maandag om acht uur weer." |
 
 Er is alleen een aflevering op **maandag tot en met vrijdag**. Op maandag gaat het nieuws over de periode sinds vrijdagochtend.
 
@@ -68,7 +68,7 @@ Overgangen op woensdag: "Dan onderwijs en AI." en "Tot slot, speciaal voor jou: 
   "date": "2026-10-10",
   "title": "Korte kop van max. 70 tekens over het belangrijkste nieuws",
   "summary": "Eén of twee zinnen over wat de luisteraar vandaag hoort.",
-  "intro": "Goedemorgen. Het is zaterdag 10 oktober. Dit is AI in 5. …",
+  "intro": "Goedemorgen. Het is zaterdag 10 oktober. Dit is AI in een paar minuten. …",
   "sections": [
     { "key": "nl", "title": "Nederland", "script": "Gesproken tekst. Alinea's scheiden met een lege regel (\\n\\n)." },
     { "key": "wereld", "title": "Wereldwijd", "script": "…" },
@@ -77,7 +77,7 @@ Overgangen op woensdag: "Dan onderwijs en AI." en "Tot slot, speciaal voor jou: 
     // alleen op woensdag: { "key": "onderwijs", "title": "Onderwijs" } na "werk",
     // en { "key": "persoonlijk", "title": "Jouw kansen" } na "kansen"
   ],
-  "outro": "Dat was AI in 5. Morgen om acht uur weer.",
+  "outro": "Dat was AI in een paar minuten. Morgen om acht uur weer.",
   "items": [
     {
       "section": "nl",
