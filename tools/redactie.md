@@ -12,8 +12,9 @@ Een zakelijk nieuwsbulletin van vijf minuten over AI, voorgelezen in het Nederla
 2. **Nederland eerst**: overheid en toezicht (AP, RDI, ministeries), Nederlandse bedrijven en start-ups, onderwijs, zorg, publieke sector, onderzoek (TNO, universiteiten), Nederlandse nieuwsbronnen (NOS, FD, NRC, Volkskrant, Emerce, Computable, AG Connect, Tweakers, Dutch IT Channel). Ook EU-nieuws dat Nederland direct raakt (AI Act).
 3. **Wereldwijd**: grote modelreleases, bedrijfsnieuws, regelgeving, onderzoek, investeringen.
 4. Open de artikelen die je gebruikt. Neem alleen feiten op die in de bron staan. Geen geruchten als feit; noem een gerucht een gerucht.
-5. Kies 2 tot 3 Nederlandse en 2 tot 3 internationale onderwerpen. Is er weinig Nederlands nieuws, maak dan het Nederlandse blok korter, maar sla het niet over.
-6. Controleer of het nieuws niet al in de afleveringen van de afgelopen drie dagen stond (`episodes/`). Alleen herhalen als er echt iets nieuws is.
+5. **Werk en arbeidsmarkt**: zoek apart naar ontwikkelingen rond AI en (toekomstig) werk. Denk aan banen en taken die veranderen of verdwijnen, nieuwe functies en vaardigheden, cijfers en onderzoek (CBS, UWV, SER, CPB, TNO, OESO, WEF, IMF), cao-afspraken en vakbonden, beleid voor scholing en omscholing, en wat bedrijven doen met personeel en AI. Nederland eerst, internationaal als het de Nederlandse arbeidsmarkt raakt. Dit mag iets breder zijn dan de afgelopen 24 uur (tot een week), als het bericht nieuw is voor de luisteraar.
+6. Kies 2 Nederlandse, 2 internationale en 1 tot 2 werkonderwerpen. Is er weinig Nederlands nieuws, maak dan het Nederlandse blok korter, maar sla het niet over.
+7. Controleer of het nieuws niet al in de afleveringen van de afgelopen drie dagen stond (`episodes/`). Alleen herhalen als er echt iets nieuws is.
 
 ## Opbouw en lengte
 
@@ -22,9 +23,10 @@ Totaal **650 tot 750 woorden** (ongeveer vijf minuten).
 | Onderdeel | Woorden | Inhoud |
 | --- | --- | --- |
 | intro | 30-45 | "Goedemorgen. Het is [weekdag] [datum]. Dit is AI in 5." Daarna in één zin de drie hoofdpunten. |
-| sectie `nl` | 220-260 | Nederlands AI-nieuws. Per bericht: wat gebeurde er, waarom telt het, één praktisch voorbeeld. |
-| sectie `wereld` | 220-260 | Internationaal nieuws, steeds vertaald naar de Nederlandse praktijk, met een praktisch voorbeeld. |
-| sectie `kansen` | 120-160 | Twee of drie concrete marktkansen die uit het nieuws volgen: voor wie, wat je kunt doen, waarom nu. |
+| sectie `nl` | 170-200 | Nederlands AI-nieuws. Per bericht: wat gebeurde er, waarom telt het, één praktisch voorbeeld. |
+| sectie `wereld` | 170-200 | Internationaal nieuws, steeds vertaald naar de Nederlandse praktijk, met een praktisch voorbeeld. |
+| sectie `werk` | 120-150 | AI en (toekomstig) werk: wat verandert er aan banen, taken en vaardigheden, met cijfers waar die er zijn. Eindig met wat het betekent voor werkenden, werkgevers of het onderwijs. |
+| sectie `kansen` | 100-130 | Twee concrete marktkansen die uit het nieuws volgen: voor wie, wat je kunt doen, waarom nu. |
 | outro | 20-35 | Korte afsluiting: "Dat was AI in 5. Morgen om acht uur weer." |
 
 ## Toon: zakelijk nieuwsbulletin
@@ -32,7 +34,7 @@ Totaal **650 tot 750 woorden** (ongeveer vijf minuten).
 - Schrijf voor het oor: korte zinnen (gemiddeld 12-15 woorden), actieve vorm, één gedachte per zin.
 - Rustig, zakelijk en neutraal, zoals een radionieuwslezer. Geen hype, geen uitroeptekens, geen grapjes.
 - Spreek de luisteraar aan met "u".
-- Overgangen tussen blokken: "Dan het nieuws uit het buitenland." en "Tot slot: de kansen."
+- Overgangen tussen blokken: "Dan het nieuws uit het buitenland.", "Dan werk en de arbeidsmarkt." en "Tot slot: de kansen."
 - Bronvermelding in de gesproken tekst kort: "meldt het FD", "volgens de NOS".
 - Getallen uitschrijven zoals je ze uitspreekt: "twaalf miljoen euro", "vijfenveertig procent".
 - Afkortingen die je uitspreekt als woord mogen; spel lastige afkortingen niet zelf uit.
@@ -55,6 +57,7 @@ Totaal **650 tot 750 woorden** (ongeveer vijf minuten).
   "sections": [
     { "key": "nl", "title": "Nederland", "script": "Gesproken tekst. Alinea's scheiden met een lege regel (\\n\\n)." },
     { "key": "wereld", "title": "Wereldwijd", "script": "…" },
+    { "key": "werk", "title": "Werk", "script": "…" },
     { "key": "kansen", "title": "Kansen", "script": "…" }
   ],
   "outro": "Dat was AI in 5. Morgen om acht uur weer.",
@@ -70,7 +73,7 @@ Totaal **650 tot 750 woorden** (ongeveer vijf minuten).
 }
 ```
 
-- `items`: één per nieuwsbericht (sectie `nl` of `wereld`) en één per kans (sectie `kansen`, `source_url` mag leeg zijn).
+- `items`: één per nieuwsbericht (sectie `nl`, `wereld` of `werk`) en één per kans (sectie `kansen`, `source_url` mag leeg zijn).
 - Geldige JSON, UTF-8. Controleer na het schrijven met een JSON-parser en tel de woorden (intro + secties + outro).
 
 ## Publiceren

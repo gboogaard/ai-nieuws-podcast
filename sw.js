@@ -1,5 +1,5 @@
 // AI in 5 — service worker: app-schil offline, afleveringen altijd vers.
-const CACHE = 'ai-in-5-v1';
+const CACHE = 'ai-in-5-v2';
 const SHELL = ['./', 'index.html', 'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png'];
 
 self.addEventListener('install', (e) => {
@@ -28,6 +28,15 @@ self.addEventListener('fetch', (e) => {
     );
     return;
   }
-  // App-schil: eerst cache, daarna netwerk.
+  // De app zelf: eerst netwerk, zodat updates direct doorkomen; zonder verbinding de bewaarde versie.
+  if (e.request.mode === 'navigate' || url.pathname.endsWith('.html') || url.pathname.endsWith('/')) {
+    e.respondWith(
+      fetch(e.request)
+        .then((r) => { const copy = r.clone(); caches.open(CACHE).then((c) => c.put(e.request, copy)); return r; })
+        .catch(() => caches.match(e.request).then((hit) => hit || caches.match('index.html')))
+    );
+    return;
+  }
+  // Iconen en manifest: eerst cache, daarna netwerk.
   e.respondWith(caches.match(e.request).then((hit) => hit || fetch(e.request)));
 });

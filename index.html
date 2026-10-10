@@ -132,6 +132,7 @@ h2{font-family:'Instrument Serif',serif;font-weight:400;font-size:26px;margin:0 
   padding:4px 10px;border-radius:999px;margin-bottom:8px}
 .tag.nl{background:rgba(255,122,46,.22);color:#FFC48C}
 .tag.wereld{background:rgba(142,59,230,.3);color:#D9B8FF}
+.tag.werk{background:rgba(194,57,138,.3);color:#FFC2E4}
 .tag.kansen{background:rgba(255,255,255,.14);color:var(--ink)}
 .item{padding:16px 18px;margin-bottom:10px}
 .item h3{font-size:16.5px;line-height:1.3;margin:0 0 6px;font-weight:600}
@@ -232,7 +233,7 @@ details[open] summary::after{content:"–"}
 
 <script>
 (function(){
-  var SECTION = {nl:'Nederland', wereld:'Wereldwijd', kansen:'Kansen'};
+  var SECTION = {nl:'Nederland', wereld:'Wereldwijd', werk:'Werk', kansen:'Kansen'};
   var DEMO = {episodes:[{
     id:'demo', date:new Date().toISOString().slice(0,10), demo:true,
     title:'Voorbeeld: zo klinkt je ochtendbulletin',
@@ -398,6 +399,8 @@ details[open] summary::after{content:"–"}
     el('engine').style.display = ep.audio ? 'none' : '';
 
     var ch = el('chapters'); ch.innerHTML = '';
+    var nch = (ep.chapters || []).length;
+    ch.style.gridTemplateColumns = 'repeat(' + (nch === 4 ? 2 : Math.max(1, Math.min(nch, 3))) + ', minmax(0, 1fr))';
     (ep.chapters || []).forEach(function(c){
       var b = document.createElement('button');
       b.className = 'chap';
@@ -407,7 +410,7 @@ details[open] summary::after{content:"–"}
     });
 
     var html = '';
-    ['nl', 'wereld', 'kansen'].forEach(function(key){
+    ['nl', 'wereld', 'werk', 'kansen'].forEach(function(key){
       var list = (ep.items || []).filter(function(it){ return it.section === key; });
       if (!list.length) return;
       html += '<div class="group"><span class="tag ' + key + '">' + SECTION[key] + '</span>';
