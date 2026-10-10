@@ -86,7 +86,7 @@ Overgangen op woensdag: "Dan onderwijs en AI." en "Tot slot, speciaal voor jou: 
     { "key": "werk", "title": "Werk", "script": "…" },
     { "key": "kansen", "title": "Kansen", "script": "…" }
     // alleen op woensdag: { "key": "onderwijs", "title": "Onderwijs" } na "werk",
-    // en { "key": "persoonlijk", "title": "Jouw kansen" } na "kansen"
+    // en { "key": "persoonlijk", "title": "Kansen" } na "kansen"
   ],
   "outro": "Dat was AI in een paar minuten. Morgen om acht uur weer.",
   "items": [

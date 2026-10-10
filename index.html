@@ -81,8 +81,8 @@ body.playing .live i{animation:ping 1.6s infinite}
 
 .stage{display:flex;align-items:center;gap:18px;margin:6px 0 16px}
 .play{position:relative;flex:none;width:84px;height:84px;border-radius:50%;
-  background:#0B0B0B;
-  display:grid;place-items:center;box-shadow:0 14px 34px rgba(0,0,0,.45);transition:transform .2s ease}
+  background:linear-gradient(140deg,#F2545F,#D7263D 50%,#9E1028);
+  display:grid;place-items:center;box-shadow:0 14px 34px rgba(215,38,61,.45);transition:transform .2s ease}
 .play:active{transform:scale(.94)}
 .play::before,.play::after{content:"";position:absolute;inset:-6px;border-radius:50%;border:2px solid rgba(255,138,138,.55);opacity:0}
 body.playing .play::before{animation:ring 2.2s ease-out infinite}
@@ -180,7 +180,7 @@ details[open] summary::after{content:"–"}
       <div class="mark" aria-hidden="true">AI</div>
       <div><b>AI in een paar minuten</b><small>Dagelijks AI-nieuws</small></div>
     </div>
-    <div class="live" id="today"><i></i><span>Elke ochtend 08:00</span></div>
+    <div class="live" id="today"><i></i><span>Dagelijks 08:00</span></div>
   </header>
 
   <article class="card player" id="player" aria-live="polite">
@@ -238,7 +238,7 @@ details[open] summary::after{content:"–"}
 
 <script>
 (function(){
-  var SECTION = {nl:'Nederland', wereld:'Wereldwijd', werk:'Werk', onderwijs:'Onderwijs', kansen:'Kansen', persoonlijk:'Jouw kansen'};
+  var SECTION = {nl:'Nederland', wereld:'Wereldwijd', werk:'Werk', onderwijs:'Onderwijs', kansen:'Kansen', persoonlijk:'Kansen'};
   var DEMO = {episodes:[{
     id:'demo', date:new Date().toISOString().slice(0,10), demo:true,
     title:'Voorbeeld: zo klinkt je ochtendbulletin',
@@ -422,7 +422,7 @@ details[open] summary::after{content:"–"}
     (ep.chapters || []).forEach(function(c){
       var b = document.createElement('button');
       b.className = 'chap';
-      b.innerHTML = '<small class="st"></small><b>' + esc(c.title || SECTION[c.key] || '') + '</b><span class="bar"></span>';
+      b.innerHTML = '<small class="st"></small><b>' + esc(SECTION[c.key] || c.title || '') + '</b><span class="bar"></span>';
       b.addEventListener('click', function(){ seek(c.start + 0.01); play(); });
       ch.appendChild(b);
     });
