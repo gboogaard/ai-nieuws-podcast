@@ -19,6 +19,8 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      notify: ${{ steps.audio.outputs.notify }}
     steps:
       - uses: actions/checkout@v4
 
@@ -30,6 +32,7 @@ jobs:
         run: which ffmpeg || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
 
       - name: Audio maken met ElevenLabs
+        id: audio
         env:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           ELEVENLABS_VOICE_ID: ${{ secrets.ELEVENLABS_VOICE_ID }}
@@ -62,3 +65,23 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Pushmelding via ntfy
+        if: ${{ needs.build.outputs.notify != '' }}
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NOTIFY: ${{ needs.build.outputs.notify }}
+          PAGE_URL: ${{ steps.deployment.outputs.page_url }}
+        run: |
+          if [ -z "$NTFY_TOPIC" ]; then echo "Geen NTFY_TOPIC ingesteld, geen melding."; exit 0; fi
+          sleep 45  # GitHub Pages even laten bijwerken, zodat de aflevering er staat als je tikt
+          python3 - <<'PY'
+          import json, os, urllib.request
+          n = json.loads(os.environ["NOTIFY"])
+          body = {"topic": os.environ["NTFY_TOPIC"], "title": n["title"], "message": n["message"],
+                  "click": os.environ.get("PAGE_URL") or "https://gboogaard.github.io/ai-nieuws-podcast/",
+                  "tags": ["headphones"]}
+          req = urllib.request.Request("https://ntfy.sh", data=json.dumps(body).encode("utf-8"),
+                                       headers={"Content-Type": "application/json"})
+          print(urllib.request.urlopen(req, timeout=30).status)
+          PY

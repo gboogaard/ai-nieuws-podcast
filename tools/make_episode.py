@@ -295,7 +295,14 @@ def main():
             (AUDIO_DIR / f"{p.stem}.json").unlink(missing_ok=True)
             print(f"Opgeruimd: {p.stem}")
 
-    # 4. index opbouwen
+    # 4. index opbouwen (eerst onthouden welke afleveringen er al waren, voor de pushmelding)
+    old_index = EP_DIR / "index.json"
+    old_ids = set()
+    if old_index.exists():
+        try:
+            old_ids = {e.get("id") for e in load_json(old_index).get("episodes", [])}
+        except Exception:
+            pass
     entries = []
     for p in sorted((p for p in EP_DIR.glob("*.json") if DATE_RE.match(p.stem)), reverse=True):
         ep = load_json(p)
@@ -329,6 +336,20 @@ def main():
     index = {"updated": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"), "episodes": entries}
     (EP_DIR / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"index.json: {len(entries)} aflevering(en)")
+
+    # 5. nieuwe aflevering doorgeven aan de workflow, voor de pushmelding via ntfy
+    recent = (today - dt.timedelta(days=1)).isoformat()
+    new = [e for e in entries if e["id"] not in old_ids and e["date"] >= recent]
+    out = os.environ.get("GITHUB_OUTPUT")
+    if new and out:
+        e = new[0]
+        mins = max(1, round((e.get("duration") or 0) / 60))
+        msg = (e.get("summary") or e.get("title") or "")
+        msg = f"{msg} ({mins} min)" if e.get("audio") else f"{msg} (vandaag voorgelezen door je iPhone)"
+        note = {"title": e.get("title") or "Nieuwe aflevering", "message": msg}
+        with open(out, "a", encoding="utf-8") as f:
+            f.write("notify=" + json.dumps(note, ensure_ascii=False) + "\n")
+        print(f"Pushmelding klaargezet voor {e['id']}")
 
 
 if __name__ == "__main__":
