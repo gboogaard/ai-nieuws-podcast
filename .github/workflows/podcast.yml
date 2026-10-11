@@ -12,13 +12,12 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: podcast
-  cancel-in-progress: false
-
 jobs:
   build:
     runs-on: ubuntu-latest
+    concurrency:
+      group: podcast-build
+      cancel-in-progress: false
     outputs:
       notify: ${{ steps.audio.outputs.notify }}
     steps:
@@ -59,6 +58,9 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    concurrency:
+      group: podcast-pages
+      cancel-in-progress: false
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -66,22 +68,36 @@ jobs:
       - id: deployment
         uses: actions/deploy-pages@v4
 
-      - name: Pushmelding via ntfy
-        if: ${{ needs.build.outputs.notify != '' }}
+  melding:
+    # Pushmelding pas op het vaste tijdstip: werkdagen 08:00, zondag 09:00 (Nederlandse tijd).
+    # Is de aflevering later klaar, dan gaat de melding direct.
+    needs: [build, deploy]
+    if: ${{ needs.build.outputs.notify != '' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Wachten tot 08:00 (zondag 09:00) en melding sturen via ntfy
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           NOTIFY: ${{ needs.build.outputs.notify }}
-          PAGE_URL: ${{ steps.deployment.outputs.page_url }}
         run: |
           if [ -z "$NTFY_TOPIC" ]; then echo "Geen NTFY_TOPIC ingesteld, geen melding."; exit 0; fi
-          sleep 45  # GitHub Pages even laten bijwerken, zodat de aflevering er staat als je tikt
           python3 - <<'PY'
-          import json, os, urllib.request
+          import datetime as dt, json, os, time, urllib.request
+          from zoneinfo import ZoneInfo
+          tz = ZoneInfo("Europe/Amsterdam")
+          now = dt.datetime.now(tz)
+          target = now.replace(hour=9 if now.weekday() == 6 else 8, minute=0, second=0, microsecond=0)
+          wait = (target - now).total_seconds()
+          if 0 < wait <= 2 * 3600:
+              print(f"Wachten tot {target:%H:%M} ({int(wait // 60)} min)")
+              time.sleep(wait)
+          else:
+              time.sleep(45)  # na het vaste tijdstip: GitHub Pages even laten bijwerken
           n = json.loads(os.environ["NOTIFY"])
           body = {"topic": os.environ["NTFY_TOPIC"], "title": n["title"], "message": n["message"],
-                  "click": os.environ.get("PAGE_URL") or "https://gboogaard.github.io/ai-nieuws-podcast/",
-                  "tags": ["headphones"]}
+                  "click": "https://gboogaard.github.io/ai-nieuws-podcast/", "tags": ["headphones"]}
           req = urllib.request.Request("https://ntfy.sh", data=json.dumps(body).encode("utf-8"),
                                        headers={"Content-Type": "application/json"})
-          print(urllib.request.urlopen(req, timeout=30).status)
+          print("ntfy:", urllib.request.urlopen(req, timeout=30).status)
           PY
