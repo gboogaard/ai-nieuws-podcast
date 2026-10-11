@@ -33,7 +33,8 @@ AUDIO_DIR = ROOT / "audio"
 API = "https://api.elevenlabs.io/v1"
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 SECTION_TITLES = {"nl": "Nederland", "wereld": "Wereldwijd", "werk": "Werk", "onderwijs": "Onderwijs",
-                  "kansen": "Kansen", "persoonlijk": "Kansen"}
+                  "kansen": "Kansen", "persoonlijk": "Kansen",
+                  "week": "De week", "trend": "Rode draad", "uitproberen": "Probeer zelf", "vooruit": "Volgende week"}
 
 
 def load_json(path):

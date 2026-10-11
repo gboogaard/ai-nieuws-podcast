@@ -29,9 +29,9 @@ De woorden per blok hieronder zijn het **normale** aantal. Is er veel praktische
 | sectie `wereld` | 170-220 | Internationaal nieuws. Sluit elk bericht af met een **concreet strategisch dilemma** voor Nederlandse organisaties of onderwijsinstellingen: een keuze tussen twee reële opties, met wat elke optie kost of oplevert. Bijvoorbeeld: "Voor Nederlandse scholen wordt de keuze scherper: dit model direct gebruiken en afhankelijk worden van een Amerikaanse aanbieder, of wachten op een Europees alternatief zoals EduGenAI en tijdelijk minder functies hebben." Niet vrijblijvend ("dit kan gevolgen hebben voor Nederland"), maar benoemd wie welke keuze moet maken. |
 | sectie `werk` | 120-150, bij veel praktische info tot 300; op vrijdag plus 80-120 voor het scenario | AI en (toekomstig) werk, met een strategische blik: wat verandert er aan banen, taken en vaardigheden, met cijfers waar die er zijn. Eindig met wat het betekent voor werkenden, werkgevers of het onderwijs. Op vrijdag sluit het blok af met het **scenario van de week** (zie hieronder). |
 | sectie `kansen` | 100-130, bij veel praktische info tot 300 | Twee (of bij een uitgebreid blok drie à vier) concrete marktkansen die uit het nieuws volgen: voor wie, wat je kunt doen, waarom nu. |
-| outro | 20-35 | Korte afsluiting: "Dat was AI in een paar minuten. Morgen om acht uur weer." Op vrijdag: "Maandag om acht uur weer." |
+| outro | 20-35 | Korte afsluiting: "Dat was AI in een paar minuten. Morgen om acht uur weer." Op vrijdag: "Zondag het weekoverzicht, maandag om acht uur weer." |
 
-Er is alleen een aflevering op **maandag tot en met vrijdag**. Op maandag gaat het nieuws over de periode sinds vrijdagochtend.
+Er is een dagelijkse aflevering op **maandag tot en met vrijdag**, en op **zondag** het weekoverzicht (zie hieronder). Op zaterdag is er geen aflevering. Op maandag gaat het nieuws over de periode sinds vrijdagochtend.
 
 ### Scenario van de week (vrijdag)
 
@@ -54,6 +54,21 @@ Op woensdag komen er twee blokken bij. Totaal dan **850 tot 1.400 woorden**.
 | sectie `persoonlijk` (na `kansen`) | 250-350 | **Uw kansen**: twee concrete acties voor de luisteraar zelf, op basis van het nieuws van deze week en het luisterprofiel in de opdracht van de geplande taak. Eén kans om als ondernemer iets met AI te doen (een dienst, product, training of adviesrol die uit het nieuws volgt), en één voor het werk als I-coach in het onderwijs. Per actie, in deze volgorde: welk nieuws, wat precies te doen deze week, en een **heldere ROI** in drie delen: wat het kost aan tijd (en eventueel geld), wat het oplevert aan tijdwinst of geld, en wat het oplevert aan impact (bijvoorbeeld bereik, positie, kwaliteit van het werk). Sluit elke actie af met de urgentiezin: "Als je dit deze week niet oppakt, mis je deze kans omdat …". De reden moet echt zijn en uit de bron of de situatie volgen: een deadline, een aanmeldtermijn, een subsidieronde, een pilotfase die afloopt, een budgetcyclus, of het voordeel van er vroeg bij zijn terwijl anderen nog afwachten. Verzin geen tijdsdruk: is er geen harde deadline, benoem dan eerlijk het voordeel van vroeg zijn. Schrijf in de jij-vorm. Noem geen collega's, studenten of vertrouwelijke zaken: de aflevering is openbaar. |
 
 Overgangen op woensdag: "Dan onderwijs en AI." en "Tot slot, speciaal voor jou: jouw kansen deze week."
+
+### Zondag-editie: het weekoverzicht
+
+Op zondag geen dagelijks bulletin, maar een rustiger **weekoverzicht** van 700 tot 1.100 woorden. Doel: in één keer weten wat er deze week echt toe deed, en goed voorbereid aan de nieuwe week beginnen. Lees eerst de afleveringen van maandag tot en met vrijdag in `episodes/` en vul aan met belangrijk nieuws van zaterdag en zondag. Herhaal niet alles: kies en duid.
+
+| Onderdeel | Woorden | Inhoud |
+| --- | --- | --- |
+| intro | 30-45 | "Goedemorgen. Het is zondag [datum]. Dit is het weekoverzicht van AI in een paar minuten." Daarna in één zin de rode draad van de week. |
+| sectie `week` | 250-350 | **De week in vijf berichten**: de vijf belangrijkste ontwikkelingen van de week, Nederland en wereldwijd, elk in drie à vier zinnen: wat er gebeurde en waarom het ertoe doet. Nieuws van het weekend mag erbij. |
+| sectie `trend` | 150-220 | **De rode draad**: één patroon dat deze week in meerdere berichten terugkwam, bijvoorbeeld agents die zelfstandig werk overnemen, of Europa dat inzet op eigen modellen. Wat betekent dat voor organisaties, werk en onderwijs de komende maanden? |
+| sectie `uitproberen` | 100-160 | **Probeer dit zelf**: één AI-tool of -functie die deze week in het nieuws was en die de luisteraar in een kwartier zelf kan uitproberen. Wat het is, hoe je begint, waar je op let (privacy, kosten). Alleen iets dat echt beschikbaar is in Nederland. |
+| sectie `vooruit` | 80-150 | **Volgende week**: wat er op de agenda staat. Bijvoorbeeld een productlancering, een deadline uit de AI-verordening, een Kamerdebat, een rapport of een evenement. Alleen datums die in een bron staan. |
+| outro | 20-35 | "Dat was het weekoverzicht. Morgen om acht uur weer het dagelijkse bulletin." |
+
+Overgangen op zondag: "Eerst de week in vijf berichten.", "Dan de rode draad.", "Probeer dit zelf." en "Tot slot: wat staat er volgende week op de agenda?" Toon: zakelijk maar iets rustiger dan doordeweeks. Het weekoverzicht heeft geen blokken `nl`, `wereld`, `werk` of `kansen`.
 
 ## Toon: zakelijk nieuwsbulletin
 
@@ -87,6 +102,7 @@ Overgangen op woensdag: "Dan onderwijs en AI." en "Tot slot, speciaal voor jou: 
     { "key": "kansen", "title": "Kansen", "script": "…" }
     // alleen op woensdag: { "key": "onderwijs", "title": "Onderwijs" } na "werk",
     // en { "key": "persoonlijk", "title": "Kansen" } na "kansen"
+    // op zondag alleen: "week" (De week), "trend" (Rode draad), "uitproberen" (Probeer zelf), "vooruit" (Volgende week)
   ],
   "outro": "Dat was AI in een paar minuten. Morgen om acht uur weer.",
   "items": [
