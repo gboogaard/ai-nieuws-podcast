@@ -1,0 +1,25 @@
+{
+  "duration": 322,
+  "chapters": [
+    {
+      "key": "week",
+      "title": "De week",
+      "start": 0
+    },
+    {
+      "key": "trend",
+      "title": "Rode draad",
+      "start": 134
+    },
+    {
+      "key": "uitproberen",
+      "title": "Probeer zelf",
+      "start": 213
+    },
+    {
+      "key": "vooruit",
+      "title": "Volgende week",
+      "start": 267
+    }
+  ]
+}
