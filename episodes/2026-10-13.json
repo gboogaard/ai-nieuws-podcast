@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-13",
+  "title": "Banken klagen over AI-regels, Maasvlakte-datacenter vindt eerste klant",
+  "summary": "Nederlandse banken lopen bij AI vast op overlappend toezicht, Nebius wil rekenkracht afnemen op de Maasvlakte, Microsoft presenteert de Maia 300-chip en het IMF waarschuwt voor de gevolgen van AI voor banen.",
+  "intro": "Goedemorgen. Het is dinsdag 13 oktober. Dit is AI in een paar minuten. Vandaag: banken lopen bij AI vast op vier regelsets en drie toezichthouders, het AI-datacenter op de Maasvlakte heeft een eerste klant, en het IMF ziet tot veertig procent van de banen geraakt.",
+  "sections": [
+    {
+      "key": "nl",
+      "title": "Nederland",
+      "script": "Nederlandse banken willen meer AI gebruiken, maar de regels remmen. Dat meldt Bright, na gesprekken van Ace met ING, Rabobank, ABN AMRO en ASN Bank. Een AI-systeem voor leningen moet tegelijk voldoen aan de AI-verordening, de AVG, de Europese cyberregels DORA en het financiële toezicht. De Nederlandsche Bank, de AFM en de Autoriteit Persoonsgegevens kijken elk vanuit hun eigen hoek. Het probleem is niet de eisen zelf, maar de overlap. Een nieuwe toepassing kan zo lang blijven hangen dat de techniek al verouderd is. Ace pleit voor één set documentatie voor meerdere wetten. DNB erkent de versnippering en stroomlijnt de eigen processen. Een kleinere kredietverstrekker kan hier nu al op inspelen: leg per AI-toepassing één dossier aan dat alle regelsets tegelijk afdekt.\n\nHet geplande AI-datacenter op de Maasvlakte in Rotterdam heeft een eerste klant. Dat meldt BNR, op basis van het FD. Cloudbedrijf Nebius, dat rekenkracht levert aan Microsoft en Meta, tekende een intentieovereenkomst. Nebius wil een significant deel van de geplande zeshonderd megawatt afnemen. Voor organisaties die hun data in Europa willen houden, komt er zo mogelijk meer rekenkracht dichtbij. Een gemeente kan bij een volgende aanbesteding vragen waar de rekenkracht van een AI-dienst fysiek staat."
+    },
+    {
+      "key": "wereld",
+      "title": "Wereldwijd",
+      "script": "Dan het nieuws uit het buitenland.\n\nMicrosoft heeft de Maia 300 gepresenteerd, de derde generatie van zijn eigen AI-chip. Volgens Microsoft levert de chip veertig procent meer AI-uitvoer bij hetzelfde stroomverbruik dan systemen met grafische processors. Onafhankelijke tests zijn er nog niet. De chip gaat in 2027 in gebruik en moet dan het dagelijkse werk van AI-modellen in de Azure-cloud draaien. Klanten kunnen de chip niet zelf huren. Voor organisaties die op Microsoft draaien, wordt de keuze scherper. Optie één: verder inzetten op Azure en Copilot, met mogelijk lagere kosten, maar meer afhankelijkheid van één Amerikaanse leverancier. Optie twee: bewust spreiden over meerdere aanbieders, ook Europese, met meer beheerwerk maar een sterkere onderhandelingspositie. ICT-directeuren van gemeenten en hogescholen maken die keuze bij hun volgende contractronde.\n\nOpenAI heeft een netwerk van zeven nepjournalisten ontmaskerd, gelinkt aan accounts uit Iran. Dat meldt AI Wereld. Het netwerk kreeg tussen juli 2025 en oktober 2026 bijna honderd artikelen geplaatst bij ruim twaalf bestaande nieuwsmedia. ChatGPT hielp bij de stukken en de pitches aan redacties. OpenAI blokkeerde de accounts. Voor Nederlandse redacties, vakbladen en kennisinstellingen met een eigen platform ontstaat een dilemma. Elke externe auteur streng controleren kost tijd en schrikt goede freelancers af. Open blijven voor gastbijdragen houdt de stroom op gang, maar met het risico dat de eigen naam een nepauteur geloofwaardig maakt."
+    },
+    {
+      "key": "werk",
+      "title": "Werk",
+      "script": "Dan werk en de arbeidsmarkt.\n\nOp de jaarvergadering van het IMF en de Wereldbank in Bangkok stond AI en werk centraal. IMF-topvrouw Kristalina Georgieva zei dat tot veertig procent van de banen wereldwijd door AI kan veranderen, beperkt worden of verdwijnen. Productie verschuift van mensen naar kapitaal. Overheden moeten daarom opnieuw nadenken over hoe ze belasting heffen, aldus Georgieva. De Singaporese president Tharman Shanmugaratnam waarschuwde dat AI het aantal instapbanen voor pas afgestudeerden verkleint. Wereldbankpresident Ajay Banga wees op kleine AI-toepassingen zonder grote taalmodellen, die docenten, zorgmedewerkers en boeren productiever kunnen maken. Wat betekent dit hier? Als AI het routinewerk overneemt, verdwijnt ook de plek waar starters het vak leerden. Werkgevers die nu juniorfuncties schrappen, missen over een paar jaar ervaren krachten. Voor het onderwijs ligt de opdracht bij stages: meer nadruk op oordeelsvermogen en op het controleren van werk dat AI heeft gedaan."
+    },
+    {
+      "key": "kansen",
+      "title": "Kansen",
+      "script": "Tot slot: de kansen.\n\nEerste kans: compliance-ondersteuning voor kleinere financiële partijen, zoals kredietverstrekkers en verzekeraars. Zij krijgen met vergelijkbare regels te maken als de grote banken, maar hebben vaak geen grote juridische afdeling. Een adviesbureau of softwarebedrijf kan per AI-toepassing één documentatiesjabloon aanbieden dat de AI-verordening, de AVG en DORA tegelijk afdekt. Waarom nu: DNB erkent het probleem, en wie nu een werkende aanpak heeft, staat klaar zodra toezichthouders gaan stroomlijnen.\n\nTweede kans: auteurscontrole voor media en kennisplatforms. Vakbladen, regionale media en brancheverenigingen publiceren veel gastbijdragen. Een communicatiebureau kan een korte controleprocedure met training aanbieden: identiteit nagaan, eerdere publicaties checken en verdachte pitches herkennen. Waarom nu: de zaak met zeven nepjournalisten laat zien dat ook gevestigde media erin trappen."
+    }
+  ],
+  "outro": "Dat was AI in een paar minuten. Morgen om acht uur weer, dan met extra aandacht voor onderwijs en AI. Dank voor het luisteren.",
+  "items": [
+    {
+      "section": "nl",
+      "headline": "Banken: één AI-kredietmodel, vier regelsets en drie toezichthouders",
+      "takeaway": "Banken hebben weinig moeite met de AI-verordening zelf, maar overlappend toezicht van DNB, AFM en AP vertraagt nieuwe toepassingen. Kleinere kredietverstrekkers doen er goed aan per AI-toepassing één dossier aan te leggen dat alle regelsets afdekt.",
+      "source_name": "Het Laatste AI Nieuws (via Bright en BNR)",
+      "source_url": "https://www.hetlaatsteainieuws.nl/radar/ai-radar-nederland-12-oktober-2026-nederlandse-banken-ai-kredietmodel-2"
+    },
+    {
+      "section": "nl",
+      "headline": "Nebius eerste klant van AI-datacenter op de Maasvlakte",
+      "takeaway": "Nebius tekende een intentieovereenkomst voor een significant deel van de geplande zeshonderd megawatt. Organisaties die data in Europa willen houden, kunnen bij aanbestedingen vragen waar de rekenkracht van een AI-dienst staat.",
+      "source_name": "BNR (via FD)",
+      "source_url": "https://bnr.nl/nieuws/economie/10613086/eerste-klant-voor-ai-datacenter-in-rotterdam-is-binnen"
+    },
+    {
+      "section": "wereld",
+      "headline": "Microsoft presenteert eigen AI-chip Maia 300",
+      "takeaway": "Volgens Microsoft veertig procent meer AI-uitvoer per megawatt, vanaf 2027 in Azure, niet te huur voor klanten. Dilemma voor ICT-directeuren van gemeenten en hogescholen: dieper in Azure en Copilot met mogelijk lagere kosten maar meer afhankelijkheid, of spreiden over meerdere aanbieders met meer beheerwerk en een sterkere onderhandelingspositie.",
+      "source_name": "Tech Startups en Ynetnews",
+      "source_url": "https://techstartups.com/2026/10/12/microsoft-moves-to-reduce-nvidia-dependence-with-new-maia-300-ai-chips-shifts-more-ai-workloads-in-house/"
+    },
+    {
+      "section": "wereld",
+      "headline": "OpenAI ontmaskert netwerk van zeven nepjournalisten",
+      "takeaway": "Bijna honderd artikelen bij ruim twaalf bestaande media, met hulp van ChatGPT. Dilemma voor redacties, vakbladen en kennisinstellingen: externe auteurs streng controleren en goede freelancers afschrikken, of open blijven en het risico lopen een nepauteur geloofwaardigheid te geven.",
+      "source_name": "AI Wereld",
+      "source_url": "https://aiwereld.nl/nieuws/nepjournalisten-krijgen-met-hulp-van-chatgpt-bijna-100-artikelen-in-echte-nieuwsmedia"
+    },
+    {
+      "section": "werk",
+      "headline": "IMF: AI raakt tot veertig procent van de banen",
+      "takeaway": "Op de jaarvergadering in Bangkok waarschuwden Georgieva en Tharman voor banenverlies en minder instapbanen. Werkgevers die juniorfuncties schrappen, missen later ervaren krachten; stages moeten meer draaien om oordeelsvermogen en het controleren van AI-werk.",
+      "source_name": "Business AM",
+      "source_url": "https://businessam.be/imf-ai-investeringen-stuwen-wereldeconomie-maar-zetten-arbeidsmarkt-onder-druk"
+    },
+    {
+      "section": "kansen",
+      "headline": "Eén compliance-dossier voor AI bij kleinere financiële partijen",
+      "takeaway": "Adviesbureaus en softwarebedrijven kunnen kredietverstrekkers en verzekeraars een sjabloon bieden dat AI-verordening, AVG en DORA tegelijk afdekt.",
+      "source_name": "",
+      "source_url": ""
+    },
+    {
+      "section": "kansen",
+      "headline": "Auteurscontrole voor media en kennisplatforms",
+      "takeaway": "Communicatiebureaus kunnen vakbladen en brancheverenigingen een controleprocedure en training aanbieden om nepauteurs te weren.",
+      "source_name": "",
+      "source_url": ""
+    }
+  ]
+}
