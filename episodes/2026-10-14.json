@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-14",
+  "title": "Kort geding om Meta-bril, kabinet wil eigen AI-omgeving voor scholen",
+  "summary": "Organisaties dagen Meta voor de rechter, het kabinet plant een publieke AI-hub voor scholen en Google rolt Gemini 4 Argon uit. Plus de woensdag-editie met onderwijs en jouw kansen.",
+  "intro": "Goedemorgen. Het is woensdag veertien oktober. Dit is AI in een paar minuten. Vandaag: drie organisaties dagen Meta voor de rechter om de camerabril, het kabinet wil een eigen AI-omgeving voor scholen, en Google rolt Gemini 4 Argon wereldwijd uit.",
+  "sections": [
+    {
+      "key": "nl",
+      "title": "Nederland",
+      "script": "Offlimits, journalistiek platform The Firewall en de Consumentenbond starten een kort geding tegen Meta. Inzet is de slimme bril met camera en microfoon in het montuur. Volgens de organisaties merken omstanders het opnamelampje nauwelijks op. Zij willen de bril uit de winkel zolang heimelijk filmen mogelijk is. De Consumentenbond wil daarnaast dat gezichten onherkenbaar worden en dat de AI-functie standaard uit staat. Meta weigert de verkoop te stoppen, meldt Dutch IT Channel. Het bedrijf noemt het lampje duidelijk genoeg en stelt cameravrije zones voor. Voor een sportschool of zorginstelling is het verstandig nu al vast te leggen of camerabrillen binnen welkom zijn.\n\nDan het AI-Trendonderzoek van Berenschot en Nyenrode, gemeld door Consultancy.nl. Driekwart van de ruim tweehonderd respondenten vindt AI-gebruik wenselijk. Toch daalde gebruik op basis van beleid en doelen van zevenentwintig naar negentien procent. Zevenendertig procent biedt medewerkers geen AI-training, terwijl de AI-verordening sinds februari vorig jaar AI-geletterdheid vereist. Ook valt op dat gebruik bij de publieke sector daalde ten opzichte van vorig jaar. Een gemeente of woningcorporatie zonder training loopt dus achter op een wettelijke plicht."
+    },
+    {
+      "key": "wereld",
+      "title": "Wereldwijd",
+      "script": "Dan het nieuws uit het buitenland.\n\nGoogle maakt zijn nieuwste topmodel Gemini 4 Argon breed beschikbaar, meldt The AI Insider. Het model is wereldwijd te gebruiken via de betaalde Gemini API en in de Gemini-app voor Pro- en Ultra-abonnees. De introductieprijs is twee dollar per miljoen invoertokens en tien dollar per miljoen uitvoertokens. Google claimt een eerste plaats op een index voor financieel, juridisch en programmeerwerk. Intern leverden Google-programmeurs ruim vijfendertig procent meer door agents geschreven code in. Voor Nederlandse softwarebedrijven wordt de keuze scherper. Overstappen op het snelste model levert direct productiviteit op, maar vergroot de afhankelijkheid van één Amerikaanse aanbieder. Een Europees model biedt meer grip op data, maar mogelijk minder prestaties.\n\nApple brengt zijn nieuwe slimme thuisscherm HomeView niet uit in de Europese Unie. Volgens MacRumors is de reden dat de AI-versie van Siri hier nog niet beschikbaar is. Apple zegt constructief met de EU te praten, maar noemt geen termijn. In de Verenigde Staten kost het apparaat tweehonderdnegenennegentig dollar. Ook Nederlandse organisaties staan voor een keuze. Wachten op Europese versies betekent later toegang tot nieuwe functies. Uitwijken naar diensten die hier wel werken, kost tijd voor een nieuwe privacytoets en extra beheer."
+    },
+    {
+      "key": "werk",
+      "title": "Werk",
+      "script": "Dan werk en de arbeidsmarkt.\n\nWorkday publiceerde gisteren zijn wereldwijde Global Workforce Report. De vraag naar basisvaardigheden in AI, zoals eenvoudige prompts schrijven, daalde sinds januari met vijfentwintig procent. De vraag naar praktische AI-vaardigheden, zoals workflows automatiseren en AI-tools bouwen, steeg met eenenvijftig procent. Van de zesduizend ondervraagde werknemers zegt negenenzeventig procent te weten welke vaardigheden nodig zijn. Maar slechts zesenzestig procent krijgt daarbij actieve hulp van de werkgever.\n\nIntussen schrapt de Amerikaanse supermarktketen Kroger zevenendertig procent van zijn kantoorbanen, ongeveer drieduizend functies, meldt 24/7 Wall St. op basis van Bloomberg. De topman noemt AI als middel om managementwerk efficiënter te maken.\n\nVoor werkgevers is de les: wie personeel alleen leert prompten, investeert in een vaardigheid die snel minder waard wordt. Voor werkenden in middenmanagement is het zaak om toepassingsvaardigheden op te bouwen."
+    },
+    {
+      "key": "onderwijs",
+      "title": "Onderwijs",
+      "script": "Dan onderwijs en AI.\n\nHet kabinet wil in tweeduizend achtentwintig een publieke AI-omgeving voor het basis- en voortgezet onderwijs. Dat schrijft staatssecretaris Tielen aan de Tweede Kamer, meldt Security.NL. Volgend jaar is er tien komma zeven miljoen euro beschikbaar, daarna structureel zeven komma vier miljoen. Een centrale AI-hub verbindt onderwijsapps met verschillende AI-modellen. Er komt een register van modellen, en scholen kiezen zelf welke publieke of commerciële diensten ze aanbieden. Een plan van aanpak volgt eind dit jaar. Volgens de brief hebben scholen nu weinig zicht op hoe commerciële tools met data omgaan.\n\nDit raakt aan kansengelijkheid. Een grote scholengroep kan zelf contracten en privacytoetsen regelen, een kleine basisschool niet. Een gedeelde omgeving geeft ook kleine scholen veilige toegang.\n\nDe brief noemt ook onderzoek. Leerlingen die AI hun opdrachten laten schrijven, scoren gemiddeld lager. Wie AI gebruikt om te leren en de kwaliteit van AI-antwoorden leert beoordelen, presteert beter. Dat verschuift de rol van de docent van kennisoverdrager naar coach, die leerlingen begeleidt in kritisch gebruik.\n\nVoor het mbo, hbo en wo loopt een eigen spoor. SURF en Npuls lanceren in januari SURF AI, met een AI-hub en de chatapplicatie eduGenAI. Voor docenten en begeleiders betekent dit: de komende maanden is het moment om afspraken te maken over hoe studenten AI als leerhulp inzetten, niet als schrijfmachine."
+    },
+    {
+      "key": "kansen",
+      "title": "Kansen",
+      "script": "Tot slot: de kansen.\n\nEerste kans: AI-geletterdheid voor organisaties zonder training. Volgens Berenschot en Nyenrode biedt zevenendertig procent van de organisaties geen AI-training, terwijl de wet dat vraagt. Trainers en adviseurs kunnen een compact programma aanbieden dat begint bij strategie en eindigt met praktische afspraken. De doelgroep is vooral publieke organisaties, waar structureel gebruik daalde.\n\nTweede kans: veilig AI-gebruik voor ouderen. Uit onderzoek van SeniorWeb blijkt dat achtenveertig procent van de ouderen AI gebruikt. Vierenzestig procent weet niet goed hoe dat veilig kan. Voor een AI-webinar meldden zich ruim eenentwintigduizend mensen aan. Bibliotheken, welzijnsorganisaties en ouderenbonden kunnen hier workshops voor inkopen, bijvoorbeeld over het herkennen van nepcontent.\n\nDerde kans: beleid voor camerabrillen. Sportscholen, zorginstellingen en horeca hebben een eenvoudig huisreglement en bordjes nodig. Een jurist of privacyadviseur kan dat als vast pakket aanbieden."
+    },
+    {
+      "key": "persoonlijk",
+      "title": "Kansen",
+      "script": "Tot slot, speciaal voor jou: jouw kansen deze week.\n\nEerste actie, als ondernemer. Het nieuws: zevenendertig procent van de organisaties biedt geen AI-training, terwijl de AI-verordening AI-geletterdheid verplicht. Gebruik op basis van beleid daalt juist. Deze week maak je een aanbod van één A4: een workshop van een dagdeel, eerst strategie, dan praktische afspraken over AI en privacy. Richt je op mkb en non-profit, en benader tien organisaties uit je netwerk. Je B2B-ervaring helpt bij die eerste gesprekken. De ROI: het kost je ongeveer zes uur. Eén verkochte workshop kan zo'n duizend euro opleveren, en je bouwt aan een herhaalbaar product. De impact: je positioneert je als begeleider die AI koppelt aan strategie, niet aan losse tools. Als je dit deze week niet oppakt, mis je deze kans omdat veel organisaties in het vierde kwartaal hun opleidingsbudget voor volgend jaar vastleggen.\n\nTweede actie, als I-coach. Het nieuws: de kabinetsbrief noemt onderzoek waaruit blijkt dat studenten die AI laten schrijven lager scoren, en studenten die AI als leerhulp gebruiken beter. Tegelijk gaat SURF AI met eduGenAI in januari live voor het mbo. Deze week maak je een korte handreiking voor begeleiders: drie manieren om AI als leerhulp in te zetten, en drie vragen waarmee een student AI-antwoorden controleert. Inventariseer ook welke AI-tools in jouw team nu worden gebruikt. De ROI: het kost je ongeveer vier uur. Het scheelt later tijd, omdat je de overstap naar eduGenAI gericht kunt voorbereiden. De impact: begeleiders werken met één heldere lijn, en dat helpt ook bij privacy en de AVG. Als je dit deze week niet oppakt, mis je deze kans omdat de lancering in januari komt en collega's vóór de kerstvakantie nog tijd moeten hebben om ermee te oefenen."
+    }
+  ],
+  "outro": "Dat was AI in een paar minuten, met de woensdag-editie over onderwijs en jouw kansen. Morgen om acht uur weer. Dank voor het luisteren.",
+  "items": [
+    {
+      "section": "nl",
+      "headline": "Organisaties starten kort geding tegen Meta om camerabril",
+      "takeaway": "Offlimits, The Firewall en de Consumentenbond willen de bril uit de winkel zolang heimelijk filmen mogelijk is; Meta weigert. Sportscholen en zorginstellingen doen er goed aan nu een huisregel vast te leggen.",
+      "source_name": "Dutch IT Channel",
+      "source_url": "https://www.dutchitchannel.nl/news/762492/organisaties-starten-kort-geding-tegen-meta-over-camerabrillen"
+    },
+    {
+      "section": "nl",
+      "headline": "AI-Trendonderzoek: 37 procent biedt geen AI-training",
+      "takeaway": "Berenschot en Nyenrode zien meer draagvlak maar minder beleidsmatig gebruik. Organisaties zonder training lopen achter op de AI-geletterdheidsplicht.",
+      "source_name": "Consultancy.nl",
+      "source_url": "https://www.consultancy.nl/nieuws/70808/ai-trendonderzoek-2026-organisaties-worstelen-met-structurele-inbedding-van-ai-gebruik"
+    },
+    {
+      "section": "wereld",
+      "headline": "Google rolt Gemini 4 Argon wereldwijd uit",
+      "takeaway": "Dilemma voor Nederlandse softwarebedrijven: direct overstappen op het snelste model en afhankelijker worden van één Amerikaanse aanbieder, of een Europees model kiezen met meer grip op data en mogelijk minder prestaties.",
+      "source_name": "The AI Insider",
+      "source_url": "https://theaiinsider.tech/2026/10/13/google-begins-gemini-4-argon-rollout/"
+    },
+    {
+      "section": "wereld",
+      "headline": "Apple brengt HomeView niet uit in de EU",
+      "takeaway": "Dilemma voor Nederlandse organisaties: wachten op Europese versies en later nieuwe functies krijgen, of uitwijken naar diensten die hier wel werken, met een nieuwe privacytoets en extra beheer.",
+      "source_name": "MacRumors",
+      "source_url": "https://www.macrumors.com/2026/10/13/apple-homeview-wont-be-available-in-eu/"
+    },
+    {
+      "section": "werk",
+      "headline": "Workday: vraag naar basale AI-vaardigheden daalt, praktische stijgt",
+      "takeaway": "Vraag naar promptvaardigheden daalde 25 procent, naar praktische AI-vaardigheden steeg die 51 procent. Werkgevers moeten verder gaan dan prompttraining.",
+      "source_name": "Emerce (Workday)",
+      "source_url": "https://www.emerce.nl/wire/workday-global-workforce-report-ai-verandert-banen-sneller-ze-schrapt"
+    },
+    {
+      "section": "werk",
+      "headline": "Kroger schrapt 37 procent van kantoorbanen",
+      "takeaway": "Ongeveer drieduizend functies verdwijnen; de topman noemt AI als middel om managementwerk efficiënter te maken. Middenmanagers doen er goed aan toepassingsvaardigheden op te bouwen.",
+      "source_name": "24/7 Wall St. (via Bloomberg)",
+      "source_url": "https://247wallst.com/investing/2026/10/13/kroger-to-cut-37-of-corporate-jobs-another-ai-win"
+    },
+    {
+      "section": "onderwijs",
+      "headline": "Kabinet wil in 2028 publieke AI-omgeving voor scholen",
+      "takeaway": "Een AI-hub met modelregister voor po en vo, 10,7 miljoen euro startgeld. Koppeling met kansengelijkheid en de docent als coach; voor mbo, hbo en wo komt SURF AI met eduGenAI in januari.",
+      "source_name": "Security.NL",
+      "source_url": "https://www.security.nl/posting/957343/Kabinet+wil+in+2028+publieke+AI-omgeving+voor+scholen+en+leraren?channel=rss"
+    },
+    {
+      "section": "onderwijs",
+      "headline": "SURF AI met eduGenAI vanaf januari 2027",
+      "takeaway": "AI-hub en chatapplicatie voor mbo, hbo en wo, ontwikkeld door SURF en Npuls.",
+      "source_name": "SURF",
+      "source_url": "https://www.surf.nl/en/news/surf-ai-coming-soon-for-education-and-research"
+    },
+    {
+      "section": "kansen",
+      "headline": "AI-geletterdheidstraining voor organisaties zonder training",
+      "takeaway": "Compact programma van strategie naar praktische afspraken, vooral voor publieke organisaties.",
+      "source_name": "Consultancy.nl",
+      "source_url": "https://www.consultancy.nl/nieuws/70808/ai-trendonderzoek-2026-organisaties-worstelen-met-structurele-inbedding-van-ai-gebruik"
+    },
+    {
+      "section": "kansen",
+      "headline": "Workshops veilig AI-gebruik voor ouderen",
+      "takeaway": "48 procent van de ouderen gebruikt AI, 64 procent weet niet goed hoe dat veilig kan. Kans voor aanbieders richting bibliotheken en welzijnsorganisaties.",
+      "source_name": "ANP / SeniorWeb",
+      "source_url": "https://persportaal.anp.nl/artikel/0cbaf747-3aff-4137-9688-67fede0ec828/bijna-helft-ouderen-gebruikt-ai-maar-nepcontent-baart-zorgen"
+    },
+    {
+      "section": "kansen",
+      "headline": "Huisreglement voor camerabrillen",
+      "takeaway": "Vast pakket met regels en bordjes voor sportscholen, zorg en horeca.",
+      "source_name": "",
+      "source_url": ""
+    },
+    {
+      "section": "persoonlijk",
+      "headline": "Workshop AI-geletterdheid voor mkb en non-profit",
+      "takeaway": "Eén A4-aanbod, tien organisaties benaderen; circa zes uur werk, één workshop kan circa duizend euro opleveren. Reden voor nu: opleidingsbudgetten voor volgend jaar worden in het vierde kwartaal vastgelegd.",
+      "source_name": "",
+      "source_url": ""
+    },
+    {
+      "section": "persoonlijk",
+      "headline": "Handreiking 'AI als leerhulp' voor begeleiders",
+      "takeaway": "Korte handreiking plus inventarisatie van gebruikte tools, als voorbereiding op eduGenAI in januari; circa vier uur werk.",
+      "source_name": "",
+      "source_url": ""
+    }
+  ]
+}
