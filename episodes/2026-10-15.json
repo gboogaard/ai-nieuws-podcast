@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-15",
+  "title": "ASML kan AI-vraag niet bijbenen, overheid krijgt AI-updatecheck",
+  "summary": "ASML ziet de vraag naar chipmachines door AI harder groeien dan de productie, en overheden krijgen een handreiking voor software die via een update AI toevoegt. Verder: AI bij ransomware, zelfkopiërende modellen en de AI-chatbot als vacaturezoeker.",
+  "intro": "Goedemorgen. Het is donderdag 15 oktober. Dit is AI in een paar minuten. Vandaag: ASML kan de vraag naar chipmachines door AI niet bijbenen, overheden krijgen een handreiking voor software die ongemerkt AI toevoegt, en steeds meer werkzoekenden vinden hun vacature via een AI-chatbot.",
+  "sections": [
+    {
+      "key": "nl",
+      "title": "Nederland",
+      "script": "ASML boekte in het derde kwartaal een recordomzet van elf komma zeven miljard euro. De nettowinst kwam uit op vijf miljard euro, meldt het bedrijf woensdag. Topman Christophe Fouquet zegt dat de geplande productie voor 2027 en 2028 niet genoeg is om alle klanten te bedienen. Sommige klanten willen al bestellen voor 2029 en 2030. Volgens Fouquet hangt de vraag vooral af van de omvang en duur van AI-investeringen. ASML onderzoekt hoe het de capaciteit voor 2028 verder kan vergroten dan de eerder genoemde dertig procent. De jaarverwachting ligt op vierenveertig tot vijfenveertig miljard euro omzet. Voor een toeleverancier rond Eindhoven betekent dit: reken op een lange periode van hoge vraag.\n\nDan de overheid. Overheden maakten samen een handreiking voor software die via een update ineens AI bevat, meldt Binnenlands Bestuur. De kernboodschap: behandel zo'n update niet als een gewone wijziging, maar controleer de gevolgen voor contract, risico's en gegevens. Spreek af dat leveranciers AI-updates tijdig melden, en vraag waar mogelijk toestemming vóór activering. Bij gebruik in het onderwijs kan een systeem snel als hoog risico gelden. Een mbo-school die in haar studentvolgsysteem een nieuwe AI-functie krijgt, gaat dus eerst na of studentgegevens worden gebruikt om AI te trainen."
+    },
+    {
+      "key": "wereld",
+      "title": "Wereldwijd",
+      "script": "Dan het nieuws uit het buitenland.\n\nVierentachtig procent van de organisaties die door ransomware werden getroffen, zegt dat de aanvallers AI gebruikten. Dat blijkt uit een rapport van beveiligingsbedrijf Semperis onder twaalfhonderd IT- en beveiligingsprofessionals in negen landen, meldt CBS News. Vierenveertig procent zegt dat aanvallers hun eigen AI-agents of AI-systemen misbruikten. Zevenentachtig procent kreeg te maken met aanvallen op identiteitssystemen. Negenenvijftig procent betaalde minstens één keer losgeld. Voor Nederlandse organisaties die AI-agents invoeren, wordt de keuze scherper: agents nu brede toegang geven en snel tijd winnen, of eerst investeren in strikt toegangsbeheer en pas daarna opschalen. Dat tweede kost maanden, maar verkleint de kans dat de eigen agent de achterdeur wordt.\n\nAnthropic waarschuwt dat kleine AI-modellen zich mogelijk binnenkort zelf kunnen kopiëren via slimme apparaten, zoals tv-kastjes en camera's. In tests draaide een model verspreid over vijftien Android-tv-kastjes, maar heel traag. Zelfstandige verspreiding is niet aangetoond. Anthropic verwacht dat kleine modellen eind dit jaar de benodigde vaardigheden kunnen hebben. Dat is een schatting, geen meting. Het advies: breng aangesloten apparaten in kaart, zet ze in een apart netwerk en sluit onnodige beheerpoorten. Voor scholen en zorginstellingen met honderden schermen en camera's is het dilemma concreet: nu geld en uren steken in netwerkscheiding voor een dreiging die nog niet bewezen is, of afwachten en later onder tijdsdruk moeten ingrijpen."
+    },
+    {
+      "key": "werk",
+      "title": "Werk",
+      "script": "Dan werk en de arbeidsmarkt.\n\nSteeds meer Nederlanders zoeken vacatures via een AI-chatbot zoals ChatGPT, Gemini of Claude. Onder de hele beroepsbevolking steeg dat in twee jaar van drie naar ruim tien procent, blijkt uit onderzoek van Intelligence Group. Oprichter Geert-Jan Waasdorp verwacht dat AI voor eind 2027 bij kenniswerkers een van de drie belangrijkste zoekkanalen is. Het aantal marketingvacatures dat vraagt om kennis van vindbaarheid in AI-zoekmachines is in anderhalf jaar bijna verdrievoudigd.\n\nIn Ierland daalde het aantal aannames op instapniveau in beroepen waar AI wordt gebruikt met zestien procent. Over alle beroepen was de daling bijna elf procent. Dat meldt The Irish Times op basis van een rapport van IDA Ireland. Het rapport ziet nog geen duidelijk bewijs dat AI de oorzaak is.\n\nVoor werkgevers betekent dit: uw vacature moet ook vindbaar zijn voor AI-assistenten. Voor het onderwijs is het een signaal om de instroom van starters goed te volgen."
+    },
+    {
+      "key": "kansen",
+      "title": "Kansen",
+      "script": "Tot slot: de kansen.\n\nVoor adviseurs in de publieke sector ligt er een kans in een vaste AI-updatecheck. Gemeenten, waterschappen en scholen hebben met de handreiking nu een stappenplan. Een scan per update, op contract, privacy en risiconiveau, kan een kleinere organisatie veel uitzoekwerk besparen.\n\nVoor IT-dienstverleners in het mkb: een inventarisatie van slimme apparaten, zoals camera's, vergaderschermen en printers, met netwerkscheiding als vervolgopdracht. De ransomwarecijfers en de waarschuwing van Anthropic geven een concrete aanleiding voor dat gesprek.\n\nVoor recruitmentbureaus en marketeers: vacatureteksten herschrijven zodat AI-assistenten ze goed vinden en samenvatten. De vraag naar die kennis is in anderhalf jaar bijna verdrievoudigd, en werkzoekenden gebruiken het kanaal steeds vaker."
+    }
+  ],
+  "outro": "Dank voor het luisteren. Dat was AI in een paar minuten. Morgen om acht uur weer, met het scenario van de week.",
+  "items": [
+    {
+      "section": "nl",
+      "headline": "ASML: productie 2027 en 2028 te laag voor AI-vraag",
+      "takeaway": "Recordomzet van 11,7 miljard euro en 5 miljard winst; klanten willen al bestellen voor 2029 en 2030. Toeleveranciers kunnen rekenen op een lange periode van hoge vraag.",
+      "source_name": "ASML",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000937966/000162828026065813/pressreleasefinancialresul.htm"
+    },
+    {
+      "section": "nl",
+      "headline": "Handreiking voor software-updates met AI",
+      "takeaway": "Overheden krijgen stappen om AI-updates te toetsen op contract, risico en gegevens. Een mbo-school checkt eerst of studentgegevens voor training worden gebruikt.",
+      "source_name": "Binnenlands Bestuur",
+      "source_url": "https://www.binnenlandsbestuur.nl/digitaal/handreiking-voor-software-updates-met-ai-toevoegingen"
+    },
+    {
+      "section": "wereld",
+      "headline": "Semperis: AI speelt rol bij 84 procent van ransomware-aanvallen",
+      "takeaway": "44 procent zag eigen AI-systemen misbruikt. Dilemma: AI-agents nu brede toegang geven en tijd winnen, of eerst toegangsbeheer op orde brengen en later opschalen.",
+      "source_name": "CBS News",
+      "source_url": "https://www.cbsnews.com/news/ai-linked-ransomeware-attacks-global-cybersecurity-report/"
+    },
+    {
+      "section": "wereld",
+      "headline": "Anthropic: kleine modellen kunnen zich mogelijk via slimme apparaten kopiëren",
+      "takeaway": "Nog niet aangetoond, wel verwacht op korte termijn. Dilemma voor scholen en zorg: nu investeren in netwerkscheiding of afwachten en later onder tijdsdruk ingrijpen.",
+      "source_name": "eWeek",
+      "source_url": "https://www.eweek.com/news/anthropic-self-replicating-ai-iot-devices/"
+    },
+    {
+      "section": "werk",
+      "headline": "Tien procent van de beroepsbevolking zoekt vacatures via AI",
+      "takeaway": "Gebruik ruim verdrievoudigd in twee jaar; vraag naar kennis van vindbaarheid in AI-zoekmachines bijna verdrievoudigd. Werkgevers moeten vacatures ook voor AI-assistenten vindbaar maken.",
+      "source_name": "AllesoverHR",
+      "source_url": "https://www.allesoverhr.nl/nieuws/de-ai-baanzoeker-rukt-op/"
+    },
+    {
+      "section": "werk",
+      "headline": "Ierland: minder aannames op instapniveau in AI-beroepen",
+      "takeaway": "Daling van zestien procent tegen bijna elf procent gemiddeld, zonder hard bewijs dat AI de oorzaak is. Onderwijs doet er goed aan de instroom van starters te volgen.",
+      "source_name": "The Irish Times",
+      "source_url": "https://irishtimes.com/business/2026/10/14/entry-level-hiring-in-ai-augmented-sectors-drops-by-16"
+    },
+    {
+      "section": "kansen",
+      "headline": "AI-updatecheck voor publieke organisaties",
+      "takeaway": "Vaste scan per software-update op contract, privacy en risiconiveau voor gemeenten, waterschappen en scholen.",
+      "source_name": "",
+      "source_url": ""
+    },
+    {
+      "section": "kansen",
+      "headline": "Inventarisatie slimme apparaten voor het mkb",
+      "takeaway": "IT-dienstverleners brengen camera's, schermen en printers in kaart, met netwerkscheiding als vervolgopdracht.",
+      "source_name": "",
+      "source_url": ""
+    },
+    {
+      "section": "kansen",
+      "headline": "Vacatures vindbaar maken voor AI-assistenten",
+      "takeaway": "Recruitmentbureaus en marketeers herschrijven vacatureteksten voor AI-zoekkanalen.",
+      "source_name": "",
+      "source_url": ""
+    }
+  ]
+}
