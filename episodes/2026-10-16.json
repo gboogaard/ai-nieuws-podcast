@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-16",
+  "title": "AI levert minder op dan gedacht, Sunny Cars verhuurt via ChatGPT",
+  "summary": "Minder Nederlandse organisaties zien waarde in AI, Sunny Cars opent een kanaal in ChatGPT, en een Amerikaanse bank en een Zweedse omroep ervaren de keerzijde van krachtige AI. Plus: werkgevers over verdwijnende functies en het scenario van de week.",
+  "intro": "Goedemorgen. Het is vrijdag 16 oktober. Dit is AI in een paar minuten. Vandaag: minder Nederlandse organisaties zien echte waarde in AI, Sunny Cars biedt huurauto's aan in ChatGPT, en twee waarschuwingen over AI die meer kan dan organisaties aankunnen.",
+  "sections": [
+    {
+      "key": "nl",
+      "title": "Nederland",
+      "script": "Nederlandse organisaties zijn minder positief over hun eigen AI-resultaten. Dat blijkt uit de Global AI Pulse van KPMG, een peiling onder ruim tweeduizend bestuurders wereldwijd, meldt Dutch IT Channel. Achtenzestig procent van de Nederlandse organisaties zegt echt zakelijke waarde uit AI te halen. In het tweede kwartaal was dat nog tweeëntachtig procent. Organisaties gebruiken AI vaker, maar de verwachtingen worden niet altijd waargemaakt. Genoemde oorzaken zijn een tekort aan vaardigheden, onduidelijke strategie en een slechte aansluiting op bedrijfsdoelen. Een groothandel die een chatbot heeft ingevoerd, doet er goed aan eerst te meten wat die bespaart, voordat er een tweede project bij komt.\n\nDan Sunny Cars. Nederlandse en Belgische reizigers kunnen sinds donderdag in ChatGPT naar huurauto's vragen. De chatbot toont actuele prijzen en beschikbaarheid. Boeken gebeurt voorlopig nog op de eigen website van Sunny Cars. Het Nederlandse bureau New Story bouwde de koppeling, volgens MarketingTribune. Daarmee wordt ChatGPT een verkoopkanaal naast zoekmachines en vergelijkingssites. Een reisbureau of fietsverhuurder kan nu al nagaan of het eigen aanbod straks ook zo vindbaar moet zijn."
+    },
+    {
+      "key": "wereld",
+      "title": "Wereldwijd",
+      "script": "Dan het nieuws uit het buitenland.\n\nBank of America heeft ongeveer duizend externe programmeurs ingehuurd. Zij helpen drieduizend eigen technici met het dichten van beveiligingslekken. Die lekken werden gevonden door Mythos, een AI-model van Anthropic dat zwakke plekken in software opspoort. Topman Brian Moynihan noemde de kosten van het herstelwerk, samen met andere maatregelen, een paar honderd miljoen plus. Dat meldt The Register. Voor Nederlandse banken, verzekeraars en hogescholen wordt de keuze scherper. Laten zij hun systemen nu door zo'n model doorlichten, dan moeten ze direct capaciteit en budget vrijmaken om alles te herstellen. Wachten kost nu niets, maar de kans groeit dat aanvallers dezelfde lekken eerder vinden.\n\nIn Zweden wiste een AI-agent een volledig gemonteerd tv-seizoen van omroep TV4, enkele weken voor de uitzending. De agent had toegang tot de productieserver en de back-up faalde. Het seizoen moet opnieuw worden gemonteerd uit de ruwe opnames, meldt Tom's Hardware. Voor Nederlandse organisaties die agents laten werken met bedrijfsbestanden ligt er een duidelijke keuze. Ruime rechten geven, en snel tijd besparen. Of de agent alleen laten lezen en eerst de back-ups testen, wat de invoering weken vertraagt maar dit risico wegneemt."
+    },
+    {
+      "key": "werk",
+      "title": "Werk",
+      "script": "Dan werk en de arbeidsmarkt.\n\nWerkgeversvereniging AWVN peilde onder haar leden de impact van AI op werk. AI kost voorlopig geen banen, maar functies veranderen. Achtentwintig procent van de werkgevers verwacht dat er de komende twee jaar functies verdwijnen. Op lange termijn verwacht vijfenzeventig procent dat. Zestig procent ziet medewerkers die de ontwikkeling niet bijhouden als risico. Werkgevers willen scholing aanbieden en vinden menselijke regie noodzakelijk.\n\nIn de reclamewereld verschuift het werk. Emerce onderzocht vijf grote reclameholdings. Volgens de bestuurders is AI zelden de hoofdreden voor ontslagen. Wel verwacht WPP dat tarieven dalen, en Monks wil eind dit jaar een kwart van de omzet uit abonnementen halen. Uren verkopen wordt lastiger als AI het werk versnelt. Voor werkenden betekent dit: wie nu leert met AI te werken, zit straks niet in de groep die werkgevers als risico zien. Voor het onderwijs betekent het dat praktische AI-vaardigheid in elke opleiding hoort.\n\nTot slot het scenario van de week. Wat als AI-agents over drie jaar het grootste deel van het klantcontact afhandelen, van vragen tot boekingen? Klanten vragen dan hun eigen assistent om een huurauto of een offerte. Het beantwoorden van standaardvragen en het invoeren van orders verdwijnt grotendeels. Complexe klachten en persoonlijk advies blijven mensenwerk. Nieuw is het werk van de begeleider van agents: rechten instellen, fouten opsporen en zorgen dat het eigen aanbod goed vindbaar is. Dit is een denkoefening, geen voorspelling. Welke vragen van klanten beantwoordt u nu elke week opnieuw, en wat zou u doen met die tijd? Een eerste stap: noteer deze week de vijf vragen die u het vaakst krijgt."
+    },
+    {
+      "key": "kansen",
+      "title": "Kansen",
+      "script": "Tot slot: de kansen.\n\nDe eerste kans ligt bij webbureaus en marketeers. Sunny Cars laat zien dat bedrijven hun aanbod rechtstreeks in ChatGPT kunnen tonen. Reis-, verhuur- en retailbedrijven in het mkb hebben die kennis zelden in huis. Een vast pakket voor zo'n koppeling, inclusief metingen van het verkeer, is nu nog onderscheidend.\n\nDe tweede kans ligt bij IT-dienstverleners. Het incident bij TV4 toont dat agents en slechte back-ups een gevaarlijke combinatie zijn. Een korte check voordat een agent live gaat, met een getest herstelplan en minimale rechten, is een overzichtelijke dienst voor mkb-klanten.\n\nDe derde kans ligt bij adviseurs. Volgens KPMG zien minder organisaties waarde in AI. Wie helpt meten wat een toepassing oplevert, helpt bestuurders kiezen welke projecten doorgaan."
+    }
+  ],
+  "outro": "Dat was AI in een paar minuten. Dank u voor het luisteren en een goed weekend. Zondag het weekoverzicht, maandag om acht uur weer.",
+  "items": [
+    {
+      "section": "nl",
+      "headline": "KPMG: minder Nederlandse organisaties zien waarde in AI",
+      "takeaway": "Achtenzestig procent haalt zakelijke waarde uit AI, tegen tweeëntachtig procent in het tweede kwartaal. Meet eerst wat een bestaande toepassing oplevert voordat u uitbreidt.",
+      "source_name": "Cloud Expo / Dutch IT Channel",
+      "source_url": "https://cloudexpo.nl/nieuws/nederlandse-organisaties-minder-positief-over-eigen-ai-vorderingen"
+    },
+    {
+      "section": "nl",
+      "headline": "Sunny Cars toont huurauto's in ChatGPT",
+      "takeaway": "Nederlandse en Belgische reizigers zien actuele prijzen en beschikbaarheid in ChatGPT; boeken gaat via de website. ChatGPT wordt een verkoopkanaal waar ook kleinere aanbieders over moeten nadenken.",
+      "source_name": "Het Laatste AI Nieuws / MarketingTribune",
+      "source_url": "https://www.hetlaatsteainieuws.nl/radar/ai-radar-nederland-15-oktober-2026-bank-america-huurt-duizend#een-huurauto-zoeken-in-chatgpt"
+    },
+    {
+      "section": "wereld",
+      "headline": "Bank of America huurt duizend krachten in om door Mythos gevonden lekken te dichten",
+      "takeaway": "Dilemma voor Nederlandse banken, verzekeraars en onderwijsinstellingen: nu laten doorlichten en direct herstelcapaciteit vrijmaken, of wachten en het risico lopen dat aanvallers de lekken eerder vinden.",
+      "source_name": "Het Laatste AI Nieuws / The Register",
+      "source_url": "https://www.hetlaatsteainieuws.nl/radar/ai-radar-nederland-15-oktober-2026-bank-america-huurt-duizend#duizend-extra-krachten-om-de-lekken-te-dichten-die-mythos-vond"
+    },
+    {
+      "section": "wereld",
+      "headline": "AI-agent wist tv-seizoen van Zweedse omroep TV4",
+      "takeaway": "Dilemma: agents ruime rechten geven en snel tijd besparen, of alleen leesrechten en eerst geteste back-ups, met weken vertraging maar zonder dit risico.",
+      "source_name": "Het Laatste AI Nieuws / Tom's Hardware",
+      "source_url": "https://www.hetlaatsteainieuws.nl/radar/ai-radar-nederland-15-oktober-2026-bank-america-huurt-duizend#een-zweeds-tv-seizoen-verdwijnt-van-de-server-een-ai-agent-had-er-toegang-toe"
+    },
+    {
+      "section": "werk",
+      "headline": "AWVN: functies veranderen, 75 procent verwacht op termijn verdwijnende functies",
+      "takeaway": "Achtentwintig procent verwacht binnen twee jaar verdwijnende functies; zestig procent ziet medewerkers die niet meekomen als risico. Scholing en menselijke regie staan centraal.",
+      "source_name": "AWVN",
+      "source_url": "https://www.awvn.nl/nieuws/ledenonderzoek-2026-impact-ai-op-werk/"
+    },
+    {
+      "section": "werk",
+      "headline": "Emerce: reclameholdings verwachten lagere tarieven door AI",
+      "takeaway": "AI is zelden de hoofdreden voor ontslagen, maar het verdienmodel verschuift van uren naar abonnementen en eigen data.",
+      "source_name": "Emerce",
+      "source_url": "https://www.emerce.nl/nieuws/onderzoek-invloed-ai-agencies-2027"
+    },
+    {
+      "section": "werk",
+      "headline": "Scenario: agents handelen over drie jaar het meeste klantcontact af",
+      "takeaway": "Standaardvragen en orderinvoer verdwijnen grotendeels; complexe klachten en advies blijven; begeleider van agents is nieuw werk. Eerste stap: noteer de vijf vragen die u het vaakst krijgt.",
+      "source_name": "",
+      "source_url": ""
+    },
+    {
+      "section": "kansen",
+      "headline": "ChatGPT-koppelingen als pakket voor het mkb",
+      "takeaway": "Webbureaus en marketeers kunnen reis-, verhuur- en retailbedrijven helpen hun aanbod in ChatGPT te tonen, inclusief verkeersmetingen.",
+      "source_name": "",
+      "source_url": ""
+    },
+    {
+      "section": "kansen",
+      "headline": "Veiligheidscheck voordat een AI-agent live gaat",
+      "takeaway": "IT-dienstverleners kunnen back-ups testen en agentrechten beperken voor mkb-klanten.",
+      "source_name": "",
+      "source_url": ""
+    },
+    {
+      "section": "kansen",
+      "headline": "Rendementsmeting van AI-projecten",
+      "takeaway": "Adviseurs kunnen bestuurders helpen meten wat AI oplevert en kiezen welke projecten doorgaan.",
+      "source_name": "",
+      "source_url": ""
+    }
+  ]
+}
