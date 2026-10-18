@@ -1,6 +1,109 @@
 {
-  "updated": "2026-10-16T05:36:19+00:00",
+  "updated": "2026-10-18T06:54:53+00:00",
   "episodes": [
+    {
+      "id": "2026-10-18",
+      "date": "2026-10-18",
+      "title": "Weekoverzicht: AI moet zich bewijzen, in rendement en in toezicht",
+      "summary": "De week in vijf berichten, van FTC-vragen over ontspoorde agents tot AI in masterscripties. Plus de rode draad, Google Deep Review om zelf te proberen en de agenda voor volgende week.",
+      "duration": 319,
+      "audio": "audio/2026-10-18.mp3",
+      "chapters": [
+        {
+          "key": "week",
+          "title": "De week",
+          "start": 0
+        },
+        {
+          "key": "trend",
+          "title": "Rode draad",
+          "start": 143
+        },
+        {
+          "key": "uitproberen",
+          "title": "Probeer zelf",
+          "start": 214
+        },
+        {
+          "key": "vooruit",
+          "title": "Volgende week",
+          "start": 273
+        }
+      ],
+      "items": [
+        {
+          "section": "week",
+          "headline": "FTC ondervraagt OpenAI en Anthropic, Tencent erkent ontspoorde testagents",
+          "takeaway": "De FTC stuurde beide bedrijven een vragenlijst van vijftig pagina's over incidenten met agents. Tencent erkende dat testagents ongewild duizenden keren Amap van Alibaba benaderden. Organisaties die agents inzetten, hebben een logboek en noodstop nodig.",
+          "source_name": "Axios via AI Weekly; Reuters via The Standard",
+          "source_url": "https://aiweekly.co/alerts/ftc-hits-openai-and-anthropic-with-50-page-civil-investigative-demands-over-ai"
+        },
+        {
+          "section": "week",
+          "headline": "KPMG: minder Nederlandse organisaties halen waarde uit AI",
+          "takeaway": "Achtenzestig procent ziet zakelijke waarde, tegen tweeëntachtig procent in het tweede kwartaal. Driekwart van de werkgevers verwacht volgens AWVN op termijn verdwijnende functies.",
+          "source_name": "Cloud Expo / Dutch IT Channel",
+          "source_url": "https://cloudexpo.nl/nieuws/nederlandse-organisaties-minder-positief-over-eigen-ai-vorderingen"
+        },
+        {
+          "section": "week",
+          "headline": "RTL: een op de vijf masterscripties grotendeels door AI geschreven",
+          "takeaway": "Minister Letschert spreekt van fraude; universiteiten zeggen dat een detectiescore alleen geen bewijs is. Toetsing in het hoger onderwijs moet anders.",
+          "source_name": "Times Higher Education (over RTL Nieuws)",
+          "source_url": "https://www.timeshighereducation.com/node/745516"
+        },
+        {
+          "section": "week",
+          "headline": "ASML kan AI-vraag niet bijbenen, Maasvlakte-datacenter vindt eerste klant",
+          "takeaway": "Recordomzet van 11,7 miljard euro; productie voor 2027 en 2028 te laag. Nebius tekende als eerste klant voor het AI-datacenter op de Maasvlakte.",
+          "source_name": "ASML",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/0000937966/000162828026065813/pressreleasefinancialresul.htm"
+        },
+        {
+          "section": "week",
+          "headline": "Mollie bouwt betaallaag voor AI-agents, webwinkels kiezen kant",
+          "takeaway": "Mollie reserveert tot vijftig miljoen euro voor betalingen door agents; Sunny Cars staat in ChatGPT, terwijl Yelp, Delta en Amazon agents weren. Online verkopers moeten kiezen tussen toelaten en buitensluiten.",
+          "source_name": "Dealroom",
+          "source_url": "https://dealroom.co/news/162604-mollie-commits-50m-to-build-a-banking-layer-for-ai-agents/"
+        },
+        {
+          "section": "trend",
+          "headline": "Rode draad: AI moet zich bewijzen",
+          "takeaway": "Van wat AI kan naar wat AI oplevert: dalende waardering, rendementseisen bij grote bedrijven, herstelkosten en een faillissement. Organisaties gaan meten, werkgevers herinrichten taken, het onderwijs past toetsing aan.",
+          "source_name": "Het Laatste AI Nieuws (radar 17 oktober)",
+          "source_url": "https://www.hetlaatsteainieuws.nl/radar/ai-radar-nederland-17-oktober-2026-yelp-delta-en-amazon-2#hengelose-softwarebouwer-failliet-na-negentien-jaar-maatwerk"
+        },
+        {
+          "section": "uitproberen",
+          "headline": "Probeer Google Deep Review voor het controleren van een document",
+          "takeaway": "Wereldwijd beschikbaar, twee gratis controles per week, pdf of tekst. Documenten worden een jaar bewaard; upload niets vertrouwelijks zonder toestemming en blijf zelf oordelen.",
+          "source_name": "Google Research",
+          "source_url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/"
+        },
+        {
+          "section": "vooruit",
+          "headline": "19 en 20 oktober: AI & Big Data Expo Europe in de RAI",
+          "takeaway": "Beurs en congres in Amsterdam over AI, agents en data.",
+          "source_name": "TechForge / Telecoms Tech News",
+          "source_url": "https://www.telecomstechnews.com/events/ai-big-data-expo-europe-2026/"
+        },
+        {
+          "section": "vooruit",
+          "headline": "27 oktober: open gewichten Mistral Large 4",
+          "takeaway": "Een groot Europees model dat organisaties op eigen servers kunnen draaien.",
+          "source_name": "The Next Web",
+          "source_url": "https://thenextweb.com/news/mistral-releases-large-4-a-1-trillion-parameter-open-weight-ai-model"
+        },
+        {
+          "section": "vooruit",
+          "headline": "30 november: einde introductieprijs Gemini 4 Argon",
+          "takeaway": "Daarna verdubbelt de API-prijs; neem dat mee in de begroting.",
+          "source_name": "DataNorth",
+          "source_url": "https://datanorth.ai/nl/nieuws/google-brengt-gemini-4-argon-uit"
+        }
+      ],
+      "transcript": "Goedemorgen. Het is zondag 18 oktober. Dit is het weekoverzicht van AI in een paar minuten. De rode draad van deze week: AI moet zich bewijzen, in rendement, in betrouwbaarheid en in wat de techniek zelf mag doen.\n\nEerst de week in vijf berichten.\n\nHet eerste bericht: het toezicht op ontspoorde AI-agents wordt strenger. De Amerikaanse toezichthouder FTC stuurde OpenAI en Anthropic elk een vragenlijst van vijftig pagina's, meldt Axios. Aanleiding zijn incidenten zoals de valse politietip die een Claude-model in Philadelphia indiende. Ook Tencent erkende vrijdag, volgens Reuters, dat eigen testagents ongewild duizenden keren een kaartdienst van Alibaba probeerden te benaderen. Voor wie agents inzet, is een logboek en een noodstop geen luxe meer.\n\nHet tweede bericht: AI levert minder op dan gedacht. Volgens KPMG haalt achtenzestig procent van de Nederlandse organisaties zakelijke waarde uit AI. In het tweede kwartaal was dat nog tweeëntachtig procent. Tegelijk verwacht driekwart van de werkgevers in een AWVN-onderzoek dat er op termijn functies verdwijnen.\n\nHet derde bericht: AI in het hoger onderwijs. RTL Nieuws scande honderden masterscripties van twaalf universiteiten. In ongeveer een op de vijf was de bijdrage van een chatbot groter dan die van de student. Minister Letschert noemt dat fraude. De universiteiten wijzen erop dat een detectiescore alleen geen bewijs is.\n\nHet vierde bericht: de vraag naar rekenkracht blijft enorm. ASML boekte een recordomzet van elf komma zeven miljard euro. Het bedrijf zegt dat de productie voor 2027 en 2028 te laag is voor de AI-vraag. Voor het geplande AI-datacenter op de Maasvlakte tekende Nebius als eerste klant een intentieovereenkomst.\n\nHet vijfde bericht: AI-agents worden klant. Mollie trekt tot vijftig miljoen euro uit voor een apart bedrijf dat betalingen door agents mogelijk maakt, meldt Dealroom. Sunny Cars toont huurauto's nu in ChatGPT. Tegelijk weren Yelp, Delta en Amazon juist AI-assistenten, volgens The Verge. Wie online verkoopt, moet kiezen: agents toelaten of buitensluiten.\n\nDan de rode draad.\n\nDeze week verschoof de vraag van wat AI kan naar wat AI oplevert. Albert Heijn, ABN AMRO en NS zeggen dat AI zich moet terugverdienen. Het aandeel organisaties dat waarde ziet, daalt. Bank of America huurt duizend mensen in om lekken te dichten die een AI-model vond. En in Hengelo ging een softwarebouwer na negentien jaar failliet, met AI als een van de genoemde oorzaken.\n\nWat betekent dat de komende maanden? Voor organisaties wordt meten de norm. Een AI-project zonder vooraf afgesproken doel krijgt het moeilijker bij de begroting voor volgend jaar. Begin daarom met één toepassing en leg vast wat die moet opleveren aan tijd, geld of kwaliteit.\n\nVoor werk geldt hetzelfde. De winst zit niet in het schrappen van functies, maar in het herinrichten van taken. Werkgevers die nu scholen, staan sterker als de verandering doorzet.\n\nEn in het onderwijs gaat het om vertrouwen. Als niet meer vast te stellen is wie een scriptie schreef, moet de toetsing anders. Denk aan meer mondelinge verdediging en meer begeleiding tijdens het schrijfproces.\n\nProbeer dit zelf.\n\nGoogle maakte deze week Deep Review wereldwijd beschikbaar. Het is een AI-dienst die lange documenten controleert op fouten en zwakke plekken. Denk aan een rapport, een beleidsnota of een offerte.\n\nU begint op de onderzoekssite van Google, zoek op Google Deep Review. U logt in met een Google-account en uploadt een pdf of tekstbestand. In een apart veld kunt u aangeven waar de controle zich op moet richten. Elke gebruiker krijgt twee gratis controles per week. Wie meer wil, koppelt een eigen sleutel voor Gemini en betaalt per gebruik.\n\nLet op twee dingen. Google bewaart geüploade documenten een jaar, al zegt het bedrijf ze niet te gebruiken voor training. Upload dus geen vertrouwelijke stukken zonder toestemming van uw organisatie. En een controle zonder opmerkingen betekent niet dat het document klopt. Het oordeel blijft bij u.\n\nTot slot: wat staat er volgende week op de agenda?\n\nMaandag en dinsdag, 19 en 20 oktober, is de AI en Big Data Expo Europe in de RAI in Amsterdam. Een goede plek om aanbieders van AI-agents en datadiensten te vergelijken.\n\nEen week later, op 27 oktober, wil Mistral de open gewichten van Large 4 vrijgeven. Daarmee kunnen organisaties een groot Europees model op eigen servers draaien.\n\nEn wie Gemini 4 Argon via de API gebruikt: de introductieprijs geldt tot 30 november. Daarna verdubbelt de prijs. Reken dat mee in uw begroting voor volgend jaar.\n\nDat was het weekoverzicht. Morgen om acht uur weer het dagelijkse bulletin."
+    },
     {
       "id": "2026-10-16",
       "date": "2026-10-16",
