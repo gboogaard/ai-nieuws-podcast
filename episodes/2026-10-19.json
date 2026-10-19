@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-19",
+  "title": "Banken weren AI-agents, chatbots wijzen gokkers naar illegale casino's",
+  "summary": "Chatbots noemen gokaanbieders zonder vergunning, Amerikaanse banken houden externe AI-agents buiten de deur en Anthropic laat zien wat agents doen met junior banen.",
+  "intro": "Goedemorgen. Het is maandag 19 oktober. Dit is AI in een paar minuten. Vandaag: chatbots die gokkers naar illegale casino's sturen, Amerikaanse banken die AI-agents buiten de deur houden, en cijfers van Anthropic over wat agents doen met junior banen.",
+  "sections": [
+    {
+      "key": "nl",
+      "title": "Nederland",
+      "script": "Chatbots verwijzen Nederlandse gokkers naar casino's zonder vergunning. Dat blijkt uit onderzoek van het Keurmerk Verantwoorde Affiliates, meldt Het Laatste AI Nieuws. Het keurmerk testte tien AI-assistenten, waaronder ChatGPT, Gemini, Copilot en Claude. Alle tien noemden in ten minste één gesprek een illegale aanbieder. Copilot, Gemini en Le Chat van Mistral zetten zulke merken zelfs op lijsten met legale aanbieders. Het onderzoek is klein, maar de les is duidelijk: een AI-antwoord is geen bewijs van een vergunning. Voor bedrijven in gereguleerde sectoren betekent dit dat zij moeten nagaan hoe chatbots over hun markt praten. Een verzekeraar kan elke maand een vaste set vragen stellen aan de grote chatbots en de antwoorden vastleggen.\n\nDan Woerden. De gemeente ligt onder vuur omdat zij met AI gemaakte portretten gebruikt om de Koeiemart te promoten, meldt Binnenlands Bestuur. Critici vinden dat de gemeente fotografen passeert. Zij willen op zijn minst dat het AI-gebruik duidelijk wordt vermeld. De gemeente zegt dat haar fotoarchief te weinig geschikt beeld had en dat nieuwe foto's extra geld zouden kosten. Of het volgend jaar weer gebeurt, is nog niet besloten. Een communicatieafdeling doet er goed aan nu vast te leggen wanneer AI-beeld mag en hoe dat wordt vermeld."
+    },
+    {
+      "key": "wereld",
+      "title": "Wereldwijd",
+      "script": "Dan het nieuws uit het buitenland.\n\nGrote Amerikaanse banken houden AI-agents van buitenaf tegen. Charles Schwab blokkeert elke week tientallen pogingen van externe agents om klantgeld te verplaatsen, meldt The Next Web. Topman Rick Wurster vraagt zich af wie aansprakelijk is als het misgaat. Schwab geeft externe AI-assistenten wel leestoegang: saldo bekijken mag, geld overmaken niet. Ook JPMorgan laat geen externe agents in zijn systemen handelen. Voor Nederlandse banken en webwinkels wordt de keuze scherper. Agents toelaten levert gemak en mogelijk extra omzet op, maar brengt een onduidelijk aansprakelijkheidsrisico mee. Agents weren is veiliger, maar klanten kunnen dan uitwijken naar een aanbieder die wel meewerkt. De tussenweg van Schwab, alleen meekijken, kost ontwikkelwerk maar houdt de regie bij de organisatie.\n\nMeta heeft na kritiek een passage uit zijn zakelijke voorwaarden geschrapt, meldt The Verge. Die passage gaf Meta het recht om inhoud van websites die aan zakelijke accounts gekoppeld zijn te gebruiken om zijn producten te trainen. Volgens juristen die Nieman Lab sprak, kon dat ook gelden voor nieuwssites. Nederlandse uitgevers moeten kiezen. Zij kunnen hun zakelijke accounts bij Meta houden en vertrouwen op de blokkeerinstructies op hun website, met het risico dat hun teksten toch in AI-modellen belanden. Of zij beperken het gebruik van die accounts, en leveren bereik op Facebook en Instagram in."
+    },
+    {
+      "key": "werk",
+      "title": "Werk",
+      "script": "Dan werk en de arbeidsmarkt.\n\nAI-bedrijf Anthropic publiceerde cijfers over het eigen personeel. De uren die AI-agents samen met medewerkers draaien, zijn inmiddels zes keer zo groot als de uren van die medewerkers zelf. Het aandeel junioren onder nieuwe technische medewerkers daalde van zevenentwintig naar negen procent. Ongeveer een derde van de managers in machine learning zegt minder mensen aan te nemen door AI. Ook de inhoud van het werk verandert. Een op de vijf medewerkers zegt dat de eigen rol verschuift naar het aansturen van AI. Bij sollicitaties weegt zelfstandigheid en oordeelsvermogen zwaarder dan vakkennis. Anthropic schrijft zelf dat dit de daling van junior banen niet oplost. Het bedrijf vraagt de overheid om omscholing en inkomenssteun.\n\nHR-softwarebedrijf Workday ziet een vergelijkbare verschuiving, meldt AG Connect. De vraag naar basale AI-vaardigheden in vacatures piekte in januari en daalde daarna met vijfentwintig procent. De vraag naar praktische vaardigheden, zoals werkprocessen automatiseren en AI-hulpmiddelen bouwen, steeg met eenenvijftig procent.\n\nWat betekent dit? Werkgevers moeten bedenken hoe junioren nog leren als agents het instapwerk doen. Voor het onderwijs verschuift de opdracht naar beoordelen en aansturen van AI, niet alleen naar leren prompten."
+    },
+    {
+      "key": "kansen",
+      "title": "Kansen",
+      "script": "Tot slot: de kansen.\n\nEén. Voor bureaus in reputatie en compliance ligt er een kans in een chatbotmonitor voor gereguleerde sectoren, zoals kansspelen, financiële dienstverlening en zorg. U stelt elke maand vaste vragen aan de grote AI-assistenten en rapporteert waar zij verkeerde of illegale aanbieders noemen. Het onderzoek naar gokadvies laat zien dat die controle nu ontbreekt.\n\nTwee. Voor IT-leveranciers van webwinkels en financiële dienstverleners is er werk in een veilige koppeling voor AI-agents. Denk aan alleen-lezentoegang, zoals Schwab die biedt. Klanten vragen dan via hun eigen AI-assistent hun saldo of bestelstatus op, zonder dat er geld kan worden verplaatst.\n\nDrie. Voor communicatieadviseurs ligt er een kans in een AI-beeldbeleid voor gemeenten en culturele instellingen. Wanneer gebruikt u AI-beeld, hoe vermeldt u dat, en wanneer huurt u een fotograaf in? De ophef in Woerden laat zien dat die afweging vooraf reputatieschade kan voorkomen."
+    }
+  ],
+  "outro": "Dat was AI in een paar minuten. Morgen om acht uur weer.",
+  "items": [
+    {
+      "section": "nl",
+      "headline": "Chatbots verwijzen gokkers naar casino's zonder vergunning",
+      "takeaway": "Alle tien geteste AI-assistenten noemden in minstens één gesprek een illegale aanbieder; drie zetten zulke merken op lijsten met legale aanbieders. Bedrijven in gereguleerde sectoren doen er goed aan chatbotantwoorden over hun markt periodiek te controleren.",
+      "source_name": "Het Laatste AI Nieuws",
+      "source_url": "https://www.hetlaatsteainieuws.nl/nieuws/ai-chatbots-illegale-casinos-kva-onderzoek"
+    },
+    {
+      "section": "nl",
+      "headline": "Woerden onder vuur om AI-portretten voor Koeiemart",
+      "takeaway": "Critici vinden dat de gemeente fotografen passeert en AI-gebruik moet vermelden; de gemeente wijst op kosten en een beperkt archief. Communicatieafdelingen kunnen nu vastleggen wanneer AI-beeld mag en hoe het wordt vermeld.",
+      "source_name": "Binnenlands Bestuur",
+      "source_url": "https://www.binnenlandsbestuur.nl/digitaal/gemeente-woerden-onder-vuur-om-gebruik-ai-fotos"
+    },
+    {
+      "section": "wereld",
+      "headline": "Schwab en JPMorgan blokkeren externe AI-agents",
+      "takeaway": "Dilemma voor Nederlandse banken en webwinkels: agents toelaten voor gemak en omzet met onduidelijke aansprakelijkheid, of weren en klanten zien uitwijken. Alleen-lezentoegang is een tussenweg die ontwikkelwerk kost maar de regie houdt.",
+      "source_name": "The Next Web",
+      "source_url": "https://thenextweb.com/news/schwab-blocks-ai-agents-meta-muse"
+    },
+    {
+      "section": "wereld",
+      "headline": "Meta schrapt trainingspassage uit zakelijke voorwaarden na kritiek",
+      "takeaway": "Dilemma voor Nederlandse uitgevers en kennisorganisaties: zakelijke Meta-accounts houden en vertrouwen op blokkeerinstructies, met risico op AI-training op hun inhoud, of het gebruik beperken en bereik inleveren.",
+      "source_name": "The Verge / Nieman Lab",
+      "source_url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the"
+    },
+    {
+      "section": "werk",
+      "headline": "Anthropic: agent-uren zes keer menselijke uren, junior aannames van 27 naar 9 procent",
+      "takeaway": "Rollen verschuiven naar het aansturen van AI en zelfstandigheid weegt zwaarder dan vakkennis. Werkgevers moeten nadenken over hoe junioren nog leren als agents het instapwerk doen.",
+      "source_name": "Anthropic",
+      "source_url": "https://anthropic.com/research/employment-at-anthropic"
+    },
+    {
+      "section": "werk",
+      "headline": "Workday: vraag naar praktische AI-vaardigheden stijgt met 51 procent",
+      "takeaway": "Basale AI-vaardigheden vragen werkgevers minder, automatiseren en AI-hulpmiddelen bouwen juist meer. Onderwijs en scholing schuiven op naar toepassen en aansturen.",
+      "source_name": "AG Connect",
+      "source_url": "https://www.agconnect.nl/carriere/artificial-intelligence/ai-verandert-de-inhoud-van-functies"
+    },
+    {
+      "section": "kansen",
+      "headline": "Chatbotmonitor voor gereguleerde sectoren",
+      "takeaway": "Maandelijks vaste vragen stellen aan grote AI-assistenten en rapporteren waar zij verkeerde of illegale aanbieders noemen, voor kansspelen, financiële dienstverlening en zorg.",
+      "source_name": "",
+      "source_url": ""
+    },
+    {
+      "section": "kansen",
+      "headline": "Veilige alleen-lezenkoppeling voor AI-agents",
+      "takeaway": "IT-leveranciers bouwen voor webwinkels en financiële dienstverleners toegang waarmee agents saldo of bestelstatus opvragen zonder geld te kunnen verplaatsen.",
+      "source_name": "",
+      "source_url": ""
+    },
+    {
+      "section": "kansen",
+      "headline": "AI-beeldbeleid voor gemeenten en culturele instellingen",
+      "takeaway": "Communicatieadviseurs helpen vastleggen wanneer AI-beeld wordt gebruikt, hoe dat wordt vermeld en wanneer een fotograaf wordt ingehuurd.",
+      "source_name": "",
+      "source_url": ""
+    }
+  ]
+}
