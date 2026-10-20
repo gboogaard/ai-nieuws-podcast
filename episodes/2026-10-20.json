@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-20",
+  "title": "HelloPrint bouwt AI-first bedrijf, UWV stopt met AI-matching",
+  "summary": "HelloPrint start een tweede organisatie die vanaf dag één op AI draait, gemeenten worstelen met AI-bezwaarschriften en de VS weren DeepSeek. Plus: UWV stopt na vijfenvijftig miljoen euro met AI-matching en agents nemen declaraties over.",
+  "intro": "Goedemorgen. Het is dinsdag 20 oktober. Dit is AI in een paar minuten. Vandaag: HelloPrint bouwt een tweede bedrijf dat volledig op AI draait, de Verenigde Staten weren DeepSeek uit overheidssystemen, en UWV stopt met een AI-project van vijfenvijftig miljoen euro.",
+  "sections": [
+    {
+      "key": "nl",
+      "title": "Nederland",
+      "script": "Het Rotterdamse drukwerkplatform HelloPrint bouwt naast het bestaande bedrijf een tweede organisatie. Die draait vanaf de start op AI. Dat vertelde directeur Hans Scheffer op het evenement AI010, meldt Emerce. Per afdeling wordt elk proces uitgebreid beschreven, vaak in duizenden regels tekst. Daarop zet het bedrijf AI in. Het personeelsbestand daalde al van driehonderddertig naar honderdtachtig mensen. De klantenservice ging van honderd naar achttien medewerkers. Scheffer vindt AI beter dan een junior medewerker. Of hij een goed bedrijf kapotmaakt? Dat weet hij niet, zegt hij zelf. Voor een groothandel of webwinkel is de les praktisch: AI werkt pas goed als processen eerst op papier staan.\n\nDan de gemeenten. Burgers laten steeds vaker AI hun bezwaarschrift schrijven. Dat kost ambtenaren extra tijd, blijkt uit een rondgang van RTV Noord, meldt Binnenlands Bestuur. Groningen spreekt van een schot hagel aan juridische gronden. Het Hogeland ziet verwijzingen naar uitspraken die niet bestaan. Gemeenten moeten wel op elk argument reageren. Ook het UMCG en zorgverzekeraar Menzis zien meer klachten die met AI zijn opgesteld. Een gemeente kan inwoners vooraf een kort telefoongesprek aanbieden, zodat het echte bezwaar boven tafel komt."
+    },
+    {
+      "key": "wereld",
+      "title": "Wereldwijd",
+      "script": "Dan het nieuws uit het buitenland.\n\nHet Amerikaanse ministerie van Binnenlandse Veiligheid verbiedt civiele overheidsdiensten om DeepSeek te gebruiken. Het verbod geldt ook voor software van andere leveranciers die op modellen van DeepSeek draait, meldt The Next Web op basis van Bloomberg. DeepSeek mag ook niet meer meedingen naar overheidsopdrachten. De zorg is dat gebruikersgegevens via Chinese wetgeving bij Beijing terechtkomen. Voor Nederlandse gemeenten, scholen en softwareleveranciers wordt de keuze scherper. Open Chinese modellen zijn goedkoop en sterk. Wie ze gebruikt, bespaart kosten, maar loopt het risico dat klanten of aanbestedingen ze straks uitsluiten. Wie nu overstapt op een Europees of Amerikaans model, betaalt meer maar voorkomt een gedwongen migratie later.\n\nMicrosoft trekt zich terug uit een gepland AI-datacenter van Nscale in het Engelse Essex, meldt DatacenterDynamics. De oorzaak is het stroomnet. De locatie krijgt naar verwachting pas in de jaren dertig een netaansluiting, terwijl oplevering eind dit jaar gepland was. Ook in Nederland is het stroomnet vol. Organisaties die veel rekenkracht nodig hebben, moeten kiezen. Ze kunnen capaciteit vastleggen in Nederlandse of Europese datacenters, wat nu duurder is maar meer zekerheid geeft. Of ze blijven flexibel inkopen bij grote Amerikaanse clouds, met het risico dat capaciteit schaars wordt."
+    },
+    {
+      "key": "werk",
+      "title": "Werk",
+      "script": "Dan werk en de arbeidsmarkt.\n\nUWV stopt met de Bemiddelingsservice, een systeem dat werkzoekenden en vacatures met AI aan elkaar moest koppelen. Sinds 2021 is er ongeveer vijfenvijftig miljoen euro aan uitgegeven, meldt Recruitment Tech. Het systeem was bedoeld voor zo'n drieduizend adviseurs. UWV heeft onvoldoende vertrouwen in een succesvolle invoering. Een adviescollege vond eerder dat UWV te weinig kennis had van de algoritmes en dat de gegevens onbetrouwbaar waren. Minister Vijlbrief kondigt een evaluatie aan. De les voor werkgevers: AI bij werving staat of valt met goede data en met kennis in eigen huis.\n\nIntussen verschuift administratief werk naar toezicht. Het Deense declaratieplatform Pleo laat AI-agents routinedeclaraties goedkeuren, meldt AG Connect. Ongeveer vijftienhonderd klanten gebruiken die agents al. Controlewerk dat twee uur kostte, duurt nu ongeveer vijf minuten. Afwijkingen, zoals bier of kleding, legt de agent voor aan een mens. Voor werkenden in finance en administratie betekent dit minder invoerwerk en meer beoordelen. Voor het mbo betekent het dat opleidingen in de administratie het controleren van AI moeten aanleren."
+    },
+    {
+      "key": "kansen",
+      "title": "Kansen",
+      "script": "Tot slot: de kansen.\n\nDe eerste kans ligt bij procesadviseurs voor het mkb. HelloPrint laat zien dat AI pas werkt als elk proces is uitgeschreven. Veel mkb-bedrijven hebben dat niet. Een vast traject om per afdeling werkinstructies op te stellen die een AI kan volgen, is een concrete dienst.\n\nDe tweede kans ligt bij juridische dienstverleners en sociaal raadslieden. Gemeenten krijgen langere bezwaarschriften met fouten. Een korte toets voor burgers, voordat het bezwaar wordt ingediend, bespaart beide kanten tijd.\n\nDe derde kans is voor IT-leveranciers. Na het Amerikaanse DeepSeek-verbod willen klanten weten welke modellen in hun software zitten. Een overzicht van gebruikte modellen per toepassing is snel te maken en direct bruikbaar bij aanbestedingen."
+    }
+  ],
+  "outro": "Dat was AI in een paar minuten. Dank u voor het luisteren. Morgen om acht uur weer.",
+  "items": [
+    {
+      "section": "nl",
+      "headline": "HelloPrint bouwt tweede, volledig AI-first organisatie",
+      "takeaway": "Directeur Hans Scheffer bouwt naast het bestaande bedrijf een organisatie die vanaf de start op AI draait; het personeel daalde van 330 naar 180 en de klantenservice van 100 naar 18. Les voor het mkb: leg processen eerst vast voordat u AI inzet.",
+      "source_name": "Emerce via Het Laatste AI Nieuws",
+      "source_url": "https://www.hetlaatsteainieuws.nl/radar/ai-radar-nederland-19-oktober-2026-bezwaarschriften-chatbot-kosten-gemeenten"
+    },
+    {
+      "section": "nl",
+      "headline": "AI-bezwaarschriften kosten gemeenten extra werk",
+      "takeaway": "Groningse gemeenten, het UMCG en Menzis krijgen langere, stelligere bezwaren met soms niet-bestaande uitspraken. Een gemeente kan vooraf een telefoongesprek aanbieden om het echte bezwaar te achterhalen.",
+      "source_name": "Binnenlands Bestuur (rondgang RTV Noord)",
+      "source_url": "https://www.binnenlandsbestuur.nl/digitaal/ai-bezwaarschriften-bezorgen-gemeenten-extra-werk"
+    },
+    {
+      "section": "wereld",
+      "headline": "VS weren DeepSeek uit civiele overheidsdiensten en aanbestedingen",
+      "takeaway": "Het verbod geldt ook voor software die op DeepSeek-modellen draait. Dilemma voor Nederlandse gemeenten, scholen en softwareleveranciers: goedkope Chinese modellen houden met het risico op uitsluiting, of nu duurder overstappen en een gedwongen migratie voorkomen.",
+      "source_name": "The Next Web / Bloomberg",
+      "source_url": "https://thenextweb.com/news/us-bars-deepseek-federal-agencies"
+    },
+    {
+      "section": "wereld",
+      "headline": "Microsoft stapt uit Nscale-datacenter in Essex door netcongestie",
+      "takeaway": "De locatie krijgt pas in de jaren dertig stroom. Dilemma voor Nederlandse organisaties met veel rekenbehoefte: nu duurder capaciteit vastleggen in Europese datacenters, of flexibel inkopen bij Amerikaanse clouds met het risico op schaarste.",
+      "source_name": "DatacenterDynamics",
+      "source_url": "https://www.datacenterdynamics.com/en/news/microsoft-pulls-out-of-delayed-nscale-data-center-in-loughton-essex/"
+    },
+    {
+      "section": "werk",
+      "headline": "UWV stopt na 55 miljoen euro met AI-matchingproject",
+      "takeaway": "De Bemiddelingsservice voor zo'n drieduizend adviseurs stopt door gebrek aan vertrouwen, onbetrouwbare data en te weinig kennis van de algoritmes. AI bij werving vraagt goede data en eigen expertise.",
+      "source_name": "Recruitment Tech",
+      "source_url": "https://www.recruitmenttech.nl/2026/10/14/uwv-stopt-na-55-miljoen-euro-met-ai-matchingproject/"
+    },
+    {
+      "section": "werk",
+      "headline": "Pleo laat AI-agents routinedeclaraties goedkeuren",
+      "takeaway": "Bij ongeveer 1.500 klanten gaat controlewerk van twee uur naar vijf minuten; afwijkingen gaan naar een mens. Administratief werk verschuift van invoeren naar controleren, ook in mbo-opleidingen.",
+      "source_name": "AG Connect",
+      "source_url": "https://www.agconnect.nl/tech-en-toekomst/artificial-intelligence/ai-agents-keuren-declaraties-goed"
+    },
+    {
+      "section": "kansen",
+      "headline": "Processen AI-klaar maken voor het mkb",
+      "takeaway": "Procesadviseurs kunnen per afdeling werkinstructies opstellen die een AI kan volgen, naar het voorbeeld van HelloPrint.",
+      "source_name": "",
+      "source_url": ""
+    },
+    {
+      "section": "kansen",
+      "headline": "Bezwaartoets voor burgers",
+      "takeaway": "Juridische dienstverleners en sociaal raadslieden kunnen AI-bezwaren vooraf toetsen, wat burgers en gemeenten tijd bespaart.",
+      "source_name": "",
+      "source_url": ""
+    },
+    {
+      "section": "kansen",
+      "headline": "Modeloverzicht voor softwareklanten",
+      "takeaway": "IT-leveranciers kunnen per toepassing vastleggen welke AI-modellen erin zitten, bruikbaar bij aanbestedingen na het DeepSeek-verbod.",
+      "source_name": "",
+      "source_url": ""
+    }
+  ]
+}
