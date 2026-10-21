@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-21",
+  "title": "Kamerleden laten speeches schrijven door AI, Microsoft waarschuwt",
+  "summary": "Achtenzestig Kamerleden gebruiken AI voor spreekteksten, de eerste AI Act-norm is erkend en Microsoft noemt agents een insiderrisico. Plus: angst voor AI op de werkvloer, strenger toezicht op toetsing en jouw kansen deze week.",
+  "intro": "Goedemorgen. Het is woensdag 21 oktober. Dit is AI in een paar minuten. Vandaag: bijna de helft van de Tweede Kamerleden laat speeches schrijven door AI, Microsoft noemt AI-agents een insiderrisico, en de onderwijsminister wil strenger toezicht op toetsing.",
+  "sections": [
+    {
+      "key": "nl",
+      "title": "Nederland",
+      "script": "Achtenzestig van de honderdvijftig Tweede Kamerleden lieten het afgelopen jaar spreekteksten opstellen met AI-tools zoals ChatGPT en Claude. Dat blijkt uit onderzoek van De Groene Amsterdammer en Investico, meldt de NOS. De onderzoekers scanden alle spreekteksten met een detectieprogramma. Teksten met minder dan de helft AI-inhoud telden niet mee, dus het werkelijke aantal ligt waarschijnlijk hoger. Alle genoemde Kamerleden erkennen het gebruik als hulpmiddel. Het CDA werkt aan richtlijnen voor de eigen fractie. Regels voor vermelding van AI-gebruik in het parlement zijn er niet. Een gemeente of zorginstelling kan hier lessen uit trekken: spreek af wanneer u AI-gebruik in officiële teksten vermeldt, voordat een journalist het voor u uitzoekt.\n\nDan Brussel. De Europese Commissie heeft de eerste geharmoniseerde norm onder de AI-verordening erkend, meldt Het Laatste AI Nieuws. Het gaat om EN 18286, over kwaliteitsmanagement voor hoog-risico-AI. De norm geldt sinds veertien oktober en is ook als Nederlandse norm overgenomen door NEN. Wie de norm volgt, voldoet vermoedelijk aan de eisen voor een kwaliteitssysteem. Gebruik is vrijwillig. Bedrijven met ISO 9001 of ISO 42001 kunnen hun bestaande systeem uitbreiden. Een Nederlandse leverancier van wervingssoftware heeft nu een concreet kader, ruim voor de deadline van december 2027."
+    },
+    {
+      "key": "wereld",
+      "title": "Wereldwijd",
+      "script": "Dan het nieuws uit het buitenland.\n\nMicrosoft vergelijkt AI-agents met een insiderdreiging, meldt TechCrunch. Volgens het bedrijf zijn frontiermodellen niet te vertrouwen, omdat ze onvoorspelbaar zijn, niet kwaadwillend. Microsoft introduceert Guardian Agents, die de agents van een bedrijf bewaken. Beveiligingssoftware Defender kan zestig soorten agents opsporen die medewerkers zelf meenemen. Bij riskante acties is menselijke goedkeuring nodig. Let op: Microsoft heeft er commercieel belang bij dat bedrijven deze controle bij Microsoft kopen. Het dilemma voor Nederlandse IT-afdelingen: de bewaking onderbrengen bij dezelfde leverancier die ook de agents levert, wat snel en goedkoop is maar de afhankelijkheid vergroot, of een onafhankelijke controlelaag inrichten, wat meer tijd en geld kost maar de regie bij u houdt.\n\nIn Canada klagen Postmedia, Torstar, The Globe and Mail en The Canadian Press de AI-maker Anthropic aan. Ze stellen dat hun artikelen zonder toestemming zijn gebruikt om Claude te trainen, meldt CP24. Het gaat om beschuldigingen die nog niet bewezen zijn. Anthropic reageerde niet. Dezelfde uitgevers procederen sinds 2024 al tegen OpenAI. Voor Nederlandse uitgevers en kennisinstellingen wordt de keuze scherper: nu licentieafspraken maken met AI-bedrijven en zeker zijn van inkomsten, of de juridische weg openhouden en mogelijk meer binnenhalen, met jaren onzekerheid."
+    },
+    {
+      "key": "werk",
+      "title": "Werk",
+      "script": "Dan werk en de arbeidsmarkt.\n\nZeventig procent van de Nederlandse werknemers maakt zich zorgen over de gevolgen van AI voor het eigen werk. Dat blijkt uit een peiling onder vijftienhonderd mensen van Rechtsbijstandverzekering.nl, verspreid via het ANP. Tweeënzestig procent denkt dat AI binnen vijf jaar banen kost. Tweeënzeventig procent verwacht meer conflicten met de werkgever over reorganisaties en veranderde functies. En zestig procent zegt de eigen rechten niet goed te kennen bij ontslag door automatisering. Jongeren zijn het meest bezorgd. Let wel: de afzender verkoopt verzekeringen.\n\nDe harde cijfers uit de Verenigde Staten zijn genuanceerder. Bedrijven noemden AI tot en met juli als reden bij ruim honderdtwaalfduizend aangekondigde ontslagen, meer dan twee keer zoveel als in heel vorig jaar, meldt HRD America op basis van Challenger. Het totaal aantal ontslagen daalde juist met eenenveertig procent. Econoom Elena Magrini van Lightcast ziet in de data geen massale vervanging door AI.\n\nWat betekent dit? De angst loopt voor op de feiten. Voor werkgevers is dat een risico: onrust en verloop nog voordat er iets verandert. Leg uit welke taken veranderen, wat u met vrijgekomen tijd doet, en betrek de ondernemingsraad vroeg."
+    },
+    {
+      "key": "onderwijs",
+      "title": "Onderwijs",
+      "script": "Dan onderwijs en AI.\n\nOnderwijsminister Letschert wil dat examencommissies in het hoger onderwijs beter bewaken of studenten het eindniveau echt halen, meldt Univers. Ze wil in de wet vastleggen dat de toetsen samen alle eindkwalificaties dekken. Volgens de minister maken de snelle ontwikkelingen rond AI dat werk des te belangrijker. De Onderwijsinspectie ziet nu bij een kwart van de examencommissies tekortkomingen. Extra geld komt er niet. Dit raakt de veranderende rol van de docent. Als een schrijfopdracht thuis niet meer laat zien wat een student kan, verschuift de toetsing naar gesprekken, observaties en begeleide opdrachten. De docent wordt dan meer coach en beoordelaar van het leerproces. Voor examencommissies in het mbo is dit een signaal om de eigen toetsing nu al tegen het licht te houden.\n\nUit onderzoek van Conclusion onder duizend Nederlanders blijkt dat zevenenzestig procent vindt dat AI op school onderwezen moet worden, meldt ICT Magazine. Bijna de helft wijst de overheid aan als verantwoordelijke voor AI-geletterdheid, slechts negen procent de werkgever. Negenendertig procent verwacht dat AI-kennis over vijf jaar even belangrijk is als lezen en schrijven. Dit raakt aan kansengelijkheid en leven lang ontwikkelen. Wie nu niet op school zit en geen werkgever heeft die investeert, dreigt buiten de boot te vallen. Voor het mbo en de volwasseneneducatie ligt hier een rol: AI-geletterdheid aanbieden aan studenten én aan werkenden die zich willen omscholen. Voor begeleiders betekent het dat AI-vaardigheid onderdeel wordt van loopbaanbegeleiding."
+    },
+    {
+      "key": "kansen",
+      "title": "Kansen",
+      "script": "Tot slot: de kansen.\n\nEén. Voor kwaliteitsadviseurs en ISO-consultants ligt er een kans bij Nederlandse makers van hoog-risico-AI, zoals leveranciers van wervings- en onderwijssoftware. Met de nieuwe norm EN 18286 kunt u een bestaand ISO-systeem uitbreiden tot een AI-kwaliteitssysteem. Wie nu een vaste aanpak heeft, staat vooraan voordat de deadline van december 2027 nadert.\n\nTwee. Voor IT-dienstverleners aan het mkb ligt er een kans in een agentscan. Microsoft spoort zestig soorten agents op die medewerkers zelf gebruiken. De meeste kleine bedrijven hebben dat overzicht niet. Bied een vaste prijs voor inventarisatie, toegangsrechten en een goedkeuringsstap voor riskante acties.\n\nDrie. Voor communicatieadviseurs ligt er een kans in AI-transparantiebeleid. Na het onderzoek naar Kamerleden vragen bestuurders zich af wat hun eigen regels zijn. Een korte richtlijn over wanneer u AI-gebruik vermeldt, is snel te leveren aan gemeenten, schoolbesturen en brancheorganisaties."
+    },
+    {
+      "key": "persoonlijk",
+      "title": "Kansen",
+      "script": "Tot slot, speciaal voor jou: jouw kansen deze week.\n\nEerste actie, als ondernemer. Het nieuws: zeventig procent van de werknemers maakt zich zorgen over AI, tweeënzeventig procent verwacht conflicten over veranderde functies, en zestig procent kent de eigen rechten niet. Tegelijk laat Microsoft zien dat medewerkers zelf agents meenemen waar niemand zicht op heeft. Deze week maak je een aanbod voor ondernemingsraden in mkb en non-profit: een sessie van een dagdeel over AI op de werkvloer. Welke AI-tools en agents zijn er al in gebruik, waar praat de OR over mee, en welke afspraken over privacy en scholing horen erbij. Zet het op één A4 en benader vijf ondernemingsraden of OR-trainers uit je netwerk. De ROI: het kost je ongeveer vijf uur. Eén sessie kan zo'n achthonderd tot twaalfhonderd euro opleveren, en hetzelfde programma is herbruikbaar. De impact: je spreekt een nieuwe doelgroep aan die nu met vragen zit, en je B2B-ervaring helpt bij de bestuurstafel. Als je dit deze week niet oppakt, mis je deze kans omdat het onderwerp nu in het nieuws is en ondernemingsraden er nu over beginnen; wie als eerste een helder aanbod heeft, krijgt die gesprekken.\n\nTweede actie, als I-coach. Het nieuws: bijna de helft van de Kamerleden gebruikt AI voor speeches, zonder regels voor vermelding, en de minister wil strenger toezicht op toetsing vanwege AI. Ook in de studentbegeleiding schrijven begeleiders steeds vaker verslagen, mails en adviezen met AI. Deze week stel je een korte werkafspraak op: wanneer vermeld je dat AI heeft meegeschreven, welke gegevens van studenten nooit in een AI-tool gaan, en hoe controleer je een AI-tekst voordat die de deur uitgaat. Bespreek die kort in je teamoverleg. De ROI: het kost je ongeveer drie uur. Het voorkomt later losse vragen en privacy-incidenten, en het levert de basis voor de overstap naar eduGenAI. De impact: begeleiders werken transparant en de AVG-afspraken worden concreet. Als je dit deze week niet oppakt, mis je deze kans omdat SURF AI in januari beschikbaar komt, en afspraken die je vóór die tijd maakt, gaan meteen mee in de nieuwe werkwijze."
+    }
+  ],
+  "outro": "Dat was AI in een paar minuten. De bronnen vindt u bij deze aflevering. Bedankt voor het luisteren. Morgen om acht uur weer.",
+  "items": [
+    {
+      "section": "nl",
+      "headline": "68 van 150 Kamerleden lieten spreekteksten schrijven met AI",
+      "takeaway": "Uit onderzoek van De Groene en Investico blijkt breed AI-gebruik in de Kamer, zonder regels voor vermelding. Organisaties doen er goed aan zelf af te spreken wanneer ze AI-gebruik in officiële teksten melden.",
+      "source_name": "NOS",
+      "source_url": "https://nos.nl/artikel/2636031-ook-veel-van-wat-er-in-de-tweede-kamer-wordt-gezegd-komt-van-ai"
+    },
+    {
+      "section": "nl",
+      "headline": "EN 18286 is eerste geharmoniseerde norm onder de AI Act",
+      "takeaway": "De norm voor kwaliteitsmanagement van hoog-risico-AI geldt sinds 14 oktober en is door NEN overgenomen. Een leverancier van wervingssoftware kan zijn ISO-systeem uitbreiden, ruim voor de deadline van december 2027.",
+      "source_name": "Het Laatste AI Nieuws",
+      "source_url": "https://www.hetlaatsteainieuws.nl/regelgeving/ai-act-norm-en-18286-kwaliteitsmanagement"
+    },
+    {
+      "section": "wereld",
+      "headline": "Microsoft noemt AI-agents een insiderdreiging en lanceert Guardian Agents",
+      "takeaway": "Dilemma voor IT-afdelingen: agentbewaking bij dezelfde leverancier onderbrengen, snel en goedkoop maar afhankelijker, of een onafhankelijke controlelaag inrichten, duurder maar met eigen regie.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
+    },
+    {
+      "section": "wereld",
+      "headline": "Canadese uitgevers klagen Anthropic aan om trainingsdata",
+      "takeaway": "Dilemma voor Nederlandse uitgevers en kennisinstellingen: nu licenties afsluiten met zekere inkomsten, of de juridische weg openhouden met mogelijk meer opbrengst en jaren onzekerheid.",
+      "source_name": "CP24",
+      "source_url": "https://www.cp24.com/local/toronto/2026/10/19/news-publishers-launch-copyright-suit-against-ai-company-anthropic-in-ontario/"
+    },
+    {
+      "section": "werk",
+      "headline": "Zeventig procent van werknemers bezorgd over AI en eigen baan",
+      "takeaway": "Zestig procent kent de eigen rechten bij ontslag door automatisering niet. Werkgevers doen er goed aan vroeg uit te leggen welke taken veranderen en de OR te betrekken.",
+      "source_name": "ANP",
+      "source_url": "https://persportaal.anp.nl/artikel/e895690c-b1f7-45cb-92b0-339dd02c76b3/onderzoek-7-op-de-10-werknemers-vrezen-gevolgen-ai-voor-hun-baan"
+    },
+    {
+      "section": "werk",
+      "headline": "VS: meer ontslagen met AI als reden, maar data tonen geen massale vervanging",
+      "takeaway": "AI werd genoemd bij ruim 112.000 aangekondigde ontslagen, terwijl het totaal met 41 procent daalde. De angst loopt voor op de feiten.",
+      "source_name": "HRD America",
+      "source_url": "https://hcamag.com/us/specialization/transformation/ai-blamed-for-112713-job-cuts-but-the-labor-data-isnt-buying-it/594129"
+    },
+    {
+      "section": "onderwijs",
+      "headline": "Letschert wil strenger toezicht examencommissies, mede door AI",
+      "takeaway": "Toetsing verschuift naar gesprekken en begeleide opdrachten; de docent wordt meer coach en beoordelaar van het leerproces. Ook mbo-examencommissies kunnen hun toetsing nu tegen het licht houden.",
+      "source_name": "Univers",
+      "source_url": "https://universonline.nl/nieuws/2026/10/20/toezicht-op-hoger-onderwijs-moet-beter-vindt-onderwijsminister-letschert/"
+    },
+    {
+      "section": "onderwijs",
+      "headline": "Twee derde wil AI-onderwijs op school, overheid gezien als verantwoordelijke",
+      "takeaway": "Wie niet op school zit en geen investerende werkgever heeft, dreigt achter te blijven. Mbo en volwasseneneducatie kunnen AI-geletterdheid aanbieden aan studenten en werkenden.",
+      "source_name": "ICT Magazine",
+      "source_url": "https://www.ictmagazine.nl/nieuws/overheid-niet-werkgevers-moet-zorgen-voor-ai-geletterdheid-burgers/"
+    },
+    {
+      "section": "kansen",
+      "headline": "EN 18286-trajecten voor makers van hoog-risico-AI",
+      "takeaway": "Kwaliteitsadviseurs kunnen bestaande ISO-systemen uitbreiden tot een AI-kwaliteitssysteem, ruim voor december 2027.",
+      "source_name": "Het Laatste AI Nieuws",
+      "source_url": "https://www.hetlaatsteainieuws.nl/regelgeving/ai-act-norm-en-18286-kwaliteitsmanagement"
+    },
+    {
+      "section": "kansen",
+      "headline": "Agentscan voor het mkb",
+      "takeaway": "IT-dienstverleners bieden tegen vaste prijs inventarisatie van agents, toegangsrechten en goedkeuringsstappen.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
+    },
+    {
+      "section": "kansen",
+      "headline": "AI-transparantiebeleid voor bestuurders",
+      "takeaway": "Communicatieadviseurs leveren een korte richtlijn over vermelding van AI-gebruik aan gemeenten, schoolbesturen en brancheorganisaties.",
+      "source_name": "",
+      "source_url": ""
+    },
+    {
+      "section": "persoonlijk",
+      "headline": "Sessie 'AI op de werkvloer' voor ondernemingsraden",
+      "takeaway": "Een dagdeel voor OR's in mkb en non-profit over AI-tools, medezeggenschap, privacy en scholing. Ongeveer vijf uur werk; per sessie zo'n 800 tot 1.200 euro.",
+      "source_name": "ANP",
+      "source_url": "https://persportaal.anp.nl/artikel/e895690c-b1f7-45cb-92b0-339dd02c76b3/onderzoek-7-op-de-10-werknemers-vrezen-gevolgen-ai-voor-hun-baan"
+    },
+    {
+      "section": "persoonlijk",
+      "headline": "Werkafspraak AI-transparantie voor begeleiders",
+      "takeaway": "Korte afspraak over vermelding van AI, gegevens die nooit in een AI-tool gaan en controle van AI-teksten, vóór de komst van SURF AI in januari.",
+      "source_name": "MBO Digitaal",
+      "source_url": "https://mbodigitaal.nl/2026/09/surf-ai-binnenkort-beschikbaar-voor-onderwijs-en-onderzoek/"
+    }
+  ]
+}
