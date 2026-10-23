@@ -1,6 +1,102 @@
 {
-  "updated": "2026-10-22T05:34:03+00:00",
+  "updated": "2026-10-23T05:42:06+00:00",
   "episodes": [
+    {
+      "id": "2026-10-23",
+      "date": "2026-10-23",
+      "title": "AI vond PHP-lek achter DigiD-storing, Barclays schrapt 5.000 banen",
+      "summary": "OpenAI bevestigt dat AI het PHP-lek vond waardoor DigiD en MijnOverheid offline gingen, en de politie pakt fraudeurs met AI-stemmen op. Verder: Walmart opent zijn winkel voor AI-agents, Barclays schrapt banen en het scenario van de week over de IT-afdeling.",
+      "duration": 353,
+      "audio": "audio/2026-10-23.mp3",
+      "chapters": [
+        {
+          "key": "nl",
+          "title": "Nederland",
+          "start": 0
+        },
+        {
+          "key": "wereld",
+          "title": "Wereldwijd",
+          "start": 106
+        },
+        {
+          "key": "werk",
+          "title": "Werk",
+          "start": 190
+        },
+        {
+          "key": "kansen",
+          "title": "Kansen",
+          "start": 297
+        }
+      ],
+      "items": [
+        {
+          "section": "nl",
+          "headline": "AI vond het PHP-lek waardoor DigiD en MijnOverheid offline gingen",
+          "takeaway": "OpenAI en Wiz vonden de twee kritieke PHP-lekken met AI, maanden voor de storing. Een WordPress-update helpt niet: mkb-bedrijven moeten bij hun host nagaan of PHP is bijgewerkt.",
+          "source_name": "AI Insider",
+          "source_url": "https://aiinsider.nl/nieuws/openai-gpt-5-6-sol-php-lek-digid/"
+        },
+        {
+          "section": "nl",
+          "headline": "Politie pakt bankhelpdeskfraudeurs met AI-stemmen op",
+          "takeaway": "Met AI-gegenereerde belopnames en een app die de bankpas uitlas, maakten fraudeurs in drie weken 170 slachtoffers en zo'n 380.000 euro buit. Werkgevers kunnen de zaak gebruiken in bewustwordingstrainingen.",
+          "source_name": "NL Times",
+          "source_url": "https://nltimes.nl/2026/10/21/police-arrest-two-suspects-ai-powered-bank-fraud-cost-victims-eu380000"
+        },
+        {
+          "section": "wereld",
+          "headline": "Walmart opent webwinkel voor AI-agents, Amazon blokkeert ze",
+          "takeaway": "Dilemma voor Nederlandse webwinkels: agents toelaten voor extra omzet en minder direct klantcontact, of blokkeren om de klantrelatie te beschermen met het risico dat agents klanten naar de concurrent sturen.",
+          "source_name": "FourWeekMBA",
+          "source_url": "https://fourweekmba.com/ai-walmart-opens-its-store-to-ai-agents-as-amazon-blocks-them/"
+        },
+        {
+          "section": "wereld",
+          "headline": "Microsoft voegt Code toe aan Copilot: apps bouwen zonder programmeren",
+          "takeaway": "Dilemma voor organisaties en mbo-scholen: de functie aanzetten en snel eigen tools krijgen, maar ook beheer- en privacywerk, of uitzetten en controle houden ten koste van snelheid.",
+          "source_name": "AI Insider",
+          "source_url": "https://aiinsider.nl/nieuws/microsoft-voegt-code-toe-aan-copilot-apps-bouwen-zonder-te/"
+        },
+        {
+          "section": "werk",
+          "headline": "Barclays schrapt 5.000 banen, minder ontwikkelaars door AI",
+          "takeaway": "Zestig procent van de banen valt in ondersteunende functies, inclusief ontwikkelaars. Werkgevers doen er goed aan pas te schrappen als werk echt anders is ingericht; veel organisaties vullen geschrapte functies later weer in.",
+          "source_name": "HCAMag",
+          "source_url": "https://www.hcamag.com/us/specialization/change-management/barclays-cuts-5000-jobs-as-it-leans-on-ai-to-lower-costs/594605"
+        },
+        {
+          "section": "werk",
+          "headline": "Scenario: agents doen over drie jaar het meeste standaard programmeerwerk",
+          "takeaway": "Routinecode en testen verschuiven naar agents; architectuur, beveiliging en het keuren van agentwerk blijven en groeien. Eerste stap: laat één klein klusje door AI doen en controleer het grondig.",
+          "source_name": "",
+          "source_url": ""
+        },
+        {
+          "section": "kansen",
+          "headline": "PHP-check voor mkb-websites",
+          "takeaway": "Webbouwers en hosters bieden een vaste-prijscontrole van de PHP-versie, omdat een WordPress-update het lek niet dicht en er meer AI-gevonden lekken worden verwacht.",
+          "source_name": "",
+          "source_url": ""
+        },
+        {
+          "section": "kansen",
+          "headline": "Training fraude met AI-stemmen",
+          "takeaway": "Korte bewustwordingssessies voor werkgevers met de Rotterdamse zaak als herkenbaar voorbeeld.",
+          "source_name": "",
+          "source_url": ""
+        },
+        {
+          "section": "kansen",
+          "headline": "Agentscan voor webwinkels",
+          "takeaway": "E-commercebureaus brengen in kaart wat AI-agents in een webwinkel kunnen lezen en bestellen, en helpen spelregels opstellen.",
+          "source_name": "",
+          "source_url": ""
+        }
+      ],
+      "transcript": "Goedemorgen. Het is vrijdag 23 oktober. Dit is AI in een paar minuten. Vandaag: AI vond het lek waardoor DigiD offline ging, Walmart laat AI-agents boodschappen doen, en Barclays schrapt vijfduizend banen, deels door AI.\n\nWoensdag gingen DigiD, MijnOverheid en de site van de Tweede Kamer uit voorzorg offline. De oorzaak waren twee ernstige lekken in PHP, een programmeertaal achter een groot deel van alle websites. OpenAI bevestigt nu dat AI de lekken vond. Beveiligingsbedrijf Calif ontdekte er in augustus één met het model GPT-5.6 Sol. Ook Wiz vond ze met AI. Daarna werkten partijen twee maanden in stilte aan een oplossing. Minister Van Weel zegt dat er geen tekenen van misbruik zijn. OpenAI waarschuwt wel dat dezelfde techniek aanvallers helpt. Een praktisch punt: een update van WordPress of een plug-in lost dit niet op. Een mkb-bedrijf met een eigen website vraagt de hostingpartij dus zelf of PHP is bijgewerkt.\n\nIn Rotterdam heeft de politie twee mannen opgepakt voor een nieuwe vorm van bankhelpdeskfraude, meldt NL Times. Slachtoffers kregen vooraf opgenomen telefoontjes met stemmen die met AI waren gemaakt. Daarna moesten ze een app installeren en hun bankpas tegen de telefoon houden. Een handlanger nam bij een geldautomaat geld op. In drie weken waren er honderdzeventig slachtoffers en ongeveer driehonderdtachtigduizend euro schade. Veel slachtoffers waren twintigers en dertigers. Een werkgever kan dit voorbeeld gebruiken in de volgende bewustwordingstraining.\n\nDan het nieuws uit het buitenland.\n\nWalmart opent zijn webwinkel voor AI-agents. Via de nieuwe Agent Gateway kunnen goedgekeurde agents producten zoeken en bestellen. Klanten krijgen per agent een eigen profiel, met een bestedingslimiet of goedkeuring per aankoop. Agents zien de betaalgegevens niet. Amazon kiest juist het tegenovergestelde en blokkeert winkelende agents. Voor Nederlandse webwinkels wordt de keuze scherper. Openstellen voor agents levert mogelijk extra verkopen op, maar kost een deel van het directe klantcontact en de eigen aanbiedingen. Blokkeren beschermt de klantrelatie, maar het risico is dat agents hun klanten naar de concurrent sturen.\n\nMicrosoft voegt een tabblad Code toe aan de Copilot-app. Medewerkers beschrijven in gewone taal welke app, welk dashboard of welke automatisering ze willen, en Copilot bouwt het. De functie zit nu in een voorvertoningsprogramma voor organisaties met een Copilot-licentie. Een beheerder moet hem aanzetten en kan alle acties achteraf bekijken. Voor Nederlandse organisaties en mbo-scholen ligt er een duidelijke keuze. Aanzetten betekent snel eigen hulpmiddelen, maar ook tientallen zelfgebouwde apps die iemand moet beheren en op privacy moet controleren. Uitzetten houdt de IT-afdeling in controle, maar medewerkers blijven langer wachten op oplossingen.\n\nDan werk en de arbeidsmarkt.\n\nDe Britse bank Barclays schrapt ongeveer vijfduizend banen, zo'n vijf procent van het personeel. Ongeveer zestig procent valt in ondersteunende functies, waaronder softwareontwikkelaars. Financieel directeur Anna Cross zegt dat er minder ontwikkelaars nodig zijn, omdat AI medewerkers productiever maakt. Topman Venkatakrishnan nuanceert: AI is volgens hem de slagroom, niet de taart. Vakbond Unite noemt AI een excuus om personeel te ontslaan. In de Verenigde Staten noemen werkgevers AI dit jaar bij meer dan een vijfde van de aangekondigde ontslagen, meldt vakblad HCAMag. Uit een eerder onderzoek onder HR-professionals blijkt dat meer dan de helft van hun organisaties geschrapte functies binnen zes maanden weer invulde. Voor werkgevers is de les: schrap pas als het werk echt anders is ingericht. Voor ontwikkelaars verschuift de waarde van code schrijven naar ontwerpen en controleren.\n\nTot slot het scenario van de week. Wat als AI-agents over drie jaar het meeste standaard programmeerwerk op een IT-afdeling doen? Routinecode, testen en eenvoudige reparaties gaan dan grotendeels naar de agent. Wat blijft, is begrijpen wat de organisatie nodig heeft, de architectuur en de beveiliging. Er komt werk bij: agents aansturen, hun werk keuren en lekken beoordelen die AI vindt, zoals deze week bij PHP. Dit is een denkoefening, geen voorspelling. Welke drie taken in uw week zouden als eerste naar een agent gaan, en wat doet u dan met die tijd? Een eerste stap: laat volgende week één klein klusje door een AI-hulpmiddel doen en controleer het resultaat grondig.\n\nTot slot: de kansen.\n\nVoor webbouwers en hostingpartijen ligt er een kans in een PHP-check voor het mkb. Veel ondernemers denken dat een WordPress-update genoeg is. Een vaste prijs voor controle en bijwerken spreekt hen nu aan, omdat OpenAI meer van zulke lekken verwacht.\n\nVoor trainers in informatiebeveiliging ligt er een kans in korte sessies over fraude met AI-stemmen. Werkgevers zoeken herkenbare voorbeelden, en de Rotterdamse zaak laat zien dat ook jonge mensen erin trappen.\n\nVoor e-commercebureaus ligt er een kans in een agentscan voor webwinkels. Breng in kaart wat een AI-agent van de winkel kan lezen en bestellen, en welke regels de winkel wil stellen. Walmart laat zien dat die vraag eraan komt.\n\nDat was AI in een paar minuten. Dank voor het luisteren en een goed weekend. Zondag het weekoverzicht, maandag om acht uur weer."
+    },
     {
       "id": "2026-10-22",
       "date": "2026-10-22",
