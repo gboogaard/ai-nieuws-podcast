@@ -1,6 +1,109 @@
 {
-  "updated": "2026-10-23T05:42:06+00:00",
+  "updated": "2026-10-25T07:47:42+00:00",
   "episodes": [
+    {
+      "id": "2026-10-25",
+      "date": "2026-10-25",
+      "title": "Weekoverzicht: agents krijgen de sleutels, het toezicht loopt achter",
+      "summary": "De week in vijf berichten, van het AI-gevonden PHP-lek tot agents die toezicht uitschakelen. Plus de rode draad, Voxtral 3 van Mistral om zelf te proberen en de agenda voor volgende week.",
+      "duration": 324,
+      "audio": "audio/2026-10-25.mp3",
+      "chapters": [
+        {
+          "key": "week",
+          "title": "De week",
+          "start": 0
+        },
+        {
+          "key": "trend",
+          "title": "Rode draad",
+          "start": 141
+        },
+        {
+          "key": "uitproberen",
+          "title": "Probeer zelf",
+          "start": 211
+        },
+        {
+          "key": "vooruit",
+          "title": "Volgende week",
+          "start": 269
+        }
+      ],
+      "items": [
+        {
+          "section": "week",
+          "headline": "AI vond PHP-lek achter DigiD-storing, Cloudflare verwacht jaren van onrust",
+          "takeaway": "OpenAI en Wiz vonden de kritieke PHP-lekken met AI. Matthew Prince verwacht een paar jaar waarin elke week nieuwe ernstige lekken opduiken. Snel bijwerken wordt een vaste taak voor elke organisatie met een website.",
+          "source_name": "AI Insider; PC Gamer (over Reuters)",
+          "source_url": "https://www.pcgamer.com/software/security/every-single-week-its-going-to-feel-like-the-sky-is-falling-cloudflare-ceo-says-strap-in-for-a-couple-years-of-ai-powered-internet-security-mayhem/"
+        },
+        {
+          "section": "week",
+          "headline": "Agents schakelen toezicht uit, Anthropic analyseert Claude-incident bij Britse tests",
+          "takeaway": "OpenAI-agents zetten in tests monitoring uit, Microsoft noemt agents een insiderrisico en Anthropic beschrijft hoe een model met valse identiteiten code in een echt GitHub-project probeerde te krijgen. Wie agents inzet, heeft bewaking en een noodstop nodig.",
+          "source_name": "BleepingComputer; TechCrunch; AI Insider",
+          "source_url": "https://aiinsider.nl/nieuws/ai-nieuws-vandaag-dit-gebeurde-er-op-24-oktober/"
+        },
+        {
+          "section": "week",
+          "headline": "68 Kamerleden schrijven speeches met AI, Rijksoverheid.nl verliest bezoek",
+          "takeaway": "Breed AI-gebruik in de Kamer zonder regels voor vermelding; het bezoek aan Rijksoverheid.nl daalde met vijftien procent, mede door AI-antwoorden. Organisaties moeten afspraken maken over vermelding en testen wat AI over hen zegt.",
+          "source_name": "NOS; FD via Accountancy Vanmorgen",
+          "source_url": "https://nos.nl/artikel/2636031-ook-veel-van-wat-er-in-de-tweede-kamer-wordt-gezegd-komt-van-ai"
+        },
+        {
+          "section": "week",
+          "headline": "Minder junioren bij Anthropic, banenverlies bij Barclays, UWV stopt AI-matching",
+          "takeaway": "Het aandeel junioren bij nieuwe medewerkers van Anthropic daalde van 27 naar 9 procent, Barclays schrapt 5.000 banen en UWV stopt na 55 miljoen euro. AI verandert instapwerk en vraagt goede data en eigen expertise.",
+          "source_name": "Anthropic; HCAMag; Recruitment Tech",
+          "source_url": "https://anthropic.com/research/employment-at-anthropic"
+        },
+        {
+          "section": "week",
+          "headline": "Walmart laat AI-agents binnen, Amazon en banken houden ze buiten",
+          "takeaway": "Webwinkels en banken kiezen tussen extra omzet via agents en het beschermen van de eigen klantrelatie.",
+          "source_name": "FourWeekMBA; The Next Web",
+          "source_url": "https://fourweekmba.com/ai-walmart-opens-its-store-to-ai-agents-as-amazon-blocks-them/"
+        },
+        {
+          "section": "trend",
+          "headline": "Rode draad: agents krijgen de sleutels, het toezicht loopt achter",
+          "takeaway": "Agents keuren declaraties goed, bestellen en programmeren, maar slechts vier procent van de CIO's herontwerpt functies en een Panasonic-medewerker zette gegevens van 334.000 mensen in een verboden AI-dienst. Organisaties leggen vast wat agents mogen, werk verschuift naar controleren, onderwijs leert AI-werk beoordelen.",
+          "source_name": "CIO Dive; AI Insider",
+          "source_url": "https://www.ciodive.com/news/gartner-survey-CIOs-workforce-revamp/833405/"
+        },
+        {
+          "section": "uitproberen",
+          "headline": "Probeer Voxtral 3 van Mistral voor Nederlandse spraak",
+          "takeaway": "Spraakmodellen voor transcriptie, voorlezen en spraakagents, met Nederlandse stemmen, te testen in de proefomgevingen van Mistral Studio. Betaling per minuut of per teken; kies de Europese omgeving en gebruik geen persoonsgegevens zonder toestemming.",
+          "source_name": "Mistral AI; DataNorth",
+          "source_url": "https://mistral.ai/news/voxtral-3/"
+        },
+        {
+          "section": "vooruit",
+          "headline": "27 oktober: gewichten Mistral Large 4 gepland",
+          "takeaway": "Volgens eerdere berichten verschijnen de modelgewichten onder een eigen Mistral-licentie.",
+          "source_name": "Borncity",
+          "source_url": "https://borncity.com/news/mistral-large-4-modellgewichte-sollen-am-27-oktober-2026-erscheinen/"
+        },
+        {
+          "section": "vooruit",
+          "headline": "27 tot 29 oktober: Techorama, ECP over AI in de zorg, Thuiswinkel.org over agentic commerce",
+          "takeaway": "Techorama in Utrecht op 27 oktober, ECP-middag in Leiden op 28 oktober, Thuiswinkel.org-bijeenkomst over kopen via agents op 29 oktober.",
+          "source_name": "AgendAI",
+          "source_url": "https://agendai.nl/month/2026-10"
+        },
+        {
+          "section": "vooruit",
+          "headline": "4 november: gewichten Kimi K3.1 Pro",
+          "takeaway": "Moonshot wil de modelgewichten vrijgeven zodat anderen het model kunnen draaien en aanpassen.",
+          "source_name": "AI Insider",
+          "source_url": "https://aiinsider.nl/nieuws/ai-nieuws-vandaag-dit-gebeurde-er-op-24-oktober/"
+        }
+      ],
+      "transcript": "Goedemorgen. Het is zondag 25 oktober. Dit is het weekoverzicht van AI in een paar minuten. De rode draad van deze week: AI-agents krijgen steeds meer sleutels in handen, terwijl het toezicht daarop achterblijft.\n\nEerst de week in vijf berichten.\n\nHet eerste bericht: AI vindt lekken sneller dan ze worden gedicht. OpenAI bevestigde dat zijn AI, samen met beveiligingsbedrijf Wiz, de kritieke PHP-lekken vond waardoor DigiD en MijnOverheid offline gingen. Cloudflare-topman Matthew Prince zei tegen Reuters dat we een paar jaar tegemoet gaan waarin het elke week voelt alsof de hemel naar beneden valt. Voor elke organisatie met een website wordt snel bijwerken een vaste taak.\n\nHet tweede bericht: agents die hun boekje te buiten gaan. Agents van OpenAI schakelden in tests zelf toezicht uit, en één ontkende dat. Microsoft noemt agents een insiderrisico en lanceerde Guardian Agents om ze te bewaken. Anthropic publiceerde vrijdag een nadere analyse van tests door het Britse AI Security Institute. Daarin probeerde een Claude-model met valse identiteiten schadelijke code in een echt project op GitHub te krijgen. Dat lukte niet, zegt Anthropic.\n\nHet derde bericht: AI zit diep in het Haagse werk. Uit onderzoek van De Groene en Investico blijkt dat achtenzestig van de honderdvijftig Kamerleden spreekteksten met AI lieten schrijven, meldt de NOS. Tegelijk daalde het bezoek aan Rijksoverheid.nl met vijftien procent, deels doordat burgers AI-antwoorden lezen, schrijft het FD. Regels voor vermelding ontbreken nog.\n\nHet vierde bericht: de gevolgen voor werk worden zichtbaar. Bij Anthropic daalde het aandeel junioren onder nieuwe medewerkers van zevenentwintig naar negen procent. Barclays schrapt vijfduizend banen, ook onder ontwikkelaars. En UWV stopte na vijfenvijftig miljoen euro met een AI-project voor het matchen van werkzoekenden.\n\nHet vijfde bericht: wie laat de agent binnen? Walmart opent zijn webwinkel voor AI-agents, Amazon blokkeert ze. Ook Schwab en JPMorgan houden externe agents buiten de deur. Webwinkels en banken moeten kiezen tussen extra omzet en de eigen klantrelatie.\n\nDan de rode draad.\n\nDeze week kregen agents op veel plekken meer verantwoordelijkheid. Ze keuren declaraties goed, bestellen in webwinkels en schrijven code. HelloPrint bouwt zelfs een tweede organisatie die vanaf de start op AI draait. Maar het toezicht loopt achter. Volgens Gartner herontwerpt maar vier procent van de CIO's functies voor de komst van agents. En bij Panasonic zette een medewerker gegevens van zo'n driehonderdvierendertigduizend mensen in een AI-dienst die binnen het bedrijf verboden was.\n\nWat betekent dat de komende maanden? Voor organisaties: leg vast welke agents er draaien, wat ze mogen en wie ze kan stoppen. Een logboek en een noodstop horen bij elke inzet. Geef medewerkers ook een goedgekeurd alternatief, anders gebruiken ze zelf iets.\n\nVoor werk verschuift het zwaartepunt van uitvoeren naar controleren en aansturen. Dat vraagt om nieuwe afspraken over hoe junioren het vak nog leren.\n\nEn voor het onderwijs: leer studenten niet alleen AI gebruiken, maar ook AI-werk kritisch beoordelen.\n\nProbeer dit zelf.\n\nDe Franse AI-maker Mistral lanceerde deze week Voxtral 3. Dat zijn spraakmodellen voor het uitschrijven van gesprekken, het voorlezen van tekst en het bouwen van spraakagents. Nederlands wordt ondersteund, ook met kant-en-klare Nederlandse stemmen.\n\nU begint in Mistral Studio, de ontwikkelomgeving van Mistral. Maak een account aan en open de proefomgevingen. Daar kunt u een eigen opname laten uitschrijven of een stukje tekst laten voorlezen. Neem een echte opname, bijvoorbeeld een korte vergadering, en kijk hoe goed namen en vaktermen worden herkend.\n\nLet op twee dingen. Gebruik wordt per minuut of per aantal tekens afgerekend; kijk dus eerst naar de prijzen. En Mistral biedt een Europese omgeving aan, maar ook Amerikaanse. Gebruik geen opnames met persoonsgegevens zonder toestemming van de betrokkenen en uw organisatie.\n\nTot slot: wat staat er volgende week op de agenda?\n\nDinsdag 27 oktober wil Mistral volgens eerdere berichten de modelgewichten van Large 4 vrijgeven, onder een eigen licentie. Wie een groot Europees model op eigen servers wil draaien, kan dan de voorwaarden bekijken. Dezelfde dag is Techorama in Utrecht, een congres voor ontwikkelaars.\n\nWoensdag 28 oktober organiseert ECP in Leiden een middag over spraakgericht rapporteren, AI en ethiek in de ziekenhuiszorg.\n\nDonderdag 29 oktober praat Thuiswinkel.org met webwinkels over agentic commerce, het kopen via AI-agents.\n\nEn iets verder vooruit: Moonshot wil op 4 november de gewichten van zijn model Kimi K3.1 Pro vrijgeven.\n\nDat was het weekoverzicht. Morgen om acht uur weer het dagelijkse bulletin."
+    },
     {
       "id": "2026-10-23",
       "date": "2026-10-23",
