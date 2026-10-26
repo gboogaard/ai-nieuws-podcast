@@ -1,6 +1,88 @@
 {
-  "updated": "2026-10-25T07:47:42+00:00",
+  "updated": "2026-10-26T06:51:02+00:00",
   "episodes": [
+    {
+      "id": "2026-10-26",
+      "date": "2026-10-26",
+      "title": "AIVD ziet AI als zelfstandige dreiging, Meta legt AI-risico bij klant",
+      "summary": "De AIVD waarschuwt dat AI een dreiging op zich kan worden, en onderzoek met de TU Delft toont hoe ChatGPT ongevraagd profielen opbouwt. Verder: Meta schuift aansprakelijkheid voor AI-fouten naar klanten, Apollo ziet nog geen winst van AI buiten de techsector en Goldman Sachs over banen en de volgende recessie.",
+      "duration": 323,
+      "audio": "audio/2026-10-26.mp3",
+      "chapters": [
+        {
+          "key": "nl",
+          "title": "Nederland",
+          "start": 0
+        },
+        {
+          "key": "wereld",
+          "title": "Wereldwijd",
+          "start": 108
+        },
+        {
+          "key": "werk",
+          "title": "Werk",
+          "start": 193
+        },
+        {
+          "key": "kansen",
+          "title": "Kansen",
+          "start": 261
+        }
+      ],
+      "items": [
+        {
+          "section": "nl",
+          "headline": "AIVD: AI kan een zelfstandige dreiging worden",
+          "takeaway": "De AIVD-chef ziet AI niet alleen als middel voor bestaande dreigingen, maar mogelijk als dreiging op zich. AI hoort op de risicolijst; een gemeente kan in de risicoanalyse nagaan welke systemen kwetsbaar zijn voor AI-aanvallen.",
+          "source_name": "NL Times",
+          "source_url": "https://nltimes.nl/2026/10/23/domestic-intelligence-chief-warns-ai-become-threat-its-right"
+        },
+        {
+          "section": "nl",
+          "headline": "Onderzoek met TU Delft: ChatGPT maakt 96 procent van herinneringen zelf aan",
+          "takeaway": "Van ruim 2.000 herinneringen bij 80 gebruikers maakte ChatGPT er 96 procent ongevraagd aan; 28 procent bevatte persoonsgegevens. Organisaties doen er goed aan het geheugen in werkaccounts te controleren of uit te zetten.",
+          "source_name": "Het Laatste AI Nieuws",
+          "source_url": "https://www.hetlaatsteainieuws.nl/radar/ai-radar-nederland-25-oktober-2026-openai-lokt-grote-klanten-2"
+        },
+        {
+          "section": "wereld",
+          "headline": "Meta legt aansprakelijkheid voor AI-fouten bij zakelijke klanten",
+          "takeaway": "Dilemma voor Nederlandse marketingafdelingen: Meta's AI-advertentietools blijven gebruiken en elke uiting zelf controleren, of de functies uitzetten en bereik en gemak inleveren. De voorwaarden gaan op 30 oktober in.",
+          "source_name": "CIO",
+          "source_url": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html"
+        },
+        {
+          "section": "wereld",
+          "headline": "Apollo-econoom: AI levert buiten de techsector nog niets op",
+          "takeaway": "Dilemma voor Nederlandse bestuurders: nu breed licenties uitrollen en hopen op rendement, of eerst gericht investeren in een paar processen met meetbare opbrengst en het risico lopen achter te raken.",
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+        },
+        {
+          "section": "werk",
+          "headline": "Goldman Sachs: AI raakt één op de elf werknemers, vooral in een recessie",
+          "takeaway": "Routinebanen verdwijnen vooral in een laagconjunctuur. Werkgevers die nu taken herontwerpen en omscholen, hoeven later niet in paniek te snijden.",
+          "source_name": "Fortune",
+          "source_url": "https://fortune.com/2026/10/22/goldman-sachs-forecast-how-many-jobs-lost-to-ai-9-percent/"
+        },
+        {
+          "section": "kansen",
+          "headline": "Controledienst voor AI-advertenties",
+          "takeaway": "Marketingbureaus en freelancers kunnen mkb-adverteerders een vast controleproces per campagne bieden nu Meta het AI-risico bij de klant legt.",
+          "source_name": "",
+          "source_url": ""
+        },
+        {
+          "section": "kansen",
+          "headline": "Geheugencheck voor AI-assistenten",
+          "takeaway": "Privacyadviseurs en IT-dienstverleners helpen organisaties in een middag het chatbotgeheugen in werkaccounts te beheren en een richtlijn op te stellen.",
+          "source_name": "",
+          "source_url": ""
+        }
+      ],
+      "transcript": "Goedemorgen. Het is maandag 26 oktober. Dit is AI in een paar minuten. Vandaag: de AIVD ziet AI steeds vaker als zelfstandige dreiging, Meta legt het risico van AI-fouten bij zakelijke klanten, en Goldman Sachs over banen en de volgende recessie.\n\nDe AIVD ziet kunstmatige intelligentie steeds vaker als een zelfstandige dreiging. Dat zei directeur-generaal Simone Smit vrijdag in de podcast Wereldupdate van Clingendael, meldt NL Times. AI is volgens haar niet alleen een middel voor bestaande dreigingen, maar mogelijk een dreiging op zich. In september waarschuwden de diensten al dat AI cyberaanvallen groter, complexer en frequenter maakt. Voor bestuurders hoort AI daarmee op de risicolijst, niet alleen op de innovatieagenda. Een gemeente kan bij de volgende risicoanalyse bijvoorbeeld nagaan welke systemen kwetsbaar zijn voor aanvallen met AI.\n\nDan ChatGPT en uw privacy. Onderzoek van onder meer de TU Delft kreeg dit weekend brede aandacht. De onderzoekers vroegen via de AVG de gegevens op van tachtig ChatGPT-gebruikers. Ze vonden ruim tweeduizend opgeslagen herinneringen. Zesennegentig procent daarvan maakte ChatGPT zelf aan, zonder dat de gebruiker erom vroeg. Achtentwintig procent bevatte persoonsgegevens, ruim de helft ging over psychologische kenmerken. Volgens Het Laatste AI Nieuws heeft OpenAI het geheugen aangepast en kunnen gebruikers het uitschakelen. Een adviesbureau waar medewerkers ChatGPT voor klantwerk gebruiken, doet er goed aan het geheugen in werkaccounts te controleren of uit te zetten.\n\nDan het nieuws uit het buitenland.\n\nMeta legt de aansprakelijkheid voor fouten van zijn AI bij zakelijke klanten. Dat meldt CIO. In nieuwe voorwaarden voor advertentie- en zakelijke producten staat dat AI-functies fouten kunnen maken en niet altijd juiste resultaten geven. De klant draagt dat risico, ook voor handelingen van partners en ingehuurde bureaus. De voorwaarden gaan op dertig oktober in. Meta kan de tekst tot die tijd nog aanpassen. Voor Nederlandse marketingafdelingen wordt de keuze scherper: de AI-advertentietools van Meta blijven gebruiken en elke uiting zelf laten controleren, wat tijd en geld kost, of die functies uitzetten en bereik en gemak inleveren.\n\nBuiten de techsector levert AI Amerikaanse bedrijven nog niets op. Dat stelt Torsten Slok, hoofdeconoom van Apollo, meldt TechCrunch. Hij keek naar de grootste beursbedrijven, zonder de zeven techreuzen. Hun winstmarges en omzet per werknemer blijven vlak. Volgens Slok is AI misschien een goede rekenmachine, maar draait zakendoen vooral om oordeelsvermogen. Voor Nederlandse bestuurders ligt er een dilemma: nu breed licenties uitrollen en hopen dat de winst volgt, of het budget eerst richten op twee of drie processen met meetbare opbrengst, met het risico achter te lopen op concurrenten.\n\nDan werk en de arbeidsmarkt.\n\nAI kan op termijn ongeveer één op de elf werknemers in rijke landen raken. Dat staat in een nieuwe analyse van Goldman Sachs, meldt Fortune. Econoom Joseph Briggs rekent met negen procent verdrongen werknemers, plus drie procent minder banen doordat bedrijven trager aannemen. Hij noemt de verdringing tijdelijk: veel mensen vinden weer werk. Opvallend is de timing. Routinebanen, zoals administratief medewerkers en secretaresses, bleven in goede tijden stabiel, maar verdwenen snel in een recessie. Bedrijven automatiseren vooral als de economie vertraagt. Nu is het effect nog beperkt. Slechts drieëntwintig procent van de Amerikaanse vestigingen heeft AI in het dagelijkse werk ingebouwd.\n\nDe strategische les: de echte toets komt bij de volgende laagconjunctuur. Werkgevers die nu taken herontwerpen en mensen omscholen, hoeven dan niet in paniek te snijden. Voor werkenden in routinefuncties is dit het moment om vaardigheden te verbreden, nu de arbeidsmarkt nog ruimte biedt.\n\nTot slot: de kansen.\n\nVoor marketingbureaus en freelancers ligt er een kans in een controledienst voor AI-advertenties. Nu Meta het risico bij de adverteerder legt, willen mkb-bedrijven weten wie hun AI-uitingen nakijkt. Een vast controleproces per campagne, met een kort verslag voor de klant, is snel op te zetten. Het moment is nu, want de nieuwe voorwaarden gaan vrijdag in.\n\nVoor privacyadviseurs en IT-dienstverleners ligt er een kans in een geheugencheck voor AI-assistenten. Het onderzoek naar ChatGPT laat zien dat chatbots ongevraagd profielen opbouwen. Help organisaties in één middag hun instellingen na te lopen, het geheugen in werkaccounts te beheren en een korte richtlijn voor medewerkers op te stellen. Dat raakt direct aan de AVG, en daar hebben veel organisaties nog geen antwoord op.\n\nDat was AI in een paar minuten. Dank u voor het luisteren, en een goede start van de week gewenst. Morgen om acht uur weer."
+    },
     {
       "id": "2026-10-25",
       "date": "2026-10-25",
