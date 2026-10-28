@@ -1,6 +1,140 @@
 {
-  "updated": "2026-10-27T06:35:17+00:00",
+  "updated": "2026-10-28T06:45:53+00:00",
   "episodes": [
+    {
+      "id": "2026-10-28",
+      "date": "2026-10-28",
+      "title": "Kabinet deelt zorgen over AI, wijst pauze af; OpenAI lanceert Terra",
+      "summary": "Het kabinet wil geen AI-pauze, de EU versoepelt de AVG voor AI-training, OpenAI brengt een goedkoop model voor computerwerk en Proton beoordeelt personeel op AI-gebruik. Plus de woensdagblokken onderwijs en jouw kansen.",
+      "duration": 540,
+      "audio": "audio/2026-10-28.mp3",
+      "chapters": [
+        {
+          "key": "nl",
+          "title": "Nederland",
+          "start": 0
+        },
+        {
+          "key": "wereld",
+          "title": "Wereldwijd",
+          "start": 107
+        },
+        {
+          "key": "werk",
+          "title": "Werk",
+          "start": 195
+        },
+        {
+          "key": "onderwijs",
+          "title": "Onderwijs",
+          "start": 260
+        },
+        {
+          "key": "kansen",
+          "title": "Kansen",
+          "start": 350
+        },
+        {
+          "key": "persoonlijk",
+          "title": "Kansen",
+          "start": 399
+        }
+      ],
+      "items": [
+        {
+          "section": "nl",
+          "headline": "Kabinet deelt zorgen over snelle AI, maar wijst pauze af",
+          "takeaway": "Het kabinet erkent dat cyberaanvallen met AI makkelijker worden en vindt de digitale weerbaarheid onvoldoende, maar wil geen verbod of pauze. Gemeenten en bedrijven doen er goed aan zelf hun weerbaarheid te toetsen.",
+          "source_name": "Dutch IT Channel",
+          "source_url": "https://www.dutchitchannel.nl/news/763717/kabinet-deelt-zorgen-over-snelle-ai-ontwikkeling-maar-wijst-pauze-af"
+        },
+        {
+          "section": "nl",
+          "headline": "EU-lidstaten stemmen in met versoepeling AVG voor AI-training",
+          "takeaway": "Training op persoonsgegevens kan op basis van gerechtvaardigd belang, zonder voorafgaande toestemming. Een webwinkel met eigen modelplannen kan nu een belangenafweging voorbereiden.",
+          "source_name": "Dutch IT Channel / Cloud Expo",
+          "source_url": "https://cloudexpo.nl/nieuws/eu-raad-versoepelt-avg-voor-het-trainen-en-inzetten-van-ai-modellen"
+        },
+        {
+          "section": "wereld",
+          "headline": "OpenAI lanceert GPT-6.1 Terra voor computerwerk",
+          "takeaway": "Dilemma: nu administratief werk automatiseren met een goedkoop Amerikaans model en snel tijd winnen, of wachten op een Europees alternatief en maanden aan besparing laten liggen.",
+          "source_name": "BleepingComputer",
+          "source_url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/"
+        },
+        {
+          "section": "wereld",
+          "headline": "Britse asieldienst gebruikt AI-tools, negen procent van samenvattingen onbruikbaar",
+          "takeaway": "Dilemma voor Nederlandse uitvoeringsorganisaties: AI breed inzetten voor snelle capaciteitswinst met risico op onzichtbare fouten, of eerst investeren in controle en openheid en langzamer besparen.",
+          "source_name": "Wired, via Het Laatste AI Nieuws",
+          "source_url": "https://www.hetlaatsteainieuws.nl/radar/ai-radar-nederland-27-oktober-2026-anthropic-eigen-technologie-beleggers"
+        },
+        {
+          "section": "werk",
+          "headline": "Proton: wie geen AI gebruikt, kan ontslagen worden",
+          "takeaway": "AI-gebruik wordt een prestatiecriterium. Werkgevers moeten verwachtingen en scholing helder maken; werkenden doen er goed aan te laten zien wat ze met AI beter doen.",
+          "source_name": "Tweakers, via Het Laatste AI Nieuws",
+          "source_url": "https://tweakers.net/nieuws/253800/proton-bevestigt-dat-het-mogelijk-mensen-ontslaat-die-geen-ai-gebruiken-in-werk.html"
+        },
+        {
+          "section": "werk",
+          "headline": "AI zet uurtarief van IT-dienstverleners onder druk",
+          "takeaway": "Volgens Investec levert werk dat AI sneller doet minder declarabele uren op; 62 procent van de AI-gebruikers zit nog in de pilotfase.",
+          "source_name": "Dutch IT Channel",
+          "source_url": "https://www.dutchitchannel.nl/news/763656/ai-en-integratie-dwingen-it-dienstverleners-tot-nieuw-verdienmodel"
+        },
+        {
+          "section": "onderwijs",
+          "headline": "Google laat docenten meekijken in AI-gesprekken van studenten",
+          "takeaway": "Past bij de docent als coach, maar vraagt om een privacyafweging. Scholen met Google Workspace moeten kiezen of ze de functie aanzetten.",
+          "source_name": "ETIH",
+          "source_url": "https://edtechinnovationhub.com/news/google-classroom-now-lets-teachers-see-students-gemini-notebook-conversations"
+        },
+        {
+          "section": "onderwijs",
+          "headline": "MBO Digitaal: verwerkersovereenkomst is niet genoeg",
+          "takeaway": "Scholen moeten leveranciers zelf toetsen en voor gevoelige tools een DPIA doen; er zijn vijftien sectorale DPIA's. Fouten treffen vooral kwetsbare studenten.",
+          "source_name": "MBO Digitaal",
+          "source_url": "https://mbodigitaal.nl/een-verwerkersovereenkomst-is-niet-genoeg-hoe-veilig-is-jouw-softwareleverancier/"
+        },
+        {
+          "section": "onderwijs",
+          "headline": "Microsoft-boek: leerwerktrajecten passen zich sneller aan AI aan",
+          "takeaway": "Niet-traditionele leerwegen kunnen hun lesprogramma sneller aanpassen; het mbo met de beroepsbegeleidende leerweg heeft een sterke uitgangspositie.",
+          "source_name": "Microsoft On the Issues",
+          "source_url": "https://blogs.microsoft.com/on-the-issues/2026/10/26/learning-curves-the-future-of-education-from-classrooms-to-careers-in-an-ai-driven-world/"
+        },
+        {
+          "section": "kansen",
+          "headline": "Formulierautomatisering voor mkb-klanten",
+          "takeaway": "Administratieve kantoren kunnen met goedkope computer-use-modellen terugkerend invoerwerk overnemen tegen een vaste maandprijs.",
+          "source_name": "",
+          "source_url": ""
+        },
+        {
+          "section": "kansen",
+          "headline": "Belangenafweging voor AI-training onder de nieuwe AVG",
+          "takeaway": "Privacyadviseurs kunnen een vaste aanpak ontwikkelen voor bedrijven die AI willen trainen op klantgegevens.",
+          "source_name": "",
+          "source_url": ""
+        },
+        {
+          "section": "persoonlijk",
+          "headline": "Starterspakket Claude voor stichtingen en goede doelen",
+          "takeaway": "Inrichting, AI-beleid op één A4 en een eerste subsidieaanvraag; ongeveer zes uur werk, zevenhonderd tot duizend euro per pakket. Webinars op 10 en 12 november.",
+          "source_name": "ETIH",
+          "source_url": "https://www.edtechinnovationhub.com/news/anthropic-brings-fundraising-hiring-and-ai-governance-tools-to-claude-for-nonprofits"
+        },
+        {
+          "section": "persoonlijk",
+          "headline": "AI-toolcheck in vijf vragen voor begeleiders",
+          "takeaway": "Ongeveer drie uur werk; voorkomt privacy-incidenten en maakt de AVG concreet, nog in de cybersecuritymaand.",
+          "source_name": "MBO Digitaal",
+          "source_url": "https://mbodigitaal.nl/een-verwerkersovereenkomst-is-niet-genoeg-hoe-veilig-is-jouw-softwareleverancier/"
+        }
+      ],
+      "transcript": "Goedemorgen. Het is woensdag 28 oktober. Dit is AI in een paar minuten. Vandaag: het kabinet deelt de zorgen over snelle AI, maar wil geen pauze. OpenAI brengt een goedkoper model dat zelf computers bedient. En Proton beoordeelt personeel op AI-gebruik.\n\nHet kabinet deelt de zorgen van onderzoekers dat geavanceerde AI sneller gaat dan de veiligheidsmaatregelen. Dat schrijven staatssecretaris Aerdts en minister Van Weel in antwoord op Kamervragen van de SGP, meldt Dutch IT Channel. Het kabinet erkent dat grootschalige cyberaanvallen met AI makkelijker worden. Ook vindt het de digitale weerbaarheid van Nederlandse organisaties onvoldoende. Een verbod op superintelligente AI of een eenzijdige pauze wijst het kabinet voorlopig af. Het wil de AI-verordening goed handhaven. In november volgt een nieuw actieprogramma, dit najaar een kabinetsbrede AI-visie. Voor een gemeente betekent dit: reken niet op een rem van bovenaf, maar toets nu zelf hoe goed uw systemen bestand zijn tegen aanvallen met AI.\n\nDan Europa. De EU-lidstaten hebben ingestemd met een versoepeling van de AVG voor AI, meldt Dutch IT Channel. Bedrijven mogen persoonsgegevens dan gebruiken om AI-modellen te trainen op basis van een gerechtvaardigd belang, zonder vooraf toestemming te vragen. Critici vrezen dat burgers zo minder grip houden op hun gegevens. Het Europees Parlement moet zich er nog over uitspreken. Een webwinkel die een eigen model wil trainen op klantgegevens, kan nu al een belangenafweging voorbereiden.\n\nDan het nieuws uit het buitenland.\n\nOpenAI lanceert GPT-6.1 Terra, een model dat zelf computers bedient. Het vult formulieren in en leest technische tekeningen. Volgens BleepingComputer is het meer dan drie keer zo snel als de duurste modellen van OpenAI en kost het in de API de helft van zijn voorganger. Het is beschikbaar voor zakelijke gebruikers en het onderwijs. Voor Nederlandse organisaties wordt de keuze scherper. Nu administratief werk laten automatiseren door dit goedkope Amerikaanse model levert snel tijdwinst op, maar maakt u afhankelijk van één aanbieder. Wachten op een Europees alternatief houdt de regie dichterbij, maar kost maanden aan besparing.\n\nIn Groot-Brittannië gebruikt het ministerie van Binnenlandse Zaken twee AI-tools op basis van GPT-4 bij asielaanvragen. Uit interne stukken blijkt dat meer dan negen procent van de samenvattingen onbruikbaar is, meldt Wired. Een rechter wees een aanvraag af op basis van een document dat volgens hem door AI was verzonnen. Asielzoekers horen niet dat AI meewerkte. Voor Nederlandse uitvoeringsorganisaties, die met minder mensen meer werk moeten doen, is dit het dilemma: AI breed inzetten en snel capaciteit winnen, met het risico op fouten die niemand ziet, of eerst investeren in controle en openheid naar burgers, en langzamer besparen.\n\nDan werk en de arbeidsmarkt.\n\nHet Zwitserse techbedrijf Proton bevestigt dat medewerkers die geen AI gebruiken, ontslagen kunnen worden, meldt Tweakers. Elke werknemer krijgt de vraag hoe hij AI in zijn werk inzet. Wie geen overtuigend antwoord heeft, wordt opnieuw beoordeeld. Critici wijzen erop dat AI niet bij elke functie past. AI-gebruik wordt zo een prestatiecriterium, zoals eerder digitale vaardigheden.\n\nOok de IT-dienstverlening verandert. Volgens een rapport van Investec, aangehaald door Dutch IT Channel, zet AI het verdienmodel per uur onder druk. Werk dat AI sneller doet, levert minder declarabele uren op. Tegelijk zit tweeënzestig procent van de organisaties die AI gebruiken nog in de pilotfase.\n\nVoor werkgevers betekent dit: maak duidelijk wat u van medewerkers verwacht en bied de scholing erbij. Voor werkenden: zorg dat u kunt laten zien welk werk u met AI beter of sneller doet.\n\nDan onderwijs en AI.\n\nGoogle laat docenten meekijken in de gesprekken die studenten voeren met de AI-assistent in Gemini Notebook. Docenten krijgen een samenvatting van terugkerende vragen, sterke punten en plekken waar steun nodig is, meldt ETIH. Studenten krijgen een melding dat hun docent meeleest. Dit past bij de verschuiving van docent als kennisoverdrager naar coach: de docent ziet waar een student vastloopt. Maar het roept ook privacyvragen op. Scholen die met Google werken, moeten bepalen of zij deze functie aanzetten.\n\nOp MBO Digitaal, een platform van de MBO Raad, waarschuwt een privacydeskundige dat een verwerkersovereenkomst niet genoeg is. Scholen moeten zelf toetsen hoe een leverancier gegevens beschermt. Voor gevoelige toepassingen, zoals tools die uitvalrisico voorspellen, is een DPIA verplicht. Er zijn al vijftien sectorale DPIA's. Dit raakt de kansengelijkheid: een fout in zo'n systeem treft juist kwetsbare studenten. Voor begeleiders betekent het: vraag na of een tool getoetst is voordat u hem gebruikt.\n\nEen nieuw boek van Microsoft-onderzoekers stelt dat leerwegen buiten het traditionele pad, zoals leerwerktrajecten, hun lesprogramma sneller aan AI kunnen aanpassen. Dat sluit aan bij flexibel onderwijs en leven lang ontwikkelen. Het mbo, met zijn beroepsbegeleidende leerweg, heeft hier een sterke uitgangspositie.\n\nTot slot: de kansen.\n\nVoor administratieve dienstverleners ligt er een kans in formulierautomatisering. Modellen zoals GPT-6.1 Terra vullen zelf formulieren in, tegen een lage prijs. Een kantoor kan voor mkb-klanten terugkerend invoerwerk overnemen, met een vaste prijs per maand in plaats van per uur. Dat sluit aan bij de druk op het uurtarief. Begin met één klant en één terugkerend formulier.\n\nVoor privacyjuristen en adviseurs ligt er een kans in de voorbereiding op de nieuwe AVG-regels. Bedrijven die eigen AI willen trainen op klantgegevens, hebben straks een goed onderbouwde belangenafweging nodig. Wie nu een vaste aanpak ontwikkelt, staat klaar zodra de regels definitief zijn.\n\nTot slot, speciaal voor jou: jouw kansen deze week.\n\nEerste actie, als ondernemer. Het nieuws: Anthropic heeft deze week een uitbreiding van Claude voor non-profits aangekondigd. Die bevat kant-en-klare functies voor fondsenwerving, subsidieaanvragen, werving van personeel en een check op het eigen AI-beleid. Erkende goede doelen krijgen tot vijfenzeventig procent korting, en voor erkende organisaties met een zakelijk abonnement zit de uitbreiding er zonder meerprijs bij. Deze week maak je een starterspakket voor Nederlandse stichtingen en goede doelen: een halve dag inrichten, een AI-gebruiksbeleid op één A4 en een eerste subsidieaanvraag samen uitwerken. Check eerst of Nederlandse stichtingen in aanmerking komen voor de korting. Benader daarna drie organisaties uit je netwerk. De ROI: het kost je ongeveer zes uur. Een pakket kan zo'n zevenhonderd tot duizend euro opleveren, en de klant wint uren per subsidieaanvraag. De impact: je bouwt een positie op in een sector waar weinig adviseurs zitten. Als je dit deze week niet oppakt, mis je deze kans omdat de uitbreiding net is aangekondigd en de gratis webinars op tien en twaalf november zijn; wie dan al een aanbod heeft, is de eerste die stichtingen kunnen bellen.\n\nTweede actie, als I-coach. Het nieuws: MBO Digitaal waarschuwt dat een verwerkersovereenkomst niet genoeg is, en Google laat docenten meelezen in AI-gesprekken van studenten. Deze week maak je een korte AI-toolcheck voor begeleiders: vijf vragen die je stelt voordat je een AI-tool gebruikt. Staat de tool op de lijst van sectorale DPIA's, welke gegevens gaan erin, wie kan meelezen, en wat gebeurt er als je stopt. Leg hem voor in je teamoverleg. De ROI: het kost je ongeveer drie uur. Het scheelt losse vragen en voorkomt privacy-incidenten. De impact: begeleiders kiezen bewuster, en de AVG wordt concreet in het dagelijks werk. Als je dit deze week niet oppakt, mis je deze kans omdat oktober de cybersecuritymaand is en de aandacht voor dit onderwerp nu hoog is; daarna zakt het weg tot de overstap naar SURF AI in januari.\n\nDat was AI in een paar minuten. Dank u voor het luisteren. Morgen om acht uur weer, met het belangrijkste AI-nieuws van de dag."
+    },
     {
       "id": "2026-10-27",
       "date": "2026-10-27",
