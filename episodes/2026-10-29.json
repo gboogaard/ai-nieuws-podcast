@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-29",
+  "title": "Rijksmuseum haalt AI-team van Prosus binnen, agents schrijven code",
+  "summary": "Het Rijksmuseum werkt drie jaar met Prosus aan AI, de Auditdienst Rijk ziet gaten in het Algoritmeregister, Google brengt advertenties naar AI-antwoorden en een nieuw topmodel voor beveiligers, en agents beginnen ruim veertig procent van de codewijzigingen op GitHub.",
+  "intro": "Goedemorgen. Het is donderdag 29 oktober. Dit is AI in een paar minuten. Vandaag: het Rijksmuseum haalt AI-specialisten van Prosus in huis, Google brengt advertenties naar AI-antwoorden in meer landen, en op GitHub beginnen AI-agents inmiddels ruim veertig procent van het programmeerwerk.",
+  "sections": [
+    {
+      "key": "nl",
+      "title": "Nederland",
+      "script": "Het Rijksmuseum en techbedrijf Prosus werken drie jaar samen om de collectie met AI toegankelijker te maken. Dat meldt AI Wereld. Specialisten uit het AI Talent Lab van Prosus werken voltijds aan projecten van het museum. Eerst brengen ze in kaart welke data het museum heeft en hoe medewerkers die gebruiken. Welke dat worden, wanneer bezoekers ze zien en wat het kost, staat niet in het persbericht. Het museum gebruikt al AI in zijn online collectie, met een kunstverkenner en zoeken op beeld. Voor andere musea en archieven is dit een bruikbaar model: begin met een inventarisatie van uw data, niet met een app.\n\nDan het Algoritmeregister. De Auditdienst Rijk onderzocht de kwaliteit van de registraties, meldt iBestuur. De administratieve velden zijn op orde. Bij de inhoud wijken organisaties vaak af van de standaard, onder meer door onduidelijke instructies. Ook weten ze niet altijd wanneer iets een algoritme is of AI, en wanneer het impactvol is. Het bijbehorende Algoritmekader is bij veel organisaties onbekend. De auditdienst adviseert Binnenlandse Zaken om organisaties actief te helpen. Het kader wordt bovendien toetsbaar. Voor een gemeente betekent dit: leg nu vast wie bepaalt wat er geregistreerd wordt, voordat de toets komt."
+    },
+    {
+      "key": "wereld",
+      "title": "Wereldwijd",
+      "script": "Dan het nieuws uit het buitenland.\n\nGoogle brengt advertenties in zijn AI-zoekfunctie AI Mode naar tien nieuwe landen, waaronder Canada, India en Australië. Dat maakte het bedrijf gisteren bekend bij de kwartaalcijfers, meldt TechCrunch. Nederland staat nog niet op de lijst. Het Verenigd Koninkrijk volgt dit kwartaal. De groei van de zoekadvertenties vertraagde naar twaalf procent, tegen negentien procent begin dit jaar. Bestaande campagnes doen automatisch mee, zonder aparte mogelijkheid om af te melden. Voor Nederlandse webwinkels die over de grens verkopen, wordt de keuze scherper. Meegaan met plaatsing in AI-antwoorden levert vroeg bereik op, maar u hebt minder zicht op waar uw advertentie verschijnt. Campagnes per land apart inrichten geeft meer controle, maar kost beheertijd en mogelijk bereik.\n\nDan Gemini 4 Carbon, het nieuwe topmodel van Google. Het is gericht op cybersecurity en lange programmeertaken. Volgens Google scoort het bovenaan bij het vinden en dichten van beveiligingslekken. Toegang is voorlopig beperkt tot geselecteerde beveiligers via het Fairwind-programma. Een datum voor brede beschikbaarheid is er niet. Voor Nederlandse beveiligingsbedrijven en IT-afdelingen ligt hier een dilemma. Toegang aanvragen bij een Amerikaans programma geeft sterke hulpmiddelen, maar maakt u afhankelijk van de voorwaarden van Google. Inzetten op eigen kennis en Europese tools houdt de regie dichtbij, maar betekent voorlopig minder krachtige middelen."
+    },
+    {
+      "key": "werk",
+      "title": "Werk",
+      "script": "Dan werk en de arbeidsmarkt.\n\nOp GitHub begint inmiddels meer dan veertig procent van alle voorgestelde codewijzigingen met een eerste versie van een AI-agent. In maart was dat nog zeventien procent. Dat staat in het jaarrapport Octoverse.\n\nTegelijk verandert het werven. Felix Rieseberg, engineering manager bij Anthropic, heeft de programmeertest uit zijn sollicitatieprocedure geschrapt, meldt The Next Web. Claude maakt die kleine opdrachten volgens hem beter dan mensen. Hij kijkt nu naar portfolio's met prototypes die smaak en principieel denken laten zien. Zijn advies aan beginners: begrijp wat het bedrijf wil bereiken en bouw in een weekend een werkend prototype.\n\nDe strategische les: programmeren verschuift van zelf schrijven naar beoordelen en sturen. Voor werkgevers betekent dit dat een klassieke codetoets weinig meer meet. Voor ict-opleidingen in mbo en hbo: laat studenten met AI iets bouwen en laten zien, in plaats van alleen kennis van programmeertaal te toetsen."
+    },
+    {
+      "key": "kansen",
+      "title": "Kansen",
+      "script": "Tot slot: de kansen.\n\nVoor IT-dienstverleners ligt er een kans in transcriptie die lokaal draait. Nvidia bracht gisteren Nemotron drie punt vijf Transcribe uit, een open model voor veertig talen dat tot acht sprekers kan onderscheiden. Het draait op één grafische kaart. Gemeenten, zorginstellingen en scholen willen gesprekken laten uitwerken zonder dat de audio naar een buitenlandse cloud gaat. Test eerst hoe goed het Nederlands werkt en controleer de licentie. Bied daarna een afgeschermde dienst aan.\n\nDe tweede kans ligt bij adviseurs voor de publieke sector. De Auditdienst Rijk ziet dat organisaties worstelen met het Algoritmeregister en het Algoritmekader. Een vaste aanpak voor inventariseren, classificeren en registreren, met een korte training voor de betrokken medewerkers, past precies in dat gat. Nu het kader toetsbaar wordt, groeit die vraag."
+    }
+  ],
+  "outro": "Dat was AI in een paar minuten. Dank u voor het luisteren. Morgen om acht uur weer, met het scenario van de week.",
+  "items": [
+    {
+      "section": "nl",
+      "headline": "Rijksmuseum en Prosus werken drie jaar samen aan AI",
+      "takeaway": "Prosus-specialisten brengen eerst de data van het museum in kaart en bouwen daarna toepassingen. Voor musea en archieven: begin met een data-inventarisatie, niet met een app.",
+      "source_name": "AI Wereld",
+      "source_url": "https://aiwereld.nl/nieuws/rijksmuseum-en-prosus-onderzoeken-hoe-ai-kunst-toegankelijker-kan-maken"
+    },
+    {
+      "section": "nl",
+      "headline": "Auditdienst Rijk: registraties in Algoritmeregister wijken vaak af",
+      "takeaway": "Organisaties twijfelen wat een algoritme, AI of impactvol is; het Algoritmekader is vaak onbekend en wordt toetsbaar. Gemeenten leggen nu het best vast wie bepaalt wat geregistreerd wordt.",
+      "source_name": "iBestuur",
+      "source_url": "https://ibestuur.nl/data-en-ai/toepassingen/meer-ondersteuning-nodig-bij-invulling-algoritmeregister"
+    },
+    {
+      "section": "wereld",
+      "headline": "Google brengt advertenties in AI Mode naar tien nieuwe landen",
+      "takeaway": "Nederland nog niet, het VK dit kwartaal; bestaande campagnes doen automatisch mee. Dilemma voor webwinkels: meegaan voor vroeg bereik met minder zicht, of per land apart inrichten met meer controle en meer beheertijd.",
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
+    },
+    {
+      "section": "wereld",
+      "headline": "Google lanceert Gemini 4 Carbon, eerst alleen voor beveiligers",
+      "takeaway": "Topmodel voor cybersecurity en programmeerwerk, met beperkte toegang via Fairwind. Dilemma: toegang aanvragen en afhankelijk worden van Google, of inzetten op eigen kennis en Europese tools met voorlopig minder krachtige middelen.",
+      "source_name": "Google / VentureBeat",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+    },
+    {
+      "section": "werk",
+      "headline": "Agents beginnen ruim veertig procent van de codewijzigingen op GitHub",
+      "takeaway": "Van zeventien procent in maart naar meer dan veertig in september. Programmeren verschuift naar beoordelen en sturen; ict-opleidingen kunnen meer laten bouwen en tonen.",
+      "source_name": "GitHub",
+      "source_url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/"
+    },
+    {
+      "section": "werk",
+      "headline": "Anthropic-manager schrapt programmeertest bij sollicitaties",
+      "takeaway": "Claude maakt kleine codeeropdrachten beter dan mensen; prototypes en portfolio's tellen meer. Werkgevers doen er goed aan hun selectie te herzien.",
+      "source_name": "The Next Web",
+      "source_url": "https://thenextweb.com/news/anthropic-felix-rieseberg-coding-interview-claude"
+    },
+    {
+      "section": "kansen",
+      "headline": "Lokale transcriptiedienst met open spraakmodel",
+      "takeaway": "Nvidia's open Nemotron 3.5 Transcribe draait op één GPU. IT-dienstverleners kunnen afgeschermde transcriptie bieden aan gemeenten, zorg en onderwijs, na een test van het Nederlands en de licentie.",
+      "source_name": "SiliconANGLE",
+      "source_url": "https://siliconangle.com/2026/10/28/nvidia-releases-all-in-one-adaptable-nemotron-3-5-audio-transcription-and-translation-model/"
+    },
+    {
+      "section": "kansen",
+      "headline": "Ondersteuning bij Algoritmeregister en Algoritmekader",
+      "takeaway": "Adviseurs kunnen overheidsorganisaties helpen met een vaste aanpak voor inventariseren, classificeren en registreren, plus training, nu het kader toetsbaar wordt.",
+      "source_name": "iBestuur",
+      "source_url": ""
+    }
+  ]
+}
