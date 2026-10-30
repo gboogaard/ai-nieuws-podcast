@@ -1,6 +1,116 @@
 {
-  "updated": "2026-10-29T06:38:44+00:00",
+  "updated": "2026-10-30T06:32:41+00:00",
   "episodes": [
+    {
+      "id": "2026-10-30",
+      "date": "2026-10-30",
+      "title": "Kamermeerderheid wil generatieve AI uit de basisschool",
+      "summary": "Een Kamermeerderheid wil generatieve AI verbieden voor basisschoolleerlingen, Mistral geeft zijn grootste model vrij en bedrijven halen mensen terug na AI-ontslagen. Plus het scenario van de week over de overheid.",
+      "duration": 389,
+      "audio": "audio/2026-10-30.mp3",
+      "chapters": [
+        {
+          "key": "nl",
+          "title": "Nederland",
+          "start": 0
+        },
+        {
+          "key": "wereld",
+          "title": "Wereldwijd",
+          "start": 104
+        },
+        {
+          "key": "werk",
+          "title": "Werk",
+          "start": 196
+        },
+        {
+          "key": "kansen",
+          "title": "Kansen",
+          "start": 310
+        }
+      ],
+      "items": [
+        {
+          "section": "nl",
+          "headline": "Kamermeerderheid wil generatieve AI verbieden op de basisschool",
+          "takeaway": "Tien partijen, samen 88 zetels, steunen een motie van Volt en CDA; staatssecretaris Tielen ontraadt die en werkt aan een digitaliseringsplan. Uitgevers van lesmethodes doen er goed aan per product te bepalen welke functies generatieve AI gebruiken en of die uit te zetten zijn.",
+          "source_name": "NOS",
+          "source_url": "https://nos.nl/artikel/2637170-geen-ai-voor-kinderen-in-het-basisonderwijs-zegt-tweede-kamer"
+        },
+        {
+          "section": "nl",
+          "headline": "Tielen steunt verbod op generatieve AI op basisschool nog niet",
+          "takeaway": "De staatssecretaris wil eerst haar plan voor digitalisering in het primair en voortgezet onderwijs afmaken en adviseert de Kamer tegen de motie te stemmen.",
+          "source_name": "ANP via Nieuws.nl",
+          "source_url": "https://nieuws.nl/politiek/tielen-steunt-verbod-generatieve-ai-op-basisschool-nog-niet-9QPsWr"
+        },
+        {
+          "section": "nl",
+          "headline": "Nieuwe advertentievoorwaarden Meta voor AI-creatives gaan in",
+          "takeaway": "Regels voor AI-gemaakte advertentiebeelden en -teksten worden per 30 oktober onderdeel van de standaardvoorwaarden. Marketingbureaus moeten nagaan wie de rechten heeft op AI-beelden.",
+          "source_name": "Infotrends",
+          "source_url": "https://infotrends.nl/blog/meta-advertentievoorwaarden-30-oktober-2026-ai-creatives"
+        },
+        {
+          "section": "wereld",
+          "headline": "Mistral geeft Large 4 vrij als open model",
+          "takeaway": "Dilemma voor gemeenten, hogescholen en zorginstellingen: zelf een Europees open model draaien (investering in rekenkracht en beheer, volledige datacontrole) of een Amerikaanse clouddienst blijven gebruiken (direct werkend, maar afhankelijk).",
+          "source_name": "The Next Web",
+          "source_url": "https://thenextweb.com/news/mistral-large-4-open-weights-release"
+        },
+        {
+          "section": "wereld",
+          "headline": "Mistral Large 4: licentie met uitzondering voor modeldiensten",
+          "takeaway": "Vrij te gebruiken, maar wie het model als dienst aanbiedt heeft een aparte commerciële licentie nodig. API-prijs 0,70 dollar per miljoen invoertokens.",
+          "source_name": "AI Weekly",
+          "source_url": "https://aiweekly.co/alerts/mistral-opens-1t-le-chonk-large-4-under-modified-mit-license"
+        },
+        {
+          "section": "wereld",
+          "headline": "Amerikaans ministerie onderzoekt overname Hugging Face door Nvidia",
+          "takeaway": "Dilemma voor Nederlandse universiteiten en ontwikkelaars: blijven vertrouwen op één centraal platform (gemak en snelheid) of modellen en data ook elders bewaren (extra beheer, minder afhankelijkheid).",
+          "source_name": "PYMNTS / Reuters",
+          "source_url": "https://www.pymnts.com/legal/2026/doj-probes-nvidias-hugging-face-deal-over-ai-competition-concerns/"
+        },
+        {
+          "section": "werk",
+          "headline": "Bedrijven nemen weer mensen aan na AI-ontslagen",
+          "takeaway": "Een derde van de bedrijven met AI-ontslagen vulde een kwart tot de helft van de functies opnieuw in; Gartner verwacht dat 30 procent wordt teruggehaald. Werkgevers doen er goed aan eerst te bepalen welke kennis en welk toezicht nodig blijven.",
+          "source_name": "The Washington Post via AI Weekly",
+          "source_url": "https://aiweekly.co/alerts/careerminds-third-of-ai-layoffs-reversed-as-boomerang-spreads"
+        },
+        {
+          "section": "werk",
+          "headline": "Scenario: agents doen over drie jaar het meeste dossierwerk bij de overheid",
+          "takeaway": "Invoer- en controlewerk neemt af; lastige gevallen en verantwoording blijven; nieuw zijn controle van AI-besluiten en uitleg aan burgers. Eerste stap: noteer drie dossiers waarin uw eigen oordeel het verschil maakte.",
+          "source_name": "",
+          "source_url": ""
+        },
+        {
+          "section": "kansen",
+          "headline": "Besloten AI-omgeving op basis van Mistral Large 4",
+          "takeaway": "IT-dienstverleners met Europese rekenkracht bieden gemeenten, zorg en advocatuur een eigen omgeving; regel vooraf de licentie voor modeldiensten.",
+          "source_name": "",
+          "source_url": ""
+        },
+        {
+          "section": "kansen",
+          "headline": "Kennistoets vóór AI-ontslagen",
+          "takeaway": "HR- en organisatieadviseurs brengen met werkgevers in kaart welke kennis, welk toezicht en welke klantcontacten bij een functie horen voordat die verdwijnt.",
+          "source_name": "",
+          "source_url": ""
+        },
+        {
+          "section": "kansen",
+          "headline": "AI-lessen voor de basisschool zonder chatbot",
+          "takeaway": "Educatieve aanbieders ontwikkelen lespakketten over AI-begrip en nepbeelden waarbij kinderen zelf niet met een chatbot werken.",
+          "source_name": "",
+          "source_url": ""
+        }
+      ],
+      "transcript": "Goedemorgen. Het is vrijdag 30 oktober. Dit is AI in een paar minuten. Vandaag: een Kamermeerderheid wil generatieve AI weren uit de basisschool, het Franse Mistral geeft zijn grootste model vrij, en bedrijven die mensen vervingen door AI nemen weer personeel aan.\n\nEen meerderheid van de Tweede Kamer wil generatieve AI verbieden voor basisschoolleerlingen. Volt en het CDA dienden gisteren een motie in tijdens het debat over de onderwijsbegroting. Volgens de NOS steunen tien partijen het voorstel, samen goed voor achtentachtig zetels. De indieners vinden dat jonge kinderen eerst zelf kritisch en creatief moeten leren denken. Volt-leider Dassen zegt dat generatieve AI leerachterstanden vergroot. Staatssecretaris Tielen van Onderwijs ontraadt de motie voorlopig, meldt het ANP. Zij werkt aan een plan voor digitalisering in het primair en voortgezet onderwijs en wil daar eerst meer tijd voor.\n\nWaarom telt dit? Er komt een scherpere grens tussen gewone digitale leermiddelen en tools met generatieve AI. Een uitgever van lesmethodes doet er goed aan nu per product vast te stellen welke functies generatieve AI gebruiken, en of scholen die kunnen uitzetten.\n\nVerder gelden vanaf vandaag nieuwe advertentievoorwaarden van Meta. De regels voor advertentiebeelden en -teksten die met AI zijn gemaakt, worden onderdeel van de standaardvoorwaarden voor adverteerders, meldt Infotrends. Een marketingbureau dat klanten volledig eigendom van advertentiemateriaal belooft, moet nagaan wie de rechten heeft op beelden die Meta met AI maakt.\n\nDan het nieuws uit het buitenland.\n\nHet Franse Mistral heeft zijn grootste model, Mistral Large 4, vrijgegeven als open model op Hugging Face. Het is getraind in Europese datacenters. Een gecomprimeerde versie draait op vier krachtige Nvidia-chips, meldt The Next Web. Het model is vrij te gebruiken, maar wie het als dienst aan anderen aanbiedt, heeft een aparte commerciële licentie nodig, meldt AI Weekly. Voor gemeenten, hogescholen en zorginstellingen met gevoelige gegevens wordt de keuze concreet. Zelf een Europees open model draaien vraagt investeringen in rekenkracht en beheer, maar geeft volledige controle over de data. Een Amerikaanse clouddienst blijven gebruiken werkt direct, maar houdt de afhankelijkheid in stand.\n\nHet Amerikaanse ministerie van Justitie onderzoekt de overname van Hugging Face door Nvidia, meldt Reuters. De deal is twaalf komma negen miljard dollar waard. Hugging Face is een belangrijk platform waar AI-modellen worden gedeeld. Justitie kijkt of Nvidia zo te veel controle krijgt over dat distributiekanaal. Nvidia zegt dat het platform open blijft voor andere chip- en cloudbedrijven. Een onderzoek betekent niet dat er iets mis is. Voor Nederlandse universiteiten en ontwikkelaars die op Hugging Face bouwen, ligt er een keuze. Blijven vertrouwen op één centraal platform levert gemak en snelheid op. Modellen en data nu al ook elders bewaren kost extra beheer, maar verkleint de afhankelijkheid van één Amerikaanse chipmaker.\n\nDan werk en de arbeidsmarkt.\n\nBedrijven die banen schrapten met AI als reden, nemen een deel van die mensen weer aan, meldt The Washington Post. Volgens onderzoeksbureau Careerminds heeft ongeveer een derde van die bedrijven een kwart tot de helft van de geschrapte functies opnieuw ingevuld. De redenen: AI vraagt meer menselijk toezicht dan verwacht, en neemt de kennis van ervaren medewerkers niet over. Ford nam na kwaliteitsproblemen meer dan driehonderdvijftig ervaren ingenieurs weer aan. Gartner verwacht dat in tweeduizendnegenentwintig dertig procent van de door AI vervangen werknemers is teruggehaald. Volgens Forrester heeft vijfenvijftig procent van de werkgevers spijt van ontslagen die aan AI werden toegeschreven.\n\nDat is relevant voor Nederland, waar het kabinet deze week rekende op AI om vijfentwintigduizend rijksbanen te schrappen. De les voor werkgevers: breng eerst in kaart welke kennis en welk toezicht nodig blijven, voordat u functies schrapt. Voor werkenden is kennis van processen juist een troef.\n\nTot slot het scenario van de week. Wat als AI-agents over drie jaar het grootste deel van het dossierwerk bij de overheid doen? Denk aan aanvragen beoordelen, brieven opstellen en besluiten voorbereiden. Het standaard invoer- en controlewerk neemt dan sterk af. Wat blijft, is het lastige geval: de burger die niet in een hokje past, en de afweging die een mens moet maken en verantwoorden. Nieuw zijn taken als het controleren van AI-besluiten, het uitleggen ervan aan burgers en het melden van fouten in het systeem. Dit is een denkoefening, geen voorspelling. Welke beslissingen in uw werk wilt u altijd zelf blijven nemen, en waarom? Een eerste stap: noteer deze week drie dossiers waarin uw eigen oordeel het verschil maakte.\n\nTot slot: de kansen.\n\nVoor IT-dienstverleners met Europese rekenkracht ligt er een kans in een besloten AI-omgeving op basis van Mistral Large 4. Denk aan gemeenten, zorginstellingen en advocatenkantoren die gevoelige gegevens niet naar een Amerikaanse cloud willen sturen. Let op de licentie: wie het model als dienst aan anderen aanbiedt, heeft een aparte licentie van Mistral nodig. Regel die vooraf.\n\nVoor HR- en organisatieadviseurs ligt er een kans in een kennistoets vóór AI-ontslagen. Breng met de werkgever in kaart welke kennis, welk toezicht en welke klantcontacten bij een functie horen, voordat die verdwijnt. De cijfers over terugaanname laten zien dat schrappen zonder die toets duur kan uitpakken.\n\nVoor educatieve aanbieders ligt er een kans in AI-lessen voor de basisschool zonder chatbot. Ook als generatieve AI uit de klas verdwijnt, moeten kinderen leren wat AI is en hoe ze nepbeelden herkennen. Een lespakket over AI-begrip, waarbij kinderen zelf niet met een chatbot werken, past bij beide kanten van het debat.\n\nDat was AI in een paar minuten. Dank voor het luisteren en een goed weekend. Zondag het weekoverzicht, maandag om acht uur weer."
+    },
     {
       "id": "2026-10-29",
       "date": "2026-10-29",
