@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-01",
+  "title": "Weekoverzicht: bezuinigen op AI, terwijl het rendement nog onzeker is",
+  "summary": "Het kabinet rekent op AI bij minder rijksbanen, de Kamer wil generatieve AI uit de basisschool, Mistral geeft Large 4 vrij en agents nemen programmeerwerk over. De rode draad: organisaties snijden al op AI-besparingen die nog niet bewezen zijn.",
+  "intro": "Goedemorgen. Het is zondag 1 november. Dit is het weekoverzicht van AI in een paar minuten. De rode draad van deze week: overheid en bedrijven rekenen al op besparingen door AI, terwijl het bewijs voor die besparingen nog dun is.",
+  "sections": [
+    {
+      "key": "week",
+      "title": "De week",
+      "script": "Eerst de week in vijf berichten.\n\nHet eerste bericht: het kabinet wil vijfentwintigduizend rijksbanen schrappen en rekent daarbij op AI en chatbots, meldde de NOS. Zaterdag zette AI Wereld dat getal in perspectief. Het gaat om de hele bezuiniging op de rijksoverheid, niet om banen die door AI verdwijnen. Hoeveel AI moet opleveren, is nog niet besloten. De concrete besparingsplannen volgen in het eerste kwartaal van 2027.\n\nHet tweede bericht: een Kamermeerderheid wil generatieve AI verbieden voor basisschoolleerlingen. Tien partijen, samen achtentachtig zetels, steunen een motie van Volt en CDA, meldt de NOS. Staatssecretaris Tielen ontraadt de motie. Zij werkt eerst aan een plan voor digitalisering in het primair en voortgezet onderwijs. Uitgevers van lesmethodes moeten nu per product nagaan welke functies generatieve AI gebruiken.\n\nHet derde bericht: Europa krijgt een groot open model. Het Franse Mistral gaf Large 4 vrij, zodat organisaties het op eigen servers kunnen draaien. Wie het model als dienst aan anderen aanbiedt, heeft wel een aparte commerciële licentie nodig. Tegelijk onderzoekt het Amerikaanse ministerie van Justitie de overname van Hugging Face door Nvidia. Dat platform is voor veel ontwikkelaars de plek waar open modellen staan.\n\nHet vierde bericht: agents nemen steeds meer programmeerwerk over. Volgens GitHub begonnen agents in september ruim veertig procent van de codewijzigingen, tegen zeventien procent in maart. OpenAI bracht met GPT-6.1 Terra een goedkoper model uit voor computerwerk, zoals formulieren invullen.\n\nHet vijfde bericht: de gevolgen voor personeel worden zichtbaar, maar zijn niet eenduidig. Microsoft bood zestigduizend medewerkers een vertrekregeling aan. Proton bevestigde dat wie geen AI gebruikt, ontslagen kan worden. Maar een derde van de bedrijven met AI-ontslagen vulde een kwart tot de helft van die functies later opnieuw in, meldt The Washington Post."
+    },
+    {
+      "key": "trend",
+      "title": "Rode draad",
+      "script": "Dan de rode draad.\n\nDeze week rekenden veel organisaties alvast op AI-besparingen. Het kabinet koppelt minder rijksbanen aan AI, Microsoft biedt een grote vertrekregeling aan. Maar het bewijs voor die besparingen is dun. Een econoom van Apollo ziet buiten de techsector nog geen financieel rendement van AI. In een Britse proef bij de belastingdienst bespaarden medewerkers met Copilot ongeveer een uur per week, vooral volgens hun eigen opgave. En de Algemene Rekenkamer zag eerder dat organisaties bij vijfendertig procent van hun AI-systemen niet wisten of die deden wat werd verwacht. Dat bedrijven mensen terughalen na AI-ontslagen, past in dat beeld.\n\nWat betekent dat de komende maanden? Voor organisaties: bepaal vooraf per toepassing wat succes is, en meet het. Snijd pas in functies als de winst aantoonbaar is.\n\nVoor werk: kennis en toezicht blijven nodig, ook als taken verdwijnen. Breng die in kaart voordat een functie wordt geschrapt.\n\nEn voor het onderwijs: leer studenten niet alleen AI gebruiken, maar ook nagaan of het werk er echt beter of sneller van wordt."
+    },
+    {
+      "key": "uitproberen",
+      "title": "Probeer zelf",
+      "script": "Probeer dit zelf.\n\nGoogle maakt het sinds deze week mogelijk om bestanden direct in de Gemini-app te bewerken. Dat geldt voor PDF's, documenten, presentaties en spreadsheets. Volgens Google werkt het in alle talen waarin de Gemini-app beschikbaar is, ook met een persoonlijk Google-account.\n\nU begint in Gemini in de browser. Laat Gemini een kort document maken, bijvoorbeeld een conceptbrief, of upload een PDF. Open het bestand op volledig scherm. Typ zelf wijzigingen, of selecteer een alinea en vraag Gemini die korter of formeler te maken. Op de telefoon werkt dit alleen voor PDF's; andere bestanden bewerkt u in de browser.\n\nLet op twee dingen. Gebruik geen vertrouwelijke stukken of persoonsgegevens zonder toestemming van uw organisatie. En beheerders van Google Workspace kunnen de functie niet centraal uitzetten; gebruikers regelen dat zelf in de instellingen."
+    },
+    {
+      "key": "vooruit",
+      "title": "Volgende week",
+      "script": "Tot slot: wat staat er volgende week op de agenda?\n\nDinsdag 3 november organiseren het Platform AI en Overheid en Digitaal Toegankelijk in Utrecht een middag over AI voor een toegankelijke overheid.\n\nWoensdag 4 november wil het Chinese Moonshot de modelgewichten van Kimi K3.1 Pro vrijgeven. Pas dan kunnen organisaties het model zelf draaien en aanpassen. Diezelfde avond is in de Zuiderkerk in Amsterdam de Amsterdam AI Summit, over AI in de praktijk en AI-agents.\n\nDonderdag 5 november is Emerce EDAY in Amsterdam, met ruim dertig sessies over onder meer AI. Picnic vertelt er over AI-agents die voor klanten boodschappen doen."
+    }
+  ],
+  "outro": "Dat was het weekoverzicht. Morgen om acht uur weer het dagelijkse bulletin.",
+  "items": [
+    {
+      "section": "week",
+      "headline": "Kabinet schrapt 25.000 rijksbanen en rekent op AI, besparingsplan volgt in 2027",
+      "takeaway": "De 25.000 fte is de hele bezuiniging op het Rijk, niet het effect van AI; hoeveel AI moet opleveren is niet besloten. Gemeenten en uitvoerders doen er goed aan nu te bepalen welke processen echt te automatiseren zijn.",
+      "source_name": "NOS; AI Wereld",
+      "source_url": "https://aiwereld.nl/nieuws/ambtenaren-moeten-met-ai-productiever-werken-besparingsplan-volgt-in-2027"
+    },
+    {
+      "section": "week",
+      "headline": "Kamermeerderheid wil generatieve AI verbieden op de basisschool",
+      "takeaway": "Tien partijen met 88 zetels steunen een motie van Volt en CDA; staatssecretaris Tielen ontraadt die. Uitgevers van lesmethodes moeten per product nagaan welke functies generatieve AI gebruiken.",
+      "source_name": "NOS",
+      "source_url": "https://nos.nl/artikel/2637170-geen-ai-voor-kinderen-in-het-basisonderwijs-zegt-tweede-kamer"
+    },
+    {
+      "section": "week",
+      "headline": "Mistral geeft Large 4 vrij, VS onderzoekt overname Hugging Face door Nvidia",
+      "takeaway": "Een groot Europees open model voor eigen servers, met een aparte licentie voor wie het als dienst aanbiedt. Tegelijk staat de afhankelijkheid van één centraal modelplatform ter discussie.",
+      "source_name": "The Next Web; PYMNTS / Reuters",
+      "source_url": "https://thenextweb.com/news/mistral-large-4-open-weights-release"
+    },
+    {
+      "section": "week",
+      "headline": "Agents beginnen ruim veertig procent van de codewijzigingen op GitHub",
+      "takeaway": "Van zeventien procent in maart naar ruim veertig in september; OpenAI brengt met GPT-6.1 Terra een goedkoper model voor computerwerk. Programmeren en administratief werk verschuiven naar sturen en controleren.",
+      "source_name": "GitHub; BleepingComputer",
+      "source_url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/"
+    },
+    {
+      "section": "week",
+      "headline": "Microsoft biedt 60.000 mensen vertrekregeling, bedrijven halen personeel terug na AI-ontslagen",
+      "takeaway": "Proton maakt AI-gebruik een prestatiecriterium, maar een derde van de bedrijven met AI-ontslagen vulde later een kwart tot de helft van de functies opnieuw in.",
+      "source_name": "TechCrunch; Tweakers; The Washington Post via AI Weekly",
+      "source_url": "https://aiweekly.co/alerts/careerminds-third-of-ai-layoffs-reversed-as-boomerang-spreads"
+    },
+    {
+      "section": "trend",
+      "headline": "Rode draad: bezuinigen op AI voordat het rendement bewezen is",
+      "takeaway": "Kabinet en bedrijven rekenen op AI-besparingen, terwijl Apollo buiten de techsector geen rendement ziet, een Britse Copilot-proef ongeveer een uur per week opleverde en de Rekenkamer bij 35 procent van AI-systemen geen zicht op resultaat vond. Bepaal vooraf wat succes is en snijd pas als de winst aantoonbaar is.",
+      "source_name": "AI Wereld; TechCrunch",
+      "source_url": "https://aiwereld.nl/nieuws/ambtenaren-moeten-met-ai-productiever-werken-besparingsplan-volgt-in-2027"
+    },
+    {
+      "section": "uitproberen",
+      "headline": "Probeer bestanden bewerken in de Gemini-app",
+      "takeaway": "PDF's, documenten, presentaties en spreadsheets direct in de chat bewerken; PDF ook op de telefoon, de rest in de browser. Geen vertrouwelijke stukken uploaden zonder toestemming.",
+      "source_name": "Google Workspace Updates",
+      "source_url": "https://workspaceupdates.googleblog.com/2026/10/create-preview-and-edit-files-directly-in-the-Gemini-app.html"
+    },
+    {
+      "section": "vooruit",
+      "headline": "3 november: AI voor een toegankelijke overheid in Utrecht",
+      "takeaway": "Middag van Platform AI & Overheid en Digitaal Toegankelijk over hoe AI de overheid toegankelijker kan maken.",
+      "source_name": "Digitale Overheid",
+      "source_url": "https://www.digitaleoverheid.nl/evenementen/bijeenkomst-ai-voor-een-toegankelijke-overheid/"
+    },
+    {
+      "section": "vooruit",
+      "headline": "4 november: gewichten Kimi K3.1 Pro en Amsterdam AI Summit",
+      "takeaway": "Moonshot wil de modelgewichten vrijgeven, waarna zelf draaien en aanpassen mogelijk wordt. 's Avonds de Amsterdam AI Summit in de Zuiderkerk.",
+      "source_name": "Let's Data Science; Createwith",
+      "source_url": "https://letsdatascience.com/news/moonshot-releases-kimi-k31-pro-api-open-weights-due-nov-4-786e160c"
+    },
+    {
+      "section": "vooruit",
+      "headline": "5 november: Emerce EDAY in Amsterdam",
+      "takeaway": "Ruim dertig sessies over onder meer AI, waaronder Picnic over AI-shoppingagents.",
+      "source_name": "Createwith",
+      "source_url": "https://createwith.com/event/amsterdam-emerce-eday-2026-master-the-friction-own-the-future-nov-2026"
+    }
+  ]
+}
