@@ -1,6 +1,102 @@
 {
-  "updated": "2026-11-01T07:51:08+00:00",
+  "updated": "2026-11-02T06:41:37+00:00",
   "episodes": [
+    {
+      "id": "2026-11-02",
+      "date": "2026-11-02",
+      "title": "DNB: AI verandert werk van een kwart van de Nederlanders ingrijpend",
+      "summary": "DNB ziet grote gevolgen van AI voor werk, maar het economische effect ligt nog niet vast. Verder: de Kamer stemt dinsdag over AI op de basisschool, een besmette programmeerextensie en strengere veiligheidsregels bij ChatGPT.",
+      "duration": 293,
+      "audio": null,
+      "chapters": [
+        {
+          "key": "nl",
+          "title": "Nederland",
+          "start": 0
+        },
+        {
+          "key": "wereld",
+          "title": "Wereldwijd",
+          "start": 89
+        },
+        {
+          "key": "werk",
+          "title": "Werk",
+          "start": 180
+        },
+        {
+          "key": "kansen",
+          "title": "Kansen",
+          "start": 236
+        }
+      ],
+      "items": [
+        {
+          "section": "nl",
+          "headline": "Kamer stemt dinsdag over verbod op generatieve AI op de basisschool",
+          "takeaway": "Een leraar en een onderwijskundige noemen een volledig verbod kortzichtig en pleiten voor training van leraren. Schoolbesturen doen er goed aan AI-pilots in de bovenbouw aan te houden tot na de stemming.",
+          "source_name": "Het Laatste AI Nieuws, via AD",
+          "source_url": "https://www.hetlaatsteainieuws.nl/radar/ai-radar-nederland-1-november-2026-google-verliest-miljard-dollar"
+        },
+        {
+          "section": "nl",
+          "headline": "Forrester: Europese bedrijven verkleinen in 2027 selectief afhankelijkheid van Amerikaanse cloud",
+          "takeaway": "Meer dan de helft van de Europese bedrijven die AI gebruiken verplaatst kritieke data en toepassingen naar Europese aanbieders, zonder volledige overstap. Een zorginstelling kan bijvoorbeeld dossiers en AI daarop in een Europese cloud zetten.",
+          "source_name": "Computable",
+          "source_url": "https://www.computable.nl/2026/10/30/europa-wil-minder-amerikaanse-tech-maar-blijft-afhankelijk/"
+        },
+        {
+          "section": "wereld",
+          "headline": "Besmette Claude Code-extensie in Cursor-winkel plaatste achterdeur",
+          "takeaway": "Maximaal vijfduizend gebruikers liepen risico; versie 2.1.314 is schoon. Dilemma voor IT-afdelingen en hogescholen: vrije installatie en snelheid, of alleen goedgekeurde extensies uit officiële bronnen met extra beheerwerk.",
+          "source_name": "AI Weekly / The Hacker News",
+          "source_url": "https://aiweekly.co/alerts/trojanized-claude-code-extension-hit-up-to-5000-cursor-users"
+        },
+        {
+          "section": "wereld",
+          "headline": "OpenAI beëindigt gesprekken over geweld en beperkt wapeninformatie voor tieners",
+          "takeaway": "OpenAI deed in het derde kwartaal ruim tweehonderd meldingen bij opsporingsdiensten. Dilemma voor scholen: ChatGPT met extra bescherming maar een Amerikaanse partij die gesprekken beoordeelt, of een eigen afgeschermde omgeving met meer controle en meer kosten.",
+          "source_name": "AI Weekly",
+          "source_url": "https://aiweekly.co/alerts/openai-restricts-teen-weapons-info-auto-ends-violence-chats"
+        },
+        {
+          "section": "werk",
+          "headline": "DNB: kwart van de werkenden heeft beroep waarin AI minstens de helft van de taken versnelt",
+          "takeaway": "De gevolgen voor banen en inflatie zijn nog onzeker. DNB wijst op scholing, betaalbare toegang en extra aandacht voor achterblijvende kleinere bedrijven.",
+          "source_name": "Reformatorisch Dagblad, via Headliner",
+          "source_url": "https://financieel.headliner.nl/item/economische-impact-ai-in-nederland-ligt-nog-niet-vast-zegt-dnb-refdb-120009"
+        },
+        {
+          "section": "werk",
+          "headline": "Amerikaanse werkgevers noemden AI bij ruim 120.000 aangekondigde ontslagen",
+          "takeaway": "Het aandeel daalde van veertig procent in mei naar negen procent in september. Het gaat om opgegeven redenen, niet om bewezen oorzaken: eerst taken en scholing bekijken, dan pas banen.",
+          "source_name": "Challenger, Gray & Christmas, via 1023 Jack",
+          "source_url": "https://1023jack.com/news/is-ai-really-behind-the-layoffs-employers-cited-it-for-120-136-us-job-cuts-this/"
+        },
+        {
+          "section": "kansen",
+          "headline": "Veiligheidscheck van AI-extensies in ontwikkeltools",
+          "takeaway": "IT-dienstverleners inventariseren bij softwarebedrijven en scholen welke AI-extensies draaien en stellen een lijst van goedgekeurde bronnen op.",
+          "source_name": "",
+          "source_url": ""
+        },
+        {
+          "section": "kansen",
+          "headline": "Betaalbare AI-takenscan met training voor het mkb",
+          "takeaway": "Trainers en adviseurs bekijken per functie welke taken AI versnelt en koppelen daar een korte training aan, voor kleinere bedrijven die volgens DNB achterblijven.",
+          "source_name": "",
+          "source_url": ""
+        },
+        {
+          "section": "kansen",
+          "headline": "Plan voor selectieve digitale onafhankelijkheid",
+          "takeaway": "Cloud- en privacyadviseurs helpen bepalen welke data en AI-toepassingen naar een Europese aanbieder gaan; Forrester noemt 2027 het jaar van selectieve digitale onafhankelijkheid.",
+          "source_name": "",
+          "source_url": ""
+        }
+      ],
+      "transcript": "Goedemorgen. Het is maandag 2 november. Dit is AI in een paar minuten. Vandaag: De Nederlandsche Bank over AI en werk, de Kamer die dinsdag stemt over AI op de basisschool, en een besmette AI-extensie die ontwikkelaars raakte.\n\nDe Tweede Kamer stemt dinsdag over een motie van Volt en het CDA. Die vraagt het kabinet om generatieve AI op de basisschool te verbieden. Een brede Kamermeerderheid steunt het plan, maar uit het onderwijs komt kritiek, meldt het AD. Een leraar vergelijkt AI met de rekenmachine: in groep drie niet, in groep zeven wel. Onderwijskundige Barend Last noemt het voorstel kortzichtig. De motie maakt volgens hem geen onderscheid tussen algemene chatbots en AI die speciaal voor het onderwijs is gemaakt. Hij pleit voor het trainen van leraren. Voor schoolbesturen betekent dit: houd plannen voor AI-pilots in groep zeven en acht nog even achter de hand tot na de stemming.\n\nDan de afhankelijkheid van Amerikaanse techbedrijven. Onderzoeksbureau Forrester verwacht dat in 2027 meer dan de helft van de Europese bedrijven die AI gebruiken hun afhankelijkheid van Amerikaanse cloudaanbieders verkleint, meldt Computable. Dat gebeurt selectief: alleen kritieke data en toepassingen gaan naar Europese aanbieders. Een volledige overstap verwacht Forrester niet, omdat er nog te weinig volwaardige Europese alternatieven zijn. Een zorginstelling kan bijvoorbeeld patiëntdossiers en de AI-toepassingen daarop in een Europese cloud plaatsen, en kantoorsoftware bij de bestaande aanbieder houden.\n\nDan het nieuws uit het buitenland.\n\nIn de winkel voor uitbreidingen van de programmeeromgeving Cursor stond vorige week een besmette versie van de Claude Code-extensie. Dat meldt onder meer The Hacker News. De versie plaatste een achterdeur op de computer van ontwikkelaars en verzamelde namen van wachtwoorden en sleutels. Volgens Cursor liepen maximaal vijfduizend gebruikers risico. Anthropic bracht een schone versie uit. De officiële kanalen van Microsoft en Anthropic zelf waren niet getroffen. Voor Nederlandse IT-afdelingen en hogescholen met programmeeropleidingen wordt de keuze scherper. Ontwikkelaars vrij laten installeren wat ze willen, en snel blijven. Of alleen goedgekeurde extensies uit officiële bronnen toestaan, en extra beheerwerk accepteren.\n\nOpenAI scherpt de veiligheid van ChatGPT aan. Gesprekken waarin iemand zich lijkt te fixeren op geweld kunnen automatisch worden beëindigd, en accounts kunnen tijdelijk worden geblokkeerd. Gebruikers die volgens OpenAI jonger zijn dan achttien krijgen minder praktische informatie over wapens. In het derde kwartaal deed OpenAI ruim tweehonderd meldingen bij opsporingsdiensten over mogelijke dreigingen. Voor scholen en jongerenorganisaties ontstaat een dilemma. Leerlingen ChatGPT laten gebruiken, met deze extra bescherming maar ook met een Amerikaanse partij die gesprekken beoordeelt en soms doorgeeft. Of kiezen voor een eigen, afgeschermde AI-omgeving, met meer controle over de gegevens maar ook meer kosten en eigen verantwoordelijkheid voor de veiligheid.\n\nDan werk en de arbeidsmarkt.\n\nDe Nederlandsche Bank verwacht dat AI het werk van veel Nederlanders verandert. Een kwart van de werkenden zit in een beroep waarin AI minstens de helft van de taken sneller kan maken. Dat staat in een nieuw rapport, meldt het Reformatorisch Dagblad. Wat dat betekent voor banen en inflatie, is volgens DNB nog onzeker. AI kan de productiviteit verhogen. Maar dan zijn scholing en betaalbare toegang nodig, en extra aandacht voor kleinere bedrijven die achterblijven.\n\nIn de Verenigde Staten noemden werkgevers AI dit jaar als reden voor ruim honderdtwintigduizend aangekondigde ontslagen. Dat blijkt uit cijfers van outplacementbureau Challenger. In mei ging het om veertig procent van alle ontslagen, in september nog om negen procent. Het gaat om opgegeven redenen, niet om bewezen oorzaken.\n\nDe les voor werkgevers: kijk eerst welke taken sneller gaan, en investeer in scholing, voordat u over banen beslist.\n\nTot slot: de kansen.\n\nVoor IT-dienstverleners ligt er een kans in een korte veiligheidscheck van ontwikkeltools bij softwarebedrijven en scholen. Inventariseer welke AI-extensies er draaien, waar ze vandaan komen, en stel een lijst van goedgekeurde bronnen op. Het incident bij Cursor maakt de noodzaak nu concreet.\n\nVoor trainers en adviseurs in het mkb ligt er een kans in een betaalbare takenscan. Bekijk per functie welke taken AI sneller kan maken, en koppel daar een korte training aan. DNB noemt juist kleinere bedrijven als groep die achterblijft.\n\nVoor cloud- en privacyadviseurs ligt er een kans in een plan voor selectieve onafhankelijkheid. Help organisaties bepalen welke data en AI-toepassingen naar een Europese aanbieder moeten, en welke kunnen blijven. Forrester noemt 2027 het jaar van selectieve digitale onafhankelijkheid.\n\nDat was AI in een paar minuten, met het nieuws sinds vrijdag. De bronnen vindt u bij de aflevering. Morgen om acht uur weer."
+    },
     {
       "id": "2026-11-01",
       "date": "2026-11-01",
