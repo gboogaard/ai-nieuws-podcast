@@ -1,6 +1,95 @@
 {
-  "updated": "2026-11-02T06:41:37+00:00",
+  "updated": "2026-11-03T06:36:00+00:00",
   "episodes": [
+    {
+      "id": "2026-11-03",
+      "date": "2026-11-03",
+      "title": "Engelse gemeenten laten AI bouwaanvragen voorbereiden",
+      "summary": "Alibaba opent een cloudregio in Amsterdam, Amerikaanse kranten slepen Brave voor de rechter en vijftien Engelse gemeenten testen AI voor vergunningen. Plus: werkgevers nemen door AI minder starters aan.",
+      "duration": 282,
+      "audio": null,
+      "chapters": [
+        {
+          "key": "nl",
+          "title": "Nederland",
+          "start": 0
+        },
+        {
+          "key": "wereld",
+          "title": "Wereldwijd",
+          "start": 86
+        },
+        {
+          "key": "werk",
+          "title": "Werk",
+          "start": 174
+        },
+        {
+          "key": "kansen",
+          "title": "Kansen",
+          "start": 230
+        }
+      ],
+      "items": [
+        {
+          "section": "nl",
+          "headline": "Alibaba Cloud opent eerste Nederlandse cloudregio in Amsterdam",
+          "takeaway": "Opslag en rekenkracht in Nederland, maar Alibaba's AI-modellen draaien in Europa volgens de documentatie in Frankfurt. Bedrijven moeten per dienst nagaan waar data wordt verwerkt.",
+          "source_name": "AI Wereld",
+          "source_url": "https://aiwereld.nl/nieuws/alibaba-brengt-zijn-cloud-naar-amsterdam-met-twee-datacenters"
+        },
+        {
+          "section": "nl",
+          "headline": "Chipaandelen onrustig, ING verlaagt koersdoel Besi",
+          "takeaway": "ASML, ASM International en Besi daalden vrijdag fors en maandag licht. ING verwacht dat hybrid bonding voor AI-geheugen later doorbreekt; toeleveranciers doen er goed aan voorzichtig te plannen.",
+          "source_name": "AI Wereld",
+          "source_url": "https://aiwereld.nl/nieuws/ai-aandelen-blijven-onrustig-asml-en-besi-sluiten-opnieuw-lager"
+        },
+        {
+          "section": "wereld",
+          "headline": "New York Times en drie kranten slepen Brave voor de rechter om AI-scraping",
+          "takeaway": "Brave zou een index van dertig miljard pagina's aan AI-bedrijven verkopen. Dilemma voor Nederlandse uitgevers en kennisinstellingen: AI-crawlers weren en zichtbaarheid verliezen, of licenties afsluiten en controle deels opgeven.",
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+        },
+        {
+          "section": "wereld",
+          "headline": "AI-hulpmiddel PlanAssist naar vijftien Engelse gemeenten",
+          "takeaway": "Conceptrapporten voor bouwaanvragen, tot achtenvijftig procent tijdwinst op kerntaken volgens makers. Dilemma voor Nederlandse gemeenten: nu instappen bij een Amerikaanse aanbieder, of wachten op een Europees alternatief met langere achterstanden.",
+          "source_name": "Resultsense",
+          "source_url": "https://www.resultsense.com/news/2026-11-02-planassist-ai-planning-15-councils/"
+        },
+        {
+          "section": "werk",
+          "headline": "Kwart van door AI beïnvloede werkgevers neemt minder starters aan",
+          "takeaway": "Northeastern-enquête onder 8.174 beslissers: 26 procent neemt minder starters aan, 54 procent screent cv's met AI. Werkgevers die geen starters opleiden, missen straks ervaren mensen.",
+          "source_name": "Northeastern University",
+          "source_url": "https://news.northeastern.edu/2026/11/02/ai-hiring-entry-level-jobs/"
+        },
+        {
+          "section": "werk",
+          "headline": "Goldman Sachs: door AI ontslagen werknemers zoeken langer naar werk",
+          "takeaway": "Ongeveer een maand langer zoeken en tien procentpunt meer kans op werkloosheid na een jaar, vooral bij vijfendertigplussers. Omscholing verdient een plek in ontslagbeleid.",
+          "source_name": "Fortune via Yahoo Finance",
+          "source_url": "https://finance.yahoo.com/technology/ai/articles/goldman-says-ai-layoffs-starting-130936875.html"
+        },
+        {
+          "section": "kansen",
+          "headline": "Proef met AI-ondersteunde vergunningsrapporten voor gemeenten",
+          "takeaway": "Adviesbureaus kunnen klein beginnen bij eenvoudige aanvragen en de tijdwinst per dossier meten.",
+          "source_name": "",
+          "source_url": ""
+        },
+        {
+          "section": "kansen",
+          "headline": "Crawler-audit voor uitgevers en kennisinstellingen",
+          "takeaway": "In kaart brengen welke AI-bedrijven content ophalen, wat robots.txt tegenhoudt en welke licentievorm past.",
+          "source_name": "",
+          "source_url": ""
+        }
+      ],
+      "transcript": "Goedemorgen. Het is dinsdag 3 november. Dit is AI in een paar minuten. Vandaag: Alibaba opent een cloudregio in Amsterdam, Engelse gemeenten laten AI bouwaanvragen voorbereiden, en werkgevers nemen door AI minder starters aan.\n\nAlibaba Cloud heeft zijn eerste Nederlandse cloudregio geopend, meldt AI Wereld. Het Chinese bedrijf huurt ruimte in twee bestaande datacenters in Amsterdam. Klanten kunnen er rekenkracht, opslag en databases afnemen. Volgens Alibaba blijven hun gegevens dan in Nederland. Maar let op: voor de AI-modellen van Alibaba, waaronder Qwen, noemt de documentatie alleen Frankfurt als Europese regio. Een Nederlandse opslagplek betekent dus niet dat alle AI-berekeningen hier plaatsvinden. Een logistiek bedrijf dat Chinese modellen wil gebruiken, moet daarom per dienst nagaan waar de data echt wordt verwerkt.\n\nDan de beurs. De Nederlandse chipaandelen blijven onrustig. Vrijdag verloor ASML ruim zes procent en ASM International ruim zevenenhalf procent. Maandag sloten ze opnieuw licht lager. ING verlaagde het koersdoel van Besi van driehonderdtien naar tweehonderdveertig euro. De bank verwacht dat een nieuwe verbindingstechniek voor AI-geheugenchips later doorbreekt dan gedacht. Voor toeleveranciers in de chipsector is dat een signaal om orderprognoses voorzichtig te plannen.\n\nVandaag stemt de Tweede Kamer over de motie om generatieve AI voor leerlingen in het basisonderwijs te verbieden. Het kabinet ontraadt die motie.\n\nDan het nieuws uit het buitenland. De New York Times stapt naar de rechter tegen Brave, het bedrijf achter de gelijknamige browser en zoekmachine. Drie andere Amerikaanse kranten, waaronder de Chicago Tribune, deden hetzelfde, meldt TechCrunch. Volgens de kranten bouwde Brave met een onbekende crawler een index van meer dan dertig miljard webpagina's. Uitgevers konden die crawler niet blokkeren. Brave zou de index verkopen aan AI-bedrijven als Anthropic, Perplexity en Mistral. Brave reageerde nog niet. Voor Nederlandse uitgevers en kennisinstellingen wordt de keuze scherper: AI-crawlers zoveel mogelijk weren en zichtbaarheid in AI-antwoorden verliezen, of licenties afsluiten en inkomsten halen, maar de controle over hun content deels opgeven.\n\nIn Engeland gaat het AI-hulpmiddel PlanAssist van drie naar vijftien gemeenten. Het is gebouwd door Google DeepMind, Google Cloud en Faculty. Het systeem controleert ingediende tekeningen, toetst ze aan beleid en schrijft een conceptrapport met bronnen. De ambtenaar blijft verantwoordelijk voor elk besluit. In vroege tests daalde de tijd voor kerntaken met tot achtenvijftig procent, zeggen de makers en het ministerie. Een onafhankelijke evaluatie is er nog niet. De proef op echte aanvragen duurt twaalf maanden. Voor Nederlandse gemeenten en omgevingsdiensten ligt er een dilemma: nu instappen bij een Amerikaanse aanbieder en vergunningen sneller afhandelen, of wachten op een Europese oplossing en de achterstanden voorlopig houden.\n\nDan werk en de arbeidsmarkt. AI raakt vooral de onderste sport van de ladder. Dat blijkt uit een enquête van de Amerikaanse Northeastern University onder ruim achtduizend mensen die over aannames beslissen. Ongeveer de helft zegt dat AI hun keuzes beïnvloedt. Van die groep neemt zesentwintig procent minder starters aan, zeven procent meer. Ruim de helft gebruikt AI om cv's te screenen. In de techsector is dat drieëntachtig procent.\n\nOok na ontslag weegt AI zwaar. Goldman Sachs becijferde dat Amerikanen die sinds vorig jaar hun baan verloren in AI-gevoelige functies, ongeveer een maand langer zoeken naar nieuw werk. Een jaar later is hun kans op werkloosheid zo'n tien procentpunt hoger. Bij vijfendertigplussers is de vertraging het grootst.\n\nVoor werkgevers betekent dit: wie geen starters meer opleidt, heeft straks geen ervaren mensen. Voor het mbo en hbo betekent het dat stages en eerste banen meer moeten draaien om werken met AI.\n\nTot slot: de kansen.\n\nVoor adviesbureaus in de ruimtelijke ordening ligt er een kans in een proef met AI-ondersteunde vergunningsrapporten. Begin klein, bij eenvoudige aanvragen zoals een dakkapel of aanbouw. Meet hoeveel tijd een ambtenaar per dossier bespaart. Bied gemeenten een proef van drie maanden aan, met vaste meetpunten. De Engelse proef laat zien dat overheden hier nu actief naar kijken.\n\nVoor uitgevers, kennisinstellingen en brancheorganisaties is er vraag naar een crawler-audit. Breng in kaart welke AI-bedrijven de content ophalen, wat robots.txt wel en niet tegenhoudt, en welke licentievorm past. Lever een kort advies met een keuze per type content. De rechtszaken tegen Brave maken dat onderwerp nu urgent in directiekamers.\n\nDat was AI in een paar minuten. Dank u voor het luisteren. Morgen om acht uur weer, met extra aandacht voor onderwijs en AI."
+    },
     {
       "id": "2026-11-02",
       "date": "2026-11-02",
