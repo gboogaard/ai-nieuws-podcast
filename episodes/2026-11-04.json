@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-04",
+  "title": "UWV: meer hogeropgeleiden in de WW, AI speelt steeds vaker mee",
+  "summary": "Het UWV ziet AI als oorzaak van meer hoogopgeleide werklozen, een EU-adviseur zet Google onder druk over nieuwssamenvattingen en Revolut stapt over op een eigen open model. Plus onderwijs en AI, en jouw kansen.",
+  "intro": "Goedemorgen. Het is woensdag 4 november. Dit is AI in een paar minuten. Vandaag: het UWV ziet meer hogeropgeleiden in de WW en wijst op AI. Een Europees advies zet Google onder druk over nieuwssamenvattingen. En Revolut verlaagt zijn AI-kosten met een eigen open model.",
+  "sections": [
+    {
+      "key": "nl",
+      "title": "Nederland",
+      "script": "Een adviseur van het Europese Hof van Justitie zet Google onder druk over AI-samenvattingen van nieuws. Advocaat-generaal Maciej Szpunar adviseert in een zaak van een Hongaarse uitgever tegen Google. Taalmodellen trainen op artikelen mag volgens hem. Maar als een chatbot een artikel ophaalt en in zijn antwoord verwerkt, kan dat de rechten van de uitgever schenden. Feiten mag Gemini gebruiken, de formulering niet. Een betaalmuur omzeilen mag niet, meldt de NOS. Het advies is niet bindend, maar rechters volgen het meestal. De uitspraak volgt in de komende maanden. Voor een organisatie met een eigen chatbot op nieuws of vakbladen is dit het moment om te controleren of die bot letterlijke passages teruggeeft.\n\nDan de financiële sector. Onderzoeksbureau RepTor testte zes chatbots op vierenzeventig fondsen van de Amsterdamse beurs, meldt Computable. Op vraag gaven de chatbots in bijna een kwart van de gevallen beleggingsadvies. Dat advies was in achtentachtig procent van de gevallen positief. Banken hebben daarvoor een vergunning van de AFM nodig, chatbots niet. Volgens de onderzoekers zijn de veiligheidsregels van de modellen onvoldoende afgestemd op lokale wetgeving. Een vermogensbeheerder die klanten een AI-assistent aanbiedt, doet er goed aan die op precies deze vragen te testen."
+    },
+    {
+      "key": "wereld",
+      "title": "Wereldwijd",
+      "script": "Dan het nieuws uit het buitenland.\n\nHet Britse fintechbedrijf Revolut zegt de kosten van AI bij het programmeren met ongeveer negentig procent te hebben verlaagd. Het verving de betaalde diensten van Anthropic en OpenAI voor zo'n tweeduizend ontwikkelaars door een open model van een Chinese ontwikkelaar. Dat model draait het bedrijf zelf, op zesenvijftig chips van Nvidia. Volgens Revolut werken de ontwikkelaars daardoor ook sneller. De cijfers komen van het bedrijf zelf, en kosten voor personeel en beheer zitten niet in de berekening. Voor Nederlandse banken, verzekeraars en softwarebedrijven wordt de keuze scherper: blijven betalen per gebruik bij een Amerikaanse aanbieder, met weinig beheerlast, of investeren in eigen rekenkracht en specialisten, voor lagere kosten en meer controle, met een model van Chinese herkomst.\n\nDan beveiliging. CrowdStrike koopt de AI-beveiligers Fiddler en Dreadnode, voor naar verluidt vierhonderdvijfennegentig miljoen dollar, meldt SiliconANGLE. Fiddler test AI-agents op risico's, Dreadnode voert gesimuleerde aanvallen op agents uit. CrowdStrike introduceert ook een noodknop waarmee een beheerder een ontsporende agent direct stopt en van het netwerk haalt. Voor Nederlandse organisaties die agents invoeren, ligt de keuze nu op tafel: wachten tot zulke controlemiddelen standaard zijn en later starten, of nu beginnen met een beperkte inzet, strak menselijk toezicht en eigen logboeken. Dat laatste kost meer handwerk, maar levert ervaring op."
+    },
+    {
+      "key": "werk",
+      "title": "Werk",
+      "script": "Dan werk en de arbeidsmarkt.\n\nHet UWV ziet steeds meer hogeropgeleiden in de WW, meldt het ANP. Hun aandeel steeg van dertig procent in tweeduizend tweeëntwintig naar achtendertig procent dit jaar. Een deel komt doordat er meer hogeropgeleiden zijn. Maar het UWV ziet AI steeds vaker als oorzaak, zegt bestuurder Judith Duveen. Vooral het aantal programmeurs en softwareontwikkelaars met een uitkering stijgt sterk. Dat geldt ook voor marketeers en marktonderzoekers. Bij die groep hangt het volgens het UWV waarschijnlijk samen met taken die AI overneemt.\n\nDe financiële dienstverlening verliest de komende jaren naar verwachting de meeste banen. Ook accountants, junior juristen, vertalers, tekstschrijvers en klantenservicemedewerkers staan onder druk. Tegelijk groeit de vraag naar AI-adviseurs en specialisten in data en beveiliging. Het UWV verwacht dat werk vinden voor hogeropgeleiden moeilijker wordt.\n\nVoor werkenden in deze beroepen is de boodschap: kijk nu welke taken AI van u overneemt, en welke kennis u daarvoor in de plaats wilt opbouwen. Voor werkgevers ligt er een keuze: medewerkers nu omscholen naar data- en beveiligingswerk, waar tekorten zijn, of later afscheid nemen en schaarse specialisten van buiten werven."
+    },
+    {
+      "key": "onderwijs",
+      "title": "Onderwijs",
+      "script": "Dan onderwijs en AI.\n\nGoogle verandert de regels voor AI op school. AI-functies staan voor leerlingaccounts in het basis- en voortgezet onderwijs straks standaard uit, tot de schoolbeheerder ze aanzet, meldt Engadget. Maar wie AI uitzet, sluit leerlingen ook af van Google Search. Volgens Google zijn zoeken en AI diep met elkaar verweven. Die test met Search geldt voorlopig alleen voor Amerikaanse scholen. Tegelijk is Guided Learning sinds dinsdag wereldwijd beschikbaar in Classroom. Dat is een AI-tutor die stap voor stap uitlegt, en docenten kunnen de gesprekken van leerlingen teruglezen. Dit raakt de veranderende rol van de docent: van kennisoverdrager naar begeleider die meeleest en bijstuurt. Voor schoolbesturen wordt de vraag hoe vrij ze nog kiezen als een leverancier functies aan elkaar koppelt.\n\nDan het eigen alternatief. SURF AI, met de chatomgeving eduGenAI, wordt vanaf januari beschikbaar voor het mbo, hbo en wo, meldt SURF. De pilot loopt tot eind december. Er komen twee versies: één met alleen open modellen in een Nederlands datacenter, en één met commerciële modellen tegen extra betaling. Elke instelling bepaalt zelf wie toegang krijgt. Dat raakt kansengelijkheid: als alleen instellingen met budget de sterkere modellen kopen, ontstaan verschillen tussen studenten. Voor docenten en begeleiders betekent het een omgeving waarin de gegevens binnen SURF blijven, zolang de open modellen worden gebruikt.\n\nHet UWV-bericht laat ook zien waarom leven lang ontwikkelen urgenter wordt. Mbo- en hbo-instellingen kunnen korte, flexibele trajecten aanbieden voor marketeers en ontwikkelaars die hun werk zien veranderen."
+    },
+    {
+      "key": "kansen",
+      "title": "Kansen",
+      "script": "Tot slot: de kansen.\n\nEén. Voor softwarebureaus en IT-adviseurs ligt er een kans in een kostenvergelijking voor AI bij het programmeren. Zet voor een klant de huidige rekening per gebruik af tegen een eigen open model, inclusief beheer en personeel. Het voorbeeld van Revolut maakt directies nieuwsgierig, maar de rekensom verschilt per organisatie.\n\nTwee. Voor compliance-adviseurs in de financiële sector: een testset met Nederlandse vragen over beleggen, krediet en verzekeren. Daarmee keurt u AI-assistenten van klanten voordat ze live gaan. Het onderzoek van RepTor laat zien dat standaardmodellen hier tekortschieten.\n\nDrie. Voor uitgevers en kennisinstellingen met een eigen chatbot: een korte controle of de bot letterlijke tekst uit artikelen herhaalt, nu het Europese Hof binnenkort uitspraak doet."
+    },
+    {
+      "key": "persoonlijk",
+      "title": "Kansen",
+      "script": "Tot slot, speciaal voor jou: jouw kansen deze week.\n\nEerst als ondernemer. Het nieuws: het UWV ziet meer hoogopgeleide marketeers en marktonderzoekers in de WW, waarschijnlijk doordat AI taken overneemt. Jouw achtergrond in zakelijke sales en marketing past daar precies bij. Wat je deze week doet: schrijf een workshop van een halve dag voor marketingteams in het mkb, over de stap van uitvoerder naar regisseur van AI. Drie onderdelen: welke taken AI al overneemt, welke nieuwe taken de marketeer krijgt, en een oefening met de eigen campagnes van de deelnemers. Stuur het voorstel naar vijf bedrijven uit je netwerk. De ROI: zo'n acht uur werk, geen kosten. Eén verkochte workshop levert direct omzet op, en het programma is herbruikbaar. De impact: je staat bekend als degene die marketeers helpt, in plaats van vervangt. Als je dit deze week niet oppakt, mis je deze kans omdat het UWV-rapport nu vers is en je met een eerste aanbod voorloopt op anderen die nog afwachten.\n\nDan je werk als I-coach. Het nieuws: de pilot van eduGenAI loopt eind december af, en vanaf januari komt SURF AI beschikbaar voor het mbo. Elke instelling bepaalt zelf wie toegang krijgt, en of ze alleen open modellen gebruikt of ook betaalde commerciële modellen. Wat je deze week doet: maak een notitie van één pagina met drie toepassingen voor studentbegeleiding, zoals gesprekken voorbereiden of teksten vereenvoudigen. Geef per toepassing aan of de open versie volstaat, en wat dat betekent voor privacy. Leg die notitie voor aan wie over de invoering beslist. De ROI: zo'n drie uur werk, geen kosten. Begeleiders kunnen straks tijd besparen bij voorbereiding en verslaglegging, met een tool die binnen de AVG past. De impact: studentbegeleiding staat vanaf dag één op de kaart. Als je dit deze week niet oppakt, mis je deze kans omdat de keuzes over inzet en toegang worden gemaakt voordat de pilot eind december afloopt."
+    }
+  ],
+  "outro": "Dat was AI in een paar minuten, de woensdag-editie. Dank u voor het luisteren. Morgen om acht uur weer, met het belangrijkste AI-nieuws van de dag.",
+  "items": [
+    {
+      "section": "nl",
+      "headline": "Adviseur EU-Hof: Gemini mag nieuwsartikelen niet nabootsen of betaalmuren omzeilen",
+      "takeaway": "Training mag, maar chatbotantwoorden die artikelen herhalen kunnen de rechten van uitgevers schenden. Organisaties met een eigen nieuwschatbot controleren nu of die letterlijke passages teruggeeft.",
+      "source_name": "NOS",
+      "source_url": "https://nos.nl/artikel/2637908-verdienmodel-nieuwsmedia-onder-druk-door-ai-resultaten-zoekmachines-en-chatbots"
+    },
+    {
+      "section": "nl",
+      "headline": "Chatbots geven ongevraagd beleggingsadvies zonder AFM-vergunning",
+      "takeaway": "Zes chatbots gaven in bijna een kwart van de gevallen advies over Nederlandse fondsen, meestal positief. Vermogensbeheerders testen hun AI-assistent op deze vragen.",
+      "source_name": "Computable",
+      "source_url": "https://www.computable.nl/2026/11/03/kort-ai-chatbots-negeren-afm-recordcijfers-apple-nieuwe-hso-ceo-en-meer/"
+    },
+    {
+      "section": "wereld",
+      "headline": "Revolut verlaagt AI-kosten voor programmeren met negentig procent via eigen open model",
+      "takeaway": "Dilemma: blijven betalen per gebruik bij een Amerikaanse aanbieder met weinig beheer, of investeren in eigen rekenkracht en specialisten voor lagere kosten en meer controle, met een model van Chinese herkomst.",
+      "source_name": "StartupHub.ai",
+      "source_url": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/revolut-says-self-hosted-ai-cut-coding-costs-90"
+    },
+    {
+      "section": "wereld",
+      "headline": "CrowdStrike koopt Fiddler en Dreadnode en lanceert noodknop voor AI-agents",
+      "takeaway": "Dilemma: wachten tot controlemiddelen voor agents standaard zijn, of nu beperkt starten met strak menselijk toezicht en eigen logboeken, wat meer handwerk kost maar ervaring oplevert.",
+      "source_name": "SiliconANGLE",
+      "source_url": "https://siliconangle.com/2026/11/03/crowdstrike-to-acquire-cybersecurity-startups-fiddler-ai-dreadnode-for-reported-495m/"
+    },
+    {
+      "section": "werk",
+      "headline": "UWV: aandeel hogeropgeleiden in de WW stijgt naar achtendertig procent, AI speelt mee",
+      "takeaway": "Meer programmeurs, marketeers en marktonderzoekers in de WW; vraag naar AI-, data- en beveiligingsspecialisten groeit. Werkgevers kiezen tussen nu omscholen of later schaarse specialisten werven.",
+      "source_name": "Nieuws.nl / ANP",
+      "source_url": "https://nieuws.nl/economie/uwv-ziet-grotere-groep-hogeropgeleiden-in-de-ww"
+    },
+    {
+      "section": "onderwijs",
+      "headline": "Google: scholen kunnen AI uitzetten, maar verliezen dan Search",
+      "takeaway": "AI staat voor leerlingaccounts standaard uit; Guided Learning is wereldwijd in Classroom. De docent verschuift naar begeleider die meeleest, en besturen verliezen keuzevrijheid bij gekoppelde functies.",
+      "source_name": "Engadget",
+      "source_url": "https://www.engadget.com/2305432/google-says-that-students-in-schools-that-ban-ai-wont-have-access-to-search/"
+    },
+    {
+      "section": "onderwijs",
+      "headline": "SURF AI met eduGenAI vanaf januari voor mbo, hbo en wo",
+      "takeaway": "Pilot loopt tot eind december; een versie met open modellen en een betaalde met commerciële modellen. Instellingen kiezen zelf, wat vragen oproept over kansengelijkheid.",
+      "source_name": "SURF",
+      "source_url": "https://www.surf.nl/en/article/frequently-asked-questions-about-surf-ai"
+    },
+    {
+      "section": "kansen",
+      "headline": "Kostenvergelijking API versus eigen open model",
+      "takeaway": "Voor softwarebureaus en IT-adviseurs: reken voor klanten de AI-rekening per gebruik door tegen een eigen open model, inclusief beheer en personeel.",
+      "source_name": "",
+      "source_url": ""
+    },
+    {
+      "section": "kansen",
+      "headline": "Testset Nederlandse financiële regels voor AI-assistenten",
+      "takeaway": "Voor compliance-adviseurs: keur AI-assistenten van financiële klanten op vragen over beleggen, krediet en verzekeren voordat ze live gaan.",
+      "source_name": "",
+      "source_url": ""
+    },
+    {
+      "section": "kansen",
+      "headline": "Controle op letterlijke herhaling door eigen chatbots",
+      "takeaway": "Voor uitgevers en kennisinstellingen: check of de eigen bot tekst uit artikelen herhaalt, vooruitlopend op de uitspraak van het Europese Hof.",
+      "source_name": "",
+      "source_url": ""
+    },
+    {
+      "section": "persoonlijk",
+      "headline": "Workshop voor mkb-marketeers: van uitvoerder naar regisseur van AI",
+      "takeaway": "Ongeveer acht uur werk zonder kosten; één verkochte workshop levert direct omzet op en het programma is herbruikbaar. Het UWV-rapport is nu vers.",
+      "source_name": "Nieuws.nl / ANP",
+      "source_url": "https://nieuws.nl/economie/uwv-ziet-grotere-groep-hogeropgeleiden-in-de-ww"
+    },
+    {
+      "section": "persoonlijk",
+      "headline": "Notitie: drie toepassingen voor studentbegeleiding in eduGenAI",
+      "takeaway": "Ongeveer drie uur werk; zet begeleiding op de kaart voordat de keuzes over inzet en toegang vallen, vóór het einde van de pilot eind december.",
+      "source_name": "SURF",
+      "source_url": "https://www.surf.nl/en/article/frequently-asked-questions-about-surf-ai"
+    }
+  ]
+}
