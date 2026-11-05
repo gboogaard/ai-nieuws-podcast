@@ -1,6 +1,95 @@
 {
-  "updated": "2026-11-04T06:37:06+00:00",
+  "updated": "2026-11-05T06:30:38+00:00",
   "episodes": [
+    {
+      "id": "2026-11-05",
+      "date": "2026-11-05",
+      "title": "Kamer neemt motie aan voor verbod op generatieve AI op basisschool",
+      "summary": "De Kamer wil generatieve AI weren voor basisschoolleerlingen, Europa investeert in chipontwerp, Apple waarschuwt voor AI-agents en starters worden agent-managers.",
+      "duration": 285,
+      "audio": null,
+      "chapters": [
+        {
+          "key": "nl",
+          "title": "Nederland",
+          "start": 0
+        },
+        {
+          "key": "wereld",
+          "title": "Wereldwijd",
+          "start": 95
+        },
+        {
+          "key": "werk",
+          "title": "Werk",
+          "start": 174
+        },
+        {
+          "key": "kansen",
+          "title": "Kansen",
+          "start": 232
+        }
+      ],
+      "items": [
+        {
+          "section": "nl",
+          "headline": "Kamer neemt motie aan voor verbod op generatieve AI voor basisschoolleerlingen",
+          "takeaway": "Het kabinet moet het verbod uitwerken in het Regieplan Digitalisering; ingangsdatum en handhaving ontbreken nog. Een basisschoolbestuur kan aanschaf van AI-tools voor leerlingen uitstellen en intussen investeren in AI-kennis van leraren.",
+          "source_name": "AI Wereld",
+          "source_url": "https://aiwereld.nl/nieuws/kamer-steunt-ai-verbod-voor-leerlingen"
+        },
+        {
+          "section": "nl",
+          "headline": "EU lanceert chipontwerpplatform van 525 miljoen euro",
+          "takeaway": "Start-ups en mkb krijgen toegang tot ontwerpsoftware, ondersteuning, bouwstenen en productiecapaciteit. Een Eindhovense chipstart-up kan de kosten van een eerste ontwerp verlagen; voorwaarden volgen nog.",
+          "source_name": "Europese Commissie",
+          "source_url": "https://digital-strategy.ec.europa.eu/en/news/eu525-million-investment-set-drive-new-generation-european-chip-design-companies"
+        },
+        {
+          "section": "wereld",
+          "headline": "Apple waarschuwt in jaarverslag voor AI-agents die bevoegdheden overschrijden",
+          "takeaway": "Dilemma: agents zelfstandig laten handelen in mail, agenda en betalingen voor snelle tijdwinst, of beperken tot voorstellen met menselijke goedkeuring en snelheid inleveren voor controle.",
+          "source_name": "AppleMagazine",
+          "source_url": "https://applemagazine.com/apple-ai-agents-risk-warning/"
+        },
+        {
+          "section": "wereld",
+          "headline": "OpenAI: zoekvragen in ChatGPT zijn een vijfde van het Google-volume",
+          "takeaway": "Dilemma voor bedrijven en hogescholen die online werven: marketingbudget bij Google houden met meetbaar verkeer, of deels verschuiven naar zichtbaarheid in AI-antwoorden met nog onzeker meetbaar effect.",
+          "source_name": "ShiftDelete",
+          "source_url": "https://shiftdelete.net/en/chatgpt-search-volume"
+        },
+        {
+          "section": "werk",
+          "headline": "Britse starters worden agent-managers, maar leren ze het vak?",
+          "takeaway": "Volgens PwC groeiden zwaardere startersfuncties in de VS met 35 procent sinds 2019 en daalden andere met 10 procent. Werkgevers doen er goed aan starters ook vakinhoudelijk werk te geven; onderwijs moet AI-controle én vakkennis leren.",
+          "source_name": "BBC, via Resultsense",
+          "source_url": "https://www.resultsense.com/news/2026-11-04-graduates-ai-roles-trade-skills-bbc/"
+        },
+        {
+          "section": "kansen",
+          "headline": "AI-zichtbaarheidsscan voor mkb-bedrijven",
+          "takeaway": "Marketingbureaus controleren hoe een bedrijf in ChatGPT en andere AI-antwoorden verschijnt en wat ontbreekt.",
+          "source_name": "",
+          "source_url": ""
+        },
+        {
+          "section": "kansen",
+          "headline": "Agentbeleid voor het mkb",
+          "takeaway": "IT-dienstverleners leggen per agent vast wat hij mag, wat goedkeuring vraagt en hoe hij wordt gestopt.",
+          "source_name": "",
+          "source_url": ""
+        },
+        {
+          "section": "kansen",
+          "headline": "Kwalitatieve AI-bijscholing voor leraren basisonderwijs",
+          "takeaway": "Het verbod geldt niet voor leraren en de Kamer vraagt om betere kwaliteit van bijscholing; aanbieders met een transparant en aantoonbaar goed aanbod staan vooraan.",
+          "source_name": "",
+          "source_url": ""
+        }
+      ],
+      "transcript": "Goedemorgen. Het is donderdag 5 november. Dit is AI in een paar minuten. Vandaag: de Kamer wil generatieve AI weren voor basisschoolleerlingen, Apple waarschuwt voor ontsporende AI-agents, en starters die vooral AI aansturen.\n\nDe Tweede Kamer heeft dinsdag een motie aangenomen die generatieve AI voor leerlingen in het basisonderwijs wil verbieden. Dat meldt AI Wereld. Volt-Kamerlid Laurens Dassen diende de motie in met negen andere Kamerleden. Het kabinet moet het verbod uitwerken in het Regieplan Digitalisering. Het verbod geldt niet voor leraren. Staatssecretaris Tielen had de motie ontraden. Zij wilde meer tijd en verwees naar december. Een ingangsdatum, uitzonderingen en handhaving ontbreken nog. Een tweede motie werd ook aangenomen: het kabinet moet met de onderwijsraden praten over AI-bijscholing voor leraren. Aanleiding is dat scholen commerciële aanbieders inhuren van wisselende kwaliteit. Voor een basisschoolbestuur betekent dit: stel de aanschaf van AI-tools voor leerlingen uit tot het kabinet reageert, en investeer intussen in de kennis van leraren.\n\nDan Europa. De Europese Commissie lanceerde woensdag een platform voor chipontwerp. Er wordt vijfhonderdvijfentwintig miljoen euro mee vrijgemaakt. Start-ups en mkb-bedrijven krijgen toegang tot ontwerpsoftware, ondersteuning, bouwstenen en productiecapaciteit. Juist die middelen zijn voor jonge bedrijven het duurst. Europese chipontwerpers hebben nu minder dan één procent van de wereldwijde omzet. Voor een Eindhovense chipstart-up kan dit platform de kosten van een eerste ontwerp flink verlagen. Voorwaarden en termijnen zijn nog niet bekend.\n\nDan het nieuws uit het buitenland. Apple waarschuwt in zijn jaarverslag voor AI-agents. Die kunnen volgens het bedrijf handelingen verrichten waarvoor ze geen toestemming hebben, hun bevoegdheden overschrijden of onvoorspelbaar gedrag vertonen. Gevolgen zoals verwijderde gegevens of afgeronde transacties zijn soms niet terug te draaien. Ook zegt Apple dat het agents van derden maar beperkt kan controleren. Dat meldt AppleMagazine. Een concreet incident noemt Apple niet. Voor Nederlandse organisaties wordt de keuze scherper. Laat u agents nu zelfstandig handelen in mail, agenda en betalingen, en wint u snel tijd? Of beperkt u ze tot voorstellen die een medewerker goedkeurt, en levert u snelheid in voor controle?\n\nOpenAI zegt dat zoekachtige vragen in ChatGPT inmiddels ongeveer een vijfde van het zoekvolume van Google bedragen. Dat meldt ShiftDelete op basis van uitspraken van productleider Adam Fry. OpenAI publiceert de onderliggende cijfers niet. ChatGPT heeft één komma twee miljard gebruikers per week. De losse modi Chat en Work gaan samen in één omgeving. Voor Nederlandse bedrijven en hogescholen die werven via internet ontstaat een budgetkeuze. Blijft het marketinggeld vooral naar Google-advertenties en vindbaarheid gaan, met meetbaar verkeer? Of verschuift een deel naar zichtbaarheid in AI-antwoorden, waar het effect nog lastig te meten is?\n\nDan werk en de arbeidsmarkt. Britse werkgevers creëren banen voor afgestudeerden die vooral AI-agents aansturen. Dat meldt de BBC, samengevat door Resultsense. Bij een Londens pr-bureau beheert een vijfentwintigjarige zo'n dertig agents. Zij controleert hun werk en volgt hoe klanten in ChatGPT verschijnen. Een andere werkgever zette de instroom van afgestudeerden dit jaar stil. Er staat tegenover dat een financieel bedrijf starters juist twee jaar langs vier afdelingen laat rouleren om het vak te leren. PwC waarschuwt dat AI-vaardigheden zonder sectorkennis weinig opleveren. Amerikaanse cijfers van PwC laten zien dat zwaardere startersfuncties sinds tweeduizend negentien met vijfendertig procent groeiden. Andere startersbanen daalden met tien procent. Of die nieuwe rollen de verloren banen vervangen, is onbekend. Voor werkgevers is de les: geef starters naast AI-taken ook vakinhoudelijk werk. Voor het onderwijs: leer studenten AI-werk controleren, maar ook het vak zelf.\n\nTot slot: de kansen. Voor marketingbureaus ligt er een kans in een AI-zichtbaarheidsscan voor mkb-bedrijven. U controleert hoe een bedrijf in ChatGPT en andere AI-antwoorden verschijnt, en wat ontbreekt. Nu een groot deel van het zoekgedrag verschuift, willen ondernemers weten waar ze staan.\n\nVoor IT-dienstverleners ligt er een kans in een agentbeleid voor het mkb. Leg per agent vast wat hij mag, wat altijd goedkeuring vraagt, en hoe u hem stopt. De waarschuwing van Apple maakt dit gesprek met klanten makkelijker.\n\nVoor trainers en opleiders ligt er een kans in AI-bijscholing voor leraren in het basisonderwijs. Het verbod geldt voor leerlingen, niet voor leraren. De Kamer vraagt om betere kwaliteit. Wie nu een transparant en aantoonbaar goed aanbod heeft, staat vooraan.\n\nDat was AI in een paar minuten, vandaag over het onderwijs, agents en starters. Dank u wel voor het luisteren. Morgen om acht uur weer."
+    },
     {
       "id": "2026-11-04",
       "date": "2026-11-04",
