@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-06",
+  "title": "AI vindt honderden lekken in Linux, Pointer ontmaskert AI-nepkanalen",
+  "summary": "Misleidende AI-kanalen op YouTube, een directeur voor de AI-fabriek, een OpenAI-model dat 948 Linux-lekken vindt en Chinese chiphuur in Europa. Plus de ICT-arbeidsmarkt en het scenario van de week over marketing.",
+  "intro": "Goedemorgen. Het is vrijdag 6 november. Dit is AI in een paar minuten. Vandaag: Pointer ontmaskert misleidende AI-kanalen op YouTube, AI van OpenAI vindt honderden lekken in Linux, en de ICT-arbeidsmarkt geeft een tegenstrijdig beeld.",
+  "sections": [
+    {
+      "key": "nl",
+      "title": "Nederland",
+      "script": "Onderzoeksprogramma Pointer van KRO-NCRV vond minstens zesenvijftig misleidende Nederlandstalige YouTube-kanalen die AI gebruiken. Ze verspreiden complottheorieën, onbevestigd nieuws en twijfelachtig medisch advies, soms gebracht door door AI gemaakte nepdokters. Samen verdienden ze naar schatting tweehonderdnegentigduizend euro aan advertenties. Teksten en beelden komen grotendeels uit AI, waardoor ze veel publiceren met weinig controle. Na het onderzoek verwijderde YouTube elf kanalen en zette bij acht andere de advertentie-inkomsten uit. Voor een ziekenhuis of gemeente betekent dit: controleer regelmatig of uw naam of uw artsen in zulke video's opduiken, en heb een snelle reactie klaar.\n\nDan de Nederlandse AI-fabriek in Groningen. Die krijgt een directeur: oud-Volksbanktopman Martijn Gribnau begint op elf januari, meldt Computable. De AI-fabriek moet rekenkracht, data en expertise leveren aan het mkb, onderzoekers en overheden. De supercomputer wordt in tweeduizend zevenentwintig geplaatst en is begin tweeduizend achtentwintig volledig in gebruik. Europa, het Rijk en de regio investeren samen tweehonderd miljoen euro. Een mkb-bedrijf dat nu een AI-project plant, kan dus nog ruim een jaar niet rekenen op deze Nederlandse capaciteit."
+    },
+    {
+      "key": "wereld",
+      "title": "Wereldwijd",
+      "script": "Dan het nieuws uit het buitenland. OpenAI liet een nog niet uitgebracht beveiligingsmodel zelfstandig de Linux-kern doorzoeken. Dat leverde negenhonderdachtenveertig werkende aanvallen op lekken op, elk met een voorstel voor een reparatie. De rekenkosten bedroegen ruim één komma twee miljoen dollar, zo'n dertienhonderd dollar per lek. Mensen beoordelen elke vondst voordat die naar de beheerders gaat. Volgens AI Wereld komt het model, GPT-6 Cyber, eerst alleen beschikbaar voor goedgekeurde gebruikers. Voor Nederlandse organisaties met eigen software wordt de keuze scherper: zelf zulke AI inzetten om lekken te vinden en daarbij code delen met een Amerikaanse aanbieder, of dat niet doen en het risico lopen dat aanvallers met vergelijkbare middelen de lekken eerder vinden.\n\nHet Chinese AI-bedrijf Moonshot zocht toegang tot de nieuwste Nvidia-chips via Europese cloudaanbieders, meldt CNBC. Het gaat om clusters van achtduizend chips of meer. Aanbieders zouden Chinese klanten dertig tot vijftig procent extra vooraf vragen. Amerikaanse exportregels gelden voor het verschepen van chips, niet voor het huren van rekenkracht. Een Amerikaans wetsvoorstel om dat te veranderen, ligt nog bij de Senaat. Nvidia gaf geen commentaar. Voor Nederlandse datacenters en cloudbedrijven ligt er een dilemma: Chinese klanten bedienen tegen een hoge marge, of hen weigeren en zo het risico op Amerikaanse sancties en reputatieschade vermijden."
+    },
+    {
+      "key": "werk",
+      "title": "Werk",
+      "script": "Dan werk en de arbeidsmarkt. De ICT-arbeidsmarkt geeft een tegenstrijdig beeld. Het CBS telde in het derde kwartaal vijfhonderdvijfentachtigduizend werkenden in ICT-beroepen, vijfentwintigduizend meer dan een jaar eerder. Tegelijk ziet het UWV minder vacatures en meer mensen uit ICT-beroepen in de WW, meldt AI Wereld. Werkgevers vragen vooral meer vaardigheden, vakkennis en ervaring. Dat maakt het lastig voor starters.\n\nOntslaan voor AI pakt ook niet altijd goed uit. Bijna één op de vijf Amerikaanse werknemers die door AI hun baan verloren, werd later teruggevraagd. Dat blijkt uit een enquête van SHL. De helft wil dan flink meer salaris.\n\nVoor werkgevers is de les: schrap pas taken als AI ze aantoonbaar overneemt. Voor werkenden: investeer in vakkennis die AI moeilijk nadoet.\n\nTot slot het scenario van de week. Wat als AI-agents over drie jaar het meeste uitvoerende marketingwerk doen? Teksten, campagnes en rapportages komen dan grotendeels van agents. Wat blijft, is de keuze voor wie u iets maakt en waarom. Nieuw is het werk van de regisseur: agents aansturen, hun output controleren op fouten, en meten hoe uw merk in AI-antwoorden verschijnt. De vraag aan u: welk deel van uw marketingweek is uitvoerend werk, en wat doet u met die tijd? Een eerste stap: laat deze week één campagnetekst door AI maken, en noteer wat u moest corrigeren."
+    },
+    {
+      "key": "kansen",
+      "title": "Kansen",
+      "script": "Tot slot: de kansen. Voor IT-beheerders van het mkb ligt er een kans in een snelle patchdienst voor Linux-servers. Nu AI in korte tijd honderden lekken vindt, komen er meer updates tegelijk. Bied klanten een vast maandelijks patchmoment met een korte rapportage. Dat scheelt hen zoekwerk en geeft u terugkerende omzet.\n\nVoor redacteuren en factcheckers ligt er een kans in een bronnencontrole voor rapporten. Adviesbureau Accenture moet een rapport herzien na fouten in bronnen en cijfers, meldt Computable. Het bedrijf spreekt van menselijke fouten, maar een AI-detectiebedrijf ziet sporen van AI. Wie kennisinstellingen en adviesbureaus helpt elke bron en elk cijfer te controleren, levert iets wat nu ontbreekt."
+    }
+  ],
+  "outro": "Dat was AI in een paar minuten. Dank u wel voor het luisteren. Zondag het weekoverzicht, maandag om acht uur weer.",
+  "items": [
+    {
+      "section": "nl",
+      "headline": "Pointer vindt 56 misleidende Nederlandse AI-kanalen op YouTube",
+      "takeaway": "De kanalen verdienden samen naar schatting 290.000 euro; YouTube verwijderde er elf. Ziekenhuizen en gemeenten doen er goed aan te monitoren of hun naam in zulke video's opduikt.",
+      "source_name": "Spreekbuis.nl / Pointer (KRO-NCRV)",
+      "source_url": "https://spreekbuis.nl/pointer-ontdekt-56-misleidende-nederlandse-ai-kanalen-op-youtube"
+    },
+    {
+      "section": "nl",
+      "headline": "Martijn Gribnau wordt directeur Nederlandse AI-fabriek",
+      "takeaway": "Start op 11 januari 2027; de supercomputer is pas begin 2028 volledig in gebruik. Mkb-bedrijven met AI-plannen kunnen nog ruim een jaar niet op deze capaciteit rekenen.",
+      "source_name": "Computable",
+      "source_url": "https://www.computable.nl/2026/11/05/kort-nieuwe-verkeerssoftware-strandt-na-vijf-dagen-chinese-liefdesrobots-lonken-naar-europa-en-meer/"
+    },
+    {
+      "section": "wereld",
+      "headline": "OpenAI-model vindt 948 lekken in Linux voor 1,2 miljoen dollar",
+      "takeaway": "Dilemma: zelf zulke AI inzetten en code delen met een Amerikaanse aanbieder, of afzien en het risico lopen dat aanvallers de lekken eerder vinden.",
+      "source_name": "AI Weekly / AI Wereld",
+      "source_url": "https://aiweekly.co/alerts/openai-mints-948-linux-root-exploits-in-12m-pipeline-run"
+    },
+    {
+      "section": "wereld",
+      "headline": "Moonshot zocht Nvidia-chips via Europese cloudaanbieders",
+      "takeaway": "Dilemma voor Nederlandse datacenters en cloudbedrijven: Chinese klanten bedienen tegen 30 tot 50 procent premie, of weigeren om sanctie- en reputatierisico te vermijden.",
+      "source_name": "CNBC via Yahoo Finance",
+      "source_url": "https://sg.finance.yahoo.com/news/china-moonshot-ai-seeks-nvidia-155140723.html"
+    },
+    {
+      "section": "werk",
+      "headline": "Meer ICT-werkenden, maar ook meer ICT'ers in de WW",
+      "takeaway": "CBS telt 585.000 ICT-werkenden, UWV ziet minder vacatures en meer WW. Werkgevers vragen meer vaardigheden en ervaring, wat starters raakt.",
+      "source_name": "AI Wereld",
+      "source_url": "https://aiwereld.nl/blog/werkloos-in-de-ict-terwijl-duizenden-vacatures-openstaan"
+    },
+    {
+      "section": "werk",
+      "headline": "Bijna één op de vijf door AI ontslagen werknemers wordt teruggevraagd",
+      "takeaway": "Enquête van SHL onder Amerikaanse en Britse werknemers. Werkgevers doen er goed aan taken pas te schrappen als AI ze aantoonbaar overneemt.",
+      "source_name": "People Matters",
+      "source_url": "https://www.peoplematters.in/news/business/nearly-1-in-5-workers-laid-off-due-to-ai-are-asked-to-return-survey-finds-53098"
+    },
+    {
+      "section": "werk",
+      "headline": "Scenario: agents doen over drie jaar het meeste uitvoerende marketingwerk",
+      "takeaway": "Denkoefening voor marketeers: welk deel van uw week is uitvoerend, en wat doet u met die tijd? Eerste stap: laat één campagnetekst door AI maken en noteer de correcties.",
+      "source_name": "",
+      "source_url": ""
+    },
+    {
+      "section": "kansen",
+      "headline": "Patchdienst voor Linux-servers in het mkb",
+      "takeaway": "Nu AI snel veel lekken vindt, komen er meer updates tegelijk. Een vast maandelijks patchmoment met rapportage is een concrete dienst voor IT-beheerders.",
+      "source_name": "",
+      "source_url": ""
+    },
+    {
+      "section": "kansen",
+      "headline": "Bronnencontrole voor rapporten van adviesbureaus en kennisinstellingen",
+      "takeaway": "De ophef over het Accenture-rapport maakt controle van bronnen en cijfers een verkoopbare dienst.",
+      "source_name": "Computable",
+      "source_url": "https://www.computable.nl/2026/11/05/accenture-beschuldigd-van-publicatie-van-rapport-vol-ai-hallucinaties/"
+    }
+  ]
+}
