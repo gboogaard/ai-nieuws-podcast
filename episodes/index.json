@@ -1,6 +1,109 @@
 {
-  "updated": "2026-11-06T06:30:47+00:00",
+  "updated": "2026-11-08T07:46:44+00:00",
   "episodes": [
+    {
+      "id": "2026-11-08",
+      "date": "2026-11-08",
+      "title": "Weekoverzicht: Nederland wil eigen AI-koers, maar blijft afhankelijk",
+      "summary": "Het kabinet presenteert zijn AI-visie, de Kamer wil generatieve AI uit de basisschool, het UWV ziet meer hogeropgeleiden in de WW en AI wordt een wapen in de beveiliging. De rode draad: selectieve onafhankelijkheid van buitenlandse AI.",
+      "duration": 285,
+      "audio": null,
+      "chapters": [
+        {
+          "key": "week",
+          "title": "De week",
+          "start": 0
+        },
+        {
+          "key": "trend",
+          "title": "Rode draad",
+          "start": 129
+        },
+        {
+          "key": "uitproberen",
+          "title": "Probeer zelf",
+          "start": 193
+        },
+        {
+          "key": "vooruit",
+          "title": "Volgende week",
+          "start": 245
+        }
+      ],
+      "items": [
+        {
+          "section": "week",
+          "headline": "Kabinet presenteert AI-visie: eigen keuzes, geen volledige onafhankelijkheid",
+          "takeaway": "Honderdtwintig miljoen euro voor een Europees AI-project onder Duitse leiding vanaf 2027, en onderzoek naar een Nederlands AI-veiligheidsinstituut. Volt noemt de visie een tandeloze tijger door het beperkte budget.",
+          "source_name": "Rijksoverheid; NOS; AI Wereld",
+          "source_url": "https://nos.nl/artikel/2638296-kabinet-wil-meer-met-ai-maar-nederland-zal-afhankelijk-blijven"
+        },
+        {
+          "section": "week",
+          "headline": "Kamer neemt motie aan voor verbod op generatieve AI voor basisschoolleerlingen",
+          "takeaway": "Het kabinet werkt het verbod uit; ingangsdatum en handhaving ontbreken nog. Het verbod geldt niet voor leraren.",
+          "source_name": "AI Wereld",
+          "source_url": "https://aiwereld.nl/nieuws/kamer-steunt-ai-verbod-voor-leerlingen"
+        },
+        {
+          "section": "week",
+          "headline": "UWV: achtendertig procent van de WW'ers is hogeropgeleid, AI speelt mee",
+          "takeaway": "Meer programmeurs, marketeers en marktonderzoekers in de WW. DNB schat dat AI bij een kwart van de werkenden minstens de helft van de taken kan versnellen.",
+          "source_name": "Nieuws.nl / ANP; Reformatorisch Dagblad",
+          "source_url": "https://nieuws.nl/economie/uwv-ziet-grotere-groep-hogeropgeleiden-in-de-ww"
+        },
+        {
+          "section": "week",
+          "headline": "AI vindt lekken en voert aanvallen uit",
+          "takeaway": "Een OpenAI-model vond 948 lekken in Linux; Check Point beschrijft hoe criminelen met ARTEX aanvallen grotendeels door AI-agents laten uitvoeren. Snel patchen wordt belangrijker.",
+          "source_name": "AI Weekly; Let's Data Science / Check Point",
+          "source_url": "https://letsdatascience.com/news/check-point-details-autonomous-artex-attacks-by-cybercrimina-9d8b6097"
+        },
+        {
+          "section": "week",
+          "headline": "Actievoerders dringen bouwplaats Microsoft-datacenter in Amsterdam binnen",
+          "takeaway": "Ruim honderd activisten, onderdeel van protesten in zestien landen. Zij willen een pauze in de bouw van grote datacenters tot er duidelijkere regels zijn.",
+          "source_name": "Cybernews",
+          "source_url": "https://cybernews.com/news/protesters-microsoft-data-center-amsterdam/"
+        },
+        {
+          "section": "trend",
+          "headline": "Rode draad: selectieve onafhankelijkheid van buitenlandse AI",
+          "takeaway": "Kabinetsvisie, Forrester, Alibaba in Amsterdam, Moonshot via Europese clouds en Revolut met een eigen open model laten zien dat organisaties per toepassing moeten kiezen welke data en AI in Europa blijven.",
+          "source_name": "Rijksoverheid; Computable",
+          "source_url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/11/06/kabinet-kiest-voor-ai-die-nederland-vooruithelpt"
+        },
+        {
+          "section": "uitproberen",
+          "headline": "Probeer Agentic Analytics in Microsoft Clarity",
+          "takeaway": "Gratis zien welke AI-agents van OpenAI, Google en Anthropic uw site bezoeken en wat ze doen. Overleg eerst over toestemming van bezoekers; Ask Clarity zit nog in een gesloten test.",
+          "source_name": "Microsoft Clarity",
+          "source_url": "https://clarity.microsoft.com/blog/?p=10568"
+        },
+        {
+          "section": "vooruit",
+          "headline": "9 tot en met 12 november: Web Summit in Lissabon",
+          "takeaway": "Groot technologiecongres.",
+          "source_name": "Codemicros",
+          "source_url": "https://www.codemicros.com/2026/10/november-2026-tech-events-ai-and-launch-calendar.html"
+        },
+        {
+          "section": "vooruit",
+          "headline": "11 november: The AI Shift in Amsterdam",
+          "takeaway": "Bijeenkomst over de stap van idee naar resultaat met AI.",
+          "source_name": "Mean CEO",
+          "source_url": "https://blog.mean.ceo/startup-events-netherlands-news-november-2026/"
+        },
+        {
+          "section": "vooruit",
+          "headline": "12 november: AI Summit Brainport in Eindhoven",
+          "takeaway": "Gratis evenement in het Evoluon over AI op het werk; nu volgeboekt.",
+          "source_name": "TU Eindhoven",
+          "source_url": "https://www.tue.nl/en/our-university/calendar-and-events/12-11-2026-ai-summit-brainport-2026"
+        }
+      ],
+      "transcript": "Goedemorgen. Het is zondag 8 november. Dit is het weekoverzicht van AI in een paar minuten. De rode draad van deze week: Nederland en Europa willen minder afhankelijk worden van buitenlandse AI, maar het geld en de rekenkracht laten nog op zich wachten.\n\nEerst de week in vijf berichten.\n\nHet eerste bericht: het kabinet presenteerde vrijdag zijn visie op AI. Staatssecretaris Aerdts wil niet volledig onafhankelijk worden, want dat noemt zij onrealistisch. Wel moet Nederland genoeg eigen kennis en rekenkracht hebben om zelf keuzes te maken. Er gaat honderdtwintig miljoen euro naar een Europees AI-project onder Duitse leiding, vanaf 2027. Ook onderzoekt het kabinet een Nederlands AI-veiligheidsinstituut. Volt-leider Dassen noemt de visie volgens de NOS een tandeloze tijger, omdat er weinig geld bij zit.\n\nHet tweede bericht: de Tweede Kamer nam een motie aan om generatieve AI te verbieden voor basisschoolleerlingen. Het kabinet moet dat verbod uitwerken in het Regieplan Digitalisering. Een ingangsdatum en de handhaving ontbreken nog. Het verbod geldt niet voor leraren.\n\nHet derde bericht: AI raakt hogeropgeleiden. Volgens het UWV is achtendertig procent van de mensen in de WW nu hogeropgeleid, en AI speelt daarbij steeds vaker mee. Het gaat onder meer om programmeurs, marketeers en marktonderzoekers. De Nederlandsche Bank schat dat bij een kwart van de werkenden AI minstens de helft van de taken kan versnellen.\n\nHet vierde bericht: AI wordt een wapen in de beveiliging, aan beide kanten. Een model van OpenAI vond negenhonderdachtenveertig lekken in Linux. Tegelijk beschrijft Check Point hoe criminelen met het platform ARTEX aanvallen grotendeels door AI-agents laten uitvoeren. Wie lekken laat liggen, loopt dus sneller risico.\n\nHet vijfde bericht: de weerstand tegen datacenters groeit. Vrijdag drongen ruim honderd actievoerders de bouwplaats van een AI-datacenter van Microsoft in Amsterdam binnen, meldt Cybernews. De actie hoorde bij protesten in zestien landen. De actievoerders willen een pauze in de bouw van grote datacenters, tot er duidelijkere regels zijn.\n\nDan de rode draad.\n\nDeze week ging het steeds over één vraag: hoe afhankelijk wil Europa zijn van buitenlandse AI? Het kabinet kiest voor genoeg eigen capaciteit, maar niet voor volledige onafhankelijkheid. Forrester verwacht dat Europese bedrijven volgend jaar selectief kritieke data naar Europese aanbieders verplaatsen. Tegelijk opende het Chinese Alibaba een cloudregio in Amsterdam. Het Chinese Moonshot zocht Nvidia-chips via Europese cloudaanbieders. En Revolut verlaagde zijn kosten met een eigen open model. Ondertussen is de Nederlandse AI-fabriek pas begin 2028 volledig in gebruik.\n\nWat betekent dat de komende maanden? Voor organisaties: maak per toepassing een bewuste keuze. Welke data moet in Europa blijven, en waar is een Amerikaanse of Chinese dienst acceptabel?\n\nVoor werk: kennis van open modellen en eigen beheer wordt waardevoller.\n\nEn voor het onderwijs: SURF biedt vanaf januari SURF AI aan mbo, hbo en universiteiten aan, met eduGenAI. Dat is een kans om ervaring op te doen met een Europese omgeving.\n\nProbeer dit zelf.\n\nMicrosoft heeft deze week zijn gratis analysedienst Clarity uitgebreid. Met de nieuwe functie Agentic Analytics ziet u welke AI-agents uw website bezoeken en wat ze daar doen. Het gaat voorlopig om agents van OpenAI, Google en Anthropic. Volgens Microsoft zijn de nieuwe functies wereldwijd beschikbaar.\n\nU begint met een gratis Clarity-account en een stukje code op uw website. Open daarna het dashboard Agent Activity. Daar ziet u welke agents langskomen en of ze bijvoorbeeld zoeken, een formulier invullen of iets bestellen. Dat past bij het nieuws dat zoekvragen in ChatGPT al een vijfde van het Google-volume halen.\n\nLet op twee dingen. Clarity legt het gedrag van bezoekers vast, dus overleg eerst met uw privacyfunctionaris over toestemming. En de vraagfunctie Ask Clarity zit nog in een gesloten test met wachtlijst.\n\nTot slot: wat staat er volgende week op de agenda?\n\nVan maandag 9 tot en met donderdag 12 november is in Lissabon de Web Summit, een groot technologiecongres.\n\nWoensdag 11 november is in Amsterdam de bijeenkomst The AI Shift, over de stap van idee naar resultaat met AI.\n\nDonderdag 12 november is in het Evoluon in Eindhoven de AI Summit Brainport. Het thema is AI op het werk: welke taken blijven bij mensen, en hoe bereiden organisaties zich voor? Het evenement is gratis, maar op dit moment volgeboekt.\n\nDat was het weekoverzicht van AI in een paar minuten. Morgen om acht uur weer het dagelijkse bulletin, met het nieuws sinds vrijdag."
+    },
     {
       "id": "2026-11-06",
       "date": "2026-11-06",
