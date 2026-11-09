@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-09",
+  "title": "Mensenrechtentoezicht op AI komt geld tekort, Kamer debatteert vandaag",
+  "summary": "Het College voor de Rechten van de Mens mist geld voor AI-toezicht, terwijl de Kamer vandaag over digitale begrotingen praat. Verder: OpenAI haalt elf miljard dollar op, een groot open model komt eraan en AI is minder vaak de reden voor ontslag.",
+  "intro": "Goedemorgen. Het is maandag 9 november. Dit is AI in een paar minuten. Vandaag: het toezicht op AI en grondrechten komt geld tekort, OpenAI haalt elf miljard dollar op, en in Amerika noemen bedrijven AI minder vaak als reden voor ontslag.",
+  "sections": [
+    {
+      "key": "nl",
+      "title": "Nederland",
+      "script": "Het College voor de Rechten van de Mens heeft te weinig geld voor zijn toezicht op AI, meldt Binnenlands Bestuur. Het College ziet sinds eind 2024 toe op de gevolgen van AI-systemen voor grondrechten, onder de Europese AI-verordening. Op korte termijn ontbreekt vierhonderdduizend euro. Vanaf 2028 mist het College ongeveer één komma vijfentwintig miljoen euro per jaar. Daardoor kan het minder systemen onderzoeken en minder signalen opvolgen. Het College waarschuwt voor grootschalige incidenten zoals de toeslagenaffaire. Vandaag praat de Kamercommissie Digitale Zaken over de digitale begrotingen voor 2027. Voor een gemeente of werkgever met een AI-selectietool betekent dit: reken niet op de toezichthouder om fouten op te sporen, en toets zelf of de tool eerlijk werkt.\n\nHet tweede bericht gaat over de vindbaarheid van het mkb. Het Eindhovense bedrijf InSpace onderzocht vierhonderdeenentachtig websites van Nederlandse mkb-bedrijven. Bijna alle sites laten AI-systemen zoals ChatGPT toe. Maar bij bijna zestig procent staat te weinig informatie die een machine kan lezen. Ruim vierentachtig procent heeft geen aparte pagina per dienst. Juridische dienstverleners scoren het laagst. Een advocatenkantoor kan dus winnen door per dienst een heldere pagina te maken."
+    },
+    {
+      "key": "wereld",
+      "title": "Wereldwijd",
+      "script": "Dan het nieuws uit het buitenland.\n\nOpenAI heeft elf miljard dollar opgehaald, meldt Reuters op basis van Bloomberg. Het is het eerste deel van een financieringsronde. Die waardeert het bedrijf op één komma vijfentwintig biljoen dollar. Bloomberg baseert zich op ingewijden. Voor Nederlandse organisaties wordt de keuze daardoor scherper. Optie één: diep integreren met één Amerikaanse aanbieder, met de beste functies maar een grotere afhankelijkheid. Optie twee: werken met meerdere aanbieders via een tussenlaag, met meer beheerkosten, maar de vrijheid om over te stappen.\n\nHet tweede bericht: Thinking Machines Lab heeft het model Inkling 2 Small gelanceerd. Het is een groot model dat ook beelden verwerkt. Het staat eerst alleen op het eigen platform van het bedrijf. Volgens het bedrijf volgen de volledige modelgewichten volgende week, onder een open licentie, na externe veiligheidstests. Dan kan iedereen het model zelf draaien. Voor hogescholen en ziekenhuizen ontstaat een dilemma. Zij kunnen investeren in eigen rekenkracht en kennis om zo'n open model in Europa te draaien, met volledige controle over gegevens. Of zij blijven bij een kant-en-klare clouddienst: goedkoper om mee te beginnen, maar met gegevens en afhankelijkheid buiten de deur."
+    },
+    {
+      "key": "werk",
+      "title": "Werk",
+      "script": "Dan werk en de arbeidsmarkt.\n\nIn de Verenigde Staten noemden bedrijven in oktober AI veel minder vaak als reden voor ontslag. Dat blijkt uit cijfers van bureau Challenger. Het ging om twaalfhonderdvijfenzestig banen, het laagste maandcijfer dit jaar. Over heel 2026 noemen bedrijven AI wel bij ruim honderdeenentwintigduizend ontslagen, ongeveer een vijfde van het totaal. Economische omstandigheden zijn nu de belangrijkste reden.\n\nIn Nederland zetten werkgevers en bonden in de metaal en techniek AI op de agenda, meldt Installatie.nl. Een werkgroep werkt een strategische agenda uit tot 2031, met vaardigheden van de toekomst en productiviteit als thema's. De FNV wil dat ook de kwaliteit van het werk beter wordt. De les voor werkgevers: leg scholing en taakverandering vast voordat AI het werk verandert, niet erna."
+    },
+    {
+      "key": "kansen",
+      "title": "Kansen",
+      "script": "Tot slot: de kansen.\n\nDe eerste kans is voor juristen en adviseurs in privacy en HR. Nu het grondrechtentoezicht krap is, moeten werkgevers en gemeenten zelf aantonen dat hun AI-tools eerlijk werken. U kunt een vaste grondrechtentoets aanbieden voor AI in werving en selectie. Het Kamerdebat van vandaag zet het onderwerp bovenaan de agenda.\n\nDe tweede kans is voor Nederlandse hostingbedrijven en IT-dienstverleners. Komen de gewichten van Inkling 2 Small vrij, dan zoeken scholen en zorginstellingen hulp om zo'n model veilig in Europa te draaien. Een proefopstelling met een vaste prijs per maand is een concreet aanbod. Wie nu een eerste klant helpt, heeft straks een referentie."
+    }
+  ],
+  "outro": "Dat was AI in een paar minuten. Vandaag praat de Tweede Kamer over de digitale begrotingen. Morgen om acht uur weer.",
+  "items": [
+    {
+      "section": "nl",
+      "headline": "College voor de Rechten van de Mens mist geld voor AI-toezicht",
+      "takeaway": "Vanaf 2028 ontbreekt ongeveer 1,25 miljoen euro per jaar; vandaag debatteert de Kamercommissie Digitale Zaken. Werkgevers met AI-selectietools doen er goed aan zelf te toetsen of die eerlijk werken.",
+      "source_name": "Binnenlands Bestuur",
+      "source_url": "https://www.binnenlandsbestuur.nl/digitaal/mensenrechtencollege-mist-geld-voor-toezicht-op-ai-systemen"
+    },
+    {
+      "section": "nl",
+      "headline": "InSpace: mkb-websites geven AI te weinig informatie",
+      "takeaway": "Van 481 onderzochte mkb-sites geeft bijna 60 procent te weinig machineleesbare context; juridische dienstverleners scoren het laagst. Een heldere pagina per dienst helpt.",
+      "source_name": "InSpace (persbericht)",
+      "source_url": "https://via.ritzau.dk/pressemeddelelse/15270066/in-space-bv?publisherId=90446"
+    },
+    {
+      "section": "wereld",
+      "headline": "OpenAI haalt 11 miljard dollar op bij waardering van 1,25 biljoen",
+      "takeaway": "Dilemma voor Nederlandse organisaties: diep integreren met één Amerikaanse aanbieder voor de beste functies, of meerdere aanbieders via een tussenlaag met hogere beheerkosten maar vrijheid om over te stappen.",
+      "source_name": "Reuters via GV Wire",
+      "source_url": "https://gvwire.com/2026/11/06/openai-secures-11-billion-funding-at-1-25-trillion-valuation-bloomberg-news-reports/"
+    },
+    {
+      "section": "wereld",
+      "headline": "Thinking Machines lanceert Inkling 2 Small, open gewichten volgen",
+      "takeaway": "Dilemma voor hogescholen en ziekenhuizen: investeren in eigen rekenkracht om een open model in Europa te draaien met volledige datacontrole, of een goedkopere kant-en-klare clouddienst met afhankelijkheid buiten de deur.",
+      "source_name": "Runtime Wire",
+      "source_url": "https://runtimewire.com/article/thinking-machines-inkling-2-small-open-weights"
+    },
+    {
+      "section": "werk",
+      "headline": "Challenger: AI in oktober zelden reden voor Amerikaanse ontslagen",
+      "takeaway": "In oktober 1.265 AI-gerelateerde ontslagen, laagste maandcijfer dit jaar; over 2026 ongeveer een vijfde van alle ontslagen. Economische omstandigheden zijn nu de hoofdreden.",
+      "source_name": "Challenger, Gray & Christmas",
+      "source_url": "https://www.challengergray.com/blog/october-layoffs-at-three-year-low-seasonal-hiring-plans-up-26/"
+    },
+    {
+      "section": "werk",
+      "headline": "Metaal en techniek zetten AI en vaardigheden op de cao-agenda",
+      "takeaway": "Werkgevers en bonden werken een strategische agenda tot 2031 uit. Leg scholing en taakverandering vast voordat AI het werk verandert.",
+      "source_name": "Installatie.nl",
+      "source_url": "https://www.installatie.nl/ondernemen/personeel/ai-en-personeelstekort-bepalen-koers-caos-metaal-en-techniek/"
+    },
+    {
+      "section": "kansen",
+      "headline": "Grondrechtentoets voor AI in werving en selectie",
+      "takeaway": "Voor juristen en privacy- en HR-adviseurs: werkgevers en gemeenten moeten zelf aantonen dat hun AI-tools eerlijk werken nu het toezicht krap is.",
+      "source_name": "",
+      "source_url": ""
+    },
+    {
+      "section": "kansen",
+      "headline": "Open modellen veilig in Europa hosten",
+      "takeaway": "Voor hostingbedrijven en IT-dienstverleners: een proefopstelling met vaste maandprijs voor scholen en zorginstellingen die een open model zelf willen draaien.",
+      "source_name": "",
+      "source_url": ""
+    }
+  ]
+}
