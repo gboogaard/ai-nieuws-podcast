@@ -104,11 +104,51 @@
       "date": "2026-11-01",
       "chars": 4806,
       "model": "eleven_v4"
+    },
+    {
+      "date": "2026-11-02",
+      "chars": 4948,
+      "model": "eleven_v4"
+    },
+    {
+      "date": "2026-11-03",
+      "chars": 4759,
+      "model": "eleven_v4"
+    },
+    {
+      "date": "2026-11-04",
+      "chars": 8794,
+      "model": "eleven_v4"
+    },
+    {
+      "date": "2026-11-05",
+      "chars": 4889,
+      "model": "eleven_v4"
+    },
+    {
+      "date": "2026-11-06",
+      "chars": 5106,
+      "model": "eleven_v4"
+    },
+    {
+      "date": "2026-11-08",
+      "chars": 4597,
+      "model": "eleven_v4"
+    },
+    {
+      "date": "2026-11-09",
+      "chars": 4386,
+      "model": "eleven_v4"
+    },
+    {
+      "date": "2026-11-10",
+      "chars": 5120,
+      "model": "eleven_v4"
     }
   ],
   "note": "De aflevering van 2026-10-09 is twee keer gemaakt (twee tests), dus het werkelijke verbruik ligt hoger.",
   "subscription": {
-    "checked": "2026-11-01T07:51:08+00:00",
+    "checked": "2026-11-10T06:43:12+00:00",
     "error": "tegoed niet leesbaar (sleutel mist leesrecht 'User')"
   }
 }

@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-09T06:32:56+00:00",
+  "updated": "2026-11-10T06:43:12+00:00",
   "episodes": [
     {
-      "id": "2026-11-09",
-      "date": "2026-11-09",
-      "title": "Mensenrechtentoezicht op AI komt geld tekort, Kamer debatteert vandaag",
-      "summary": "Het College voor de Rechten van de Mens mist geld voor AI-toezicht, terwijl de Kamer vandaag over digitale begrotingen praat. Verder: OpenAI haalt elf miljard dollar op, een groot open model komt eraan en AI is minder vaak de reden voor ontslag.",
-      "duration": 267,
-      "audio": null,
+      "id": "2026-11-10",
+      "date": "2026-11-10",
+      "title": "Anthropic lanceert Fable 5.2, Brussel wil verslavend ontwerp aanpakken",
+      "summary": "TNO en Capgemini moderniseren oude software met AI, Brussel werkt aan regels tegen verslavende apps en chatbots, Anthropic brengt twee nieuwe modellen uit en Nvidia onderzoekt zijn topman. Plus: Nederlandse werkenden willen meer met AI, maar missen kennis.",
+      "duration": 347,
+      "audio": "audio/2026-11-10.mp3",
       "chapters": [
         {
           "key": "nl",
@@ -17,17 +17,99 @@
         {
           "key": "wereld",
           "title": "Wereldwijd",
-          "start": 92
+          "start": 111
         },
         {
           "key": "werk",
           "title": "Werk",
-          "start": 168
+          "start": 212
         },
         {
           "key": "kansen",
           "title": "Kansen",
-          "start": 218
+          "start": 288
+        }
+      ],
+      "items": [
+        {
+          "section": "nl",
+          "headline": "TNO en Capgemini moderniseren verouderde software met DebtZero",
+          "takeaway": "Een dienst die technische schuld aanpakt met automatische codeaanpassingen, generatieve AI en specialistische teams; eerste klanttrajecten starten, cijfers ontbreken nog. Een verzekeraar kan eerst afhankelijkheden in een oud systeem in kaart brengen.",
+          "source_name": "AI Wereld",
+          "source_url": "https://aiwereld.nl/nieuws/tno-en-capgemini-pakken-verouderde-software-aan-met-debtzero"
+        },
+        {
+          "section": "nl",
+          "headline": "Concept Digital Fairness Act: verslavende functies en relatiechatbots aan banden",
+          "takeaway": "Gebruikers moeten verslavende functies kunnen uitzetten, opzeggen moet eenvoudig zijn, boetes tot zes procent van de omzet; presentatie naar verwachting woensdag. Nederlandse abonnementsapps kunnen nu al hun opzegknop en meldingen nalopen.",
+          "source_name": "ChainCatcher via KuCoin, op basis van Caixin",
+          "source_url": "https://www.kucoin.com/news/flash/eu-draft-bill-aims-to-regulate-addictive-design-and-ai-chatbots-fines-up-to-6-of-revenue"
+        },
+        {
+          "section": "wereld",
+          "headline": "Anthropic brengt Claude Fable 5.2 en Mythos 5.2 uit",
+          "takeaway": "Dilemma voor zorginstellingen en scholen: het nieuwste model nu inzetten en dertig dagen gegevensopslag voor veiligheidstoezicht accepteren, of wachten op de variant zonder opslag en tot die tijd met minder krachtige modellen werken.",
+          "source_name": "Anthropic",
+          "source_url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "section": "wereld",
+          "headline": "Nvidia onderzoekt of topman Huang doelwit was van inlichtingenoperatie",
+          "takeaway": "Dilemma voor Nederlandse rekencentra en kennisinstellingen: standaardiseren op Nvidia met de breedste software-ondersteuning maar afhankelijk van één leverancier, of spreiden over meerdere chipleveranciers met meer ontwikkelwerk en kosten maar minder risico.",
+          "source_name": "AI Wereld",
+          "source_url": "https://aiwereld.nl/nieuws/nvidia-topman-jensen-huang-bekent-affaire-bedrijf-onderzoekt-mogelijke-chinese-spionage"
+        },
+        {
+          "section": "werk",
+          "headline": "Werkenden willen AI voor processen, maar missen kennis",
+          "takeaway": "Elf procent gebruikt AI voor automatisering, zesenveertig procent wil dat; gebrek aan kennis is de grootste rem. Werkgevers en opleiders moeten van basiscursus naar procesverandering.",
+          "source_name": "Consultancy.nl",
+          "source_url": "https://consultancy.nl/nieuws/71299/gebrek-aan-kennis-remt-verdere-inzet-van-ai-op-werkvloer"
+        },
+        {
+          "section": "kansen",
+          "headline": "Procesgerichte AI-training voor mkb-afdelingen",
+          "takeaway": "Trainers kunnen per afdeling één terugkerend proces met AI aanpakken, met privacy en AVG vanaf de start, omdat werkenden daar de grootste kloof ervaren.",
+          "source_name": "Consultancy.nl",
+          "source_url": "https://consultancy.nl/nieuws/71299/gebrek-aan-kennis-remt-verdere-inzet-van-ai-op-werkvloer"
+        },
+        {
+          "section": "kansen",
+          "headline": "Ontwerpcheck op de Digital Fairness Act",
+          "takeaway": "UX-bureaus kunnen abonnementsdiensten, webwinkels en chatbotaanbieders helpen opzeggen, meldingen en chatbotfuncties tijdig aan te passen.",
+          "source_name": "",
+          "source_url": ""
+        }
+      ],
+      "transcript": "Goedemorgen. Het is dinsdag 10 november. Dit is AI in een paar minuten. Vandaag: Brussel wil verslavende functies in apps en chatbots aanpakken, Anthropic brengt twee nieuwe modellen uit, en Nederlandse werkenden willen meer met AI, maar missen de kennis.\n\nTNO en Capgemini bieden samen een dienst aan om verouderde bedrijfssoftware op te knappen. De dienst heet DebtZero. Hij richt zich op technische schuld: achterstallig onderhoud en oude ontwerpkeuzes die elke wijziging duur maken. DebtZero combineert automatische codeaanpassingen, generatieve AI en gespecialiseerde teams. Capgemini voert de projecten uit, TNO blijft eigenaar van de onderliggende technologie. Volgens AI Wereld starten de eerste klanttrajecten nu. Klantnamen en cijfers over tijdwinst ontbreken nog. Een verzekeraar met een decennia oud polissysteem kan zo eerst in kaart brengen welke onderdelen van elkaar afhangen, voordat er iets wordt vervangen.\n\nDan Europees nieuws dat Nederland direct raakt. De Europese Commissie werkt aan de Digital Fairness Act. Verschillende media hebben het concept ingezien. Volgens dat concept moeten gebruikers verslavende functies kunnen uitzetten, zoals automatisch afspelen en beloningen voor dagelijkse reeksen. Ook AI-chatbots die een persoonlijke relatie nabootsen vallen eronder. Opzeggen mag niet veel moeilijker zijn dan aanmelden. De boete kan oplopen tot zes procent van de wereldwijde omzet. Het voorstel wordt naar verwachting woensdag gepresenteerd. Parlement en lidstaten moeten nog instemmen. Een Nederlandse aanbieder van een abonnementsapp doet er goed aan nu al te kijken naar de opzegknop en de meldingen.\n\nDan het nieuws uit het buitenland.\n\nAnthropic heeft twee nieuwe modellen uitgebracht: Claude Fable vijf punt twee en Claude Mythos vijf punt twee. Fable is bedoeld voor zwaar en open technisch werk en is voor alle gebruikers beschikbaar. Mythos is hetzelfde model met minder beveiligingsbeperkingen. Het is alleen voor gecontroleerde organisaties in cyberbeveiliging en biomedisch onderzoek. Volgens Anthropic zijn de antwoorden tot dertig procent sneller. Standaard bewaart Anthropic gegevens dertig dagen voor veiligheidstoezicht. Een variant zonder gegevensopslag is nog in een besloten testfase. Voor zorginstellingen en scholen wordt de keuze concreet. Zij kunnen het nieuwste model nu inzetten en die bewaartermijn in hun privacy-afweging accepteren. Of zij wachten op de variant zonder opslag, en werken tot die tijd met minder krachtige modellen.\n\nHet tweede bericht: Nvidia onderzoekt zijn eigen topman, meldt AI Wereld. Jensen Huang heeft een buitenechtelijke affaire toegegeven. Een onafhankelijke commissie van het bestuur zoekt uit of hij doelwit was van een buitenlandse inlichtingenoperatie. Beschuldigingen van Chinese spionage zijn niet vastgesteld. Nvidia zegt geen aanwijzingen te hebben dat bedrijfsgeheimen zijn geschaad. Huang blijft voorlopig aan. Dat geeft een dilemma voor Nederlandse rekencentra en kennisinstellingen. Zij kunnen standaardiseren op Nvidia, met de breedste software-ondersteuning, maar met afhankelijkheid van één leverancier. Of zij spreiden over meerdere chipleveranciers, met meer werk en kosten, maar minder risico als één bedrijf wankelt.\n\nDan werk en de arbeidsmarkt.\n\nNederlandse werkenden gebruiken AI vooral voor eenvoudige taken. Dat blijkt uit een peiling van IMK Opleidingen onder tweeëntachtig professionals uit zeventien sectoren, meldt Consultancy.nl. De onderzoekers noemen dat een indicatie, niet representatief. Vijfenzestig procent gebruikt AI minstens wekelijks, vooral om teksten te schrijven en samen te vatten. Het gat zit bij het echte procesverbeteren. Elf procent gebruikt AI voor automatisering, terwijl zesenveertig procent dat wil. Voor plannen en organiseren is dat zeven tegenover eenenveertig procent. De grootste rem is gebrek aan kennis, genoemd door eenenvijftig procent. Daarna volgen privacy en de AVG. Tweeënnegentig procent heeft interesse in een AI-training of overweegt die.\n\nStrategisch: de eerste golf, AI als schrijfhulp, is binnen. De volgende stap is werkprocessen anders inrichten. Werkgevers die alleen een chatbot regelen, laten winst liggen. Voor onderwijs en opleiders draait het om toepassen in het eigen werk, niet om nog een basiscursus.\n\nTot slot: de kansen.\n\nDe eerste kans ligt bij trainers en adviseurs voor het mkb. Werkenden willen AI inzetten voor planning en automatisering, maar weten niet hoe. Een praktijktraining die per afdeling één terugkerend proces aanpakt, bijvoorbeeld offertes of roosters, sluit precies op die vraag aan. Neem privacy en de AVG vanaf de eerste sessie mee, want dat is de tweede rem.\n\nDe tweede kans ligt bij bureaus voor app-ontwerp en gebruikerservaring. De Digital Fairness Act maakt opzeggen, meldingen en chatbotfuncties tot een nalevingsvraag, met forse boetes. Een ontwerpcheck voor Nederlandse abonnementsdiensten, webwinkels en chatbotaanbieders helpt hen op tijd aanpassen. Wie nu begint, staat klaar als de definitieve tekst er is.\n\nDat was AI in een paar minuten. Morgen om acht uur weer, met de woensdag-editie over onderwijs en AI en uw eigen kansen."
+    },
+    {
+      "id": "2026-11-09",
+      "date": "2026-11-09",
+      "title": "Mensenrechtentoezicht op AI komt geld tekort, Kamer debatteert vandaag",
+      "summary": "Het College voor de Rechten van de Mens mist geld voor AI-toezicht, terwijl de Kamer vandaag over digitale begrotingen praat. Verder: OpenAI haalt elf miljard dollar op, een groot open model komt eraan en AI is minder vaak de reden voor ontslag.",
+      "duration": 305,
+      "audio": "audio/2026-11-09.mp3",
+      "chapters": [
+        {
+          "key": "nl",
+          "title": "Nederland",
+          "start": 0
+        },
+        {
+          "key": "wereld",
+          "title": "Wereldwijd",
+          "start": 108
+        },
+        {
+          "key": "werk",
+          "title": "Werk",
+          "start": 190
+        },
+        {
+          "key": "kansen",
+          "title": "Kansen",
+          "start": 251
         }
       ],
       "items": [
@@ -95,8 +177,8 @@
       "date": "2026-11-08",
       "title": "Weekoverzicht: Nederland wil eigen AI-koers, maar blijft afhankelijk",
       "summary": "Het kabinet presenteert zijn AI-visie, de Kamer wil generatieve AI uit de basisschool, het UWV ziet meer hogeropgeleiden in de WW en AI wordt een wapen in de beveiliging. De rode draad: selectieve onafhankelijkheid van buitenlandse AI.",
-      "duration": 285,
-      "audio": null,
+      "duration": 321,
+      "audio": "audio/2026-11-08.mp3",
       "chapters": [
         {
           "key": "week",
@@ -106,17 +188,17 @@
         {
           "key": "trend",
           "title": "Rode draad",
-          "start": 129
+          "start": 144
         },
         {
           "key": "uitproberen",
           "title": "Probeer zelf",
-          "start": 193
+          "start": 217
         },
         {
           "key": "vooruit",
           "title": "Volgende week",
-          "start": 245
+          "start": 275
         }
       ],
       "items": [
@@ -198,8 +280,8 @@
       "date": "2026-11-06",
       "title": "AI vindt honderden lekken in Linux, Pointer ontmaskert AI-nepkanalen",
       "summary": "Misleidende AI-kanalen op YouTube, een directeur voor de AI-fabriek, een OpenAI-model dat 948 Linux-lekken vindt en Chinese chiphuur in Europa. Plus de ICT-arbeidsmarkt en het scenario van de week over marketing.",
-      "duration": 303,
-      "audio": null,
+      "duration": 352,
+      "audio": "audio/2026-11-06.mp3",
       "chapters": [
         {
           "key": "nl",
@@ -209,17 +291,17 @@
         {
           "key": "wereld",
           "title": "Wereldwijd",
-          "start": 88
+          "start": 107
         },
         {
           "key": "werk",
           "title": "Werk",
-          "start": 173
+          "start": 201
         },
         {
           "key": "kansen",
           "title": "Kansen",
-          "start": 254
+          "start": 295
         }
       ],
       "items": [
@@ -294,8 +376,8 @@
       "date": "2026-11-05",
       "title": "Kamer neemt motie aan voor verbod op generatieve AI op basisschool",
       "summary": "De Kamer wil generatieve AI weren voor basisschoolleerlingen, Europa investeert in chipontwerp, Apple waarschuwt voor AI-agents en starters worden agent-managers.",
-      "duration": 285,
-      "audio": null,
+      "duration": 334,
+      "audio": "audio/2026-11-05.mp3",
       "chapters": [
         {
           "key": "nl",
@@ -305,17 +387,17 @@
         {
           "key": "wereld",
           "title": "Wereldwijd",
-          "start": 95
+          "start": 110
         },
         {
           "key": "werk",
           "title": "Werk",
-          "start": 174
+          "start": 201
         },
         {
           "key": "kansen",
           "title": "Kansen",
-          "start": 232
+          "start": 270
         }
       ],
       "items": [
@@ -383,8 +465,8 @@
       "date": "2026-11-04",
       "title": "UWV: meer hogeropgeleiden in de WW, AI speelt steeds vaker mee",
       "summary": "Het UWV ziet AI als oorzaak van meer hoogopgeleide werklozen, een EU-adviseur zet Google onder druk over nieuwssamenvattingen en Revolut stapt over op een eigen open model. Plus onderwijs en AI, en jouw kansen.",
-      "duration": 534,
-      "audio": null,
+      "duration": 591,
+      "audio": "audio/2026-11-04.mp3",
       "chapters": [
         {
           "key": "nl",
@@ -394,27 +476,27 @@
         {
           "key": "wereld",
           "title": "Wereldwijd",
-          "start": 95
+          "start": 106
         },
         {
           "key": "werk",
           "title": "Werk",
-          "start": 186
+          "start": 203
         },
         {
           "key": "onderwijs",
           "title": "Onderwijs",
-          "start": 261
+          "start": 288
         },
         {
           "key": "kansen",
           "title": "Kansen",
-          "start": 360
+          "start": 400
         },
         {
           "key": "persoonlijk",
           "title": "Kansen",
-          "start": 409
+          "start": 455
         }
       ],
       "items": [
@@ -510,8 +592,8 @@
       "date": "2026-11-03",
       "title": "Engelse gemeenten laten AI bouwaanvragen voorbereiden",
       "summary": "Alibaba opent een cloudregio in Amsterdam, Amerikaanse kranten slepen Brave voor de rechter en vijftien Engelse gemeenten testen AI voor vergunningen. Plus: werkgevers nemen door AI minder starters aan.",
-      "duration": 282,
-      "audio": null,
+      "duration": 326,
+      "audio": "audio/2026-11-03.mp3",
       "chapters": [
         {
           "key": "nl",
@@ -521,17 +603,17 @@
         {
           "key": "wereld",
           "title": "Wereldwijd",
-          "start": 86
+          "start": 104
         },
         {
           "key": "werk",
           "title": "Werk",
-          "start": 174
+          "start": 200
         },
         {
           "key": "kansen",
           "title": "Kansen",
-          "start": 230
+          "start": 267
         }
       ],
       "items": [
@@ -599,8 +681,8 @@
       "date": "2026-11-02",
       "title": "DNB: AI verandert werk van een kwart van de Nederlanders ingrijpend",
       "summary": "DNB ziet grote gevolgen van AI voor werk, maar het economische effect ligt nog niet vast. Verder: de Kamer stemt dinsdag over AI op de basisschool, een besmette programmeerextensie en strengere veiligheidsregels bij ChatGPT.",
-      "duration": 293,
-      "audio": null,
+      "duration": 332,
+      "audio": "audio/2026-11-02.mp3",
       "chapters": [
         {
           "key": "nl",
@@ -610,17 +692,17 @@
         {
           "key": "wereld",
           "title": "Wereldwijd",
-          "start": 89
+          "start": 104
         },
         {
           "key": "werk",
           "title": "Werk",
-          "start": 180
+          "start": 202
         },
         {
           "key": "kansen",
           "title": "Kansen",
-          "start": 236
+          "start": 265
         }
       ],
       "items": [
