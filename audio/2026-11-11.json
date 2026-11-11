@@ -1,0 +1,35 @@
+{
+  "duration": 582,
+  "chapters": [
+    {
+      "key": "nl",
+      "title": "Nederland",
+      "start": 0
+    },
+    {
+      "key": "wereld",
+      "title": "Wereldwijd",
+      "start": 114
+    },
+    {
+      "key": "werk",
+      "title": "Werk",
+      "start": 210
+    },
+    {
+      "key": "onderwijs",
+      "title": "Onderwijs",
+      "start": 284
+    },
+    {
+      "key": "kansen",
+      "title": "Kansen",
+      "start": 380
+    },
+    {
+      "key": "persoonlijk",
+      "title": "Kansen",
+      "start": 429
+    }
+  ]
+}

@@ -1,6 +1,133 @@
 {
-  "updated": "2026-11-10T06:43:12+00:00",
+  "updated": "2026-11-11T06:41:16+00:00",
   "episodes": [
+    {
+      "id": "2026-11-11",
+      "date": "2026-11-11",
+      "title": "Databricks steekt half miljard in Nederland, Kamer wil AI-strategie",
+      "summary": "Databricks breidt zijn Amsterdamse ontwikkelcentrum fors uit, Gartner verwacht vooral ander werk door AI, en de Kamer wil een landelijke AI-strategie voor mbo en hoger onderwijs. Plus de woensdagblokken onderwijs en jouw kansen.",
+      "duration": 582,
+      "audio": "audio/2026-11-11.mp3",
+      "chapters": [
+        {
+          "key": "nl",
+          "title": "Nederland",
+          "start": 0
+        },
+        {
+          "key": "wereld",
+          "title": "Wereldwijd",
+          "start": 114
+        },
+        {
+          "key": "werk",
+          "title": "Werk",
+          "start": 210
+        },
+        {
+          "key": "onderwijs",
+          "title": "Onderwijs",
+          "start": 284
+        },
+        {
+          "key": "kansen",
+          "title": "Kansen",
+          "start": 380
+        },
+        {
+          "key": "persoonlijk",
+          "title": "Kansen",
+          "start": 429
+        }
+      ],
+      "items": [
+        {
+          "section": "nl",
+          "headline": "Databricks investeert ruim vijfhonderd miljoen dollar in Nederland",
+          "takeaway": "Databricks breidt zijn Amsterdamse R&D-centrum uit, verdubbelt het personeel hier en wil vóór 2030 meer dan veertigduizend mensen opleiden. ICT-bedrijven moeten rekening houden met hardere concurrentie om datatalent.",
+          "source_name": "Computable",
+          "source_url": "https://www.computable.nl/2026/11/10/kort-google-lanceert-nieuwe-ai-chips-databricks-steekt-half-miljard-in-nederland-en-meer/"
+        },
+        {
+          "section": "nl",
+          "headline": "Kamer kritisch over digitale regie, vragen over gratis AI bij ambtenaren",
+          "takeaway": "In het wetgevingsoverleg over de digitale begrotingen vroeg het CDA hoe gebruik van gratis AI-diensten door ambtenaren wordt voorkomen; de routekaart digitale autonomie komt begin 2027. Gemeenten doen er goed aan nu een goedgekeurde AI-werkplek te bieden.",
+          "source_name": "iBestuur",
+          "source_url": "https://ibestuur.nl/overheid-in-transitie/politiek-en-beleid/toenemend-gemor-in-kamer-over-gebrekkige-digitale-regie"
+        },
+        {
+          "section": "wereld",
+          "headline": "Inbraak bij AI-platform Fireworks raakt ook datasets en modellen van klanten",
+          "takeaway": "Dilemma voor organisaties die modellen laten trainen bij Amerikaanse specialisten: goedkoop en snel blijven werken en het datarisico accepteren, of uitwijken naar een Europese of eigen omgeving met hogere kosten en een tragere start.",
+          "source_name": "Fireworks AI",
+          "source_url": "https://fireworks.ai/security/bulletins/october-2026-security-incident-update"
+        },
+        {
+          "section": "wereld",
+          "headline": "Meta zet AI-leeftijdsschatting voor tieners wereldwijd in",
+          "takeaway": "Dilemma voor scholen en jeugdorganisaties: vertrouwen op de automatische leeftijdscheck van het platform, gemakkelijk maar gebaseerd op profilering, of zelf inzetten op voorlichting en afspraken met ouders, wat meer tijd kost maar minder afhankelijk maakt.",
+          "source_name": "Al Jazeera",
+          "source_url": "https://www.aljazeera.com/news/2026/11/9/meta-rolls-out-automated-age-checks-for-teens-globally"
+        },
+        {
+          "section": "werk",
+          "headline": "Gartner: AI levert tot 2030 per saldo 1,7 miljoen banen op",
+          "takeaway": "Weinig directe baanverliezen, maar bij ruim twintig procent van de werkenden verandert het werk; de publieke sector krimpt per saldo. Werkgevers moeten taken herontwerpen en mensen bijscholen.",
+          "source_name": "Rockingrobots",
+          "source_url": "https://www.rockingrobots.nl/ai-levert-tegen-2030-netto-17-miljoen-banen-op/"
+        },
+        {
+          "section": "werk",
+          "headline": "Qantas schrapt 850 kantoorbanen in deal met Accenture",
+          "takeaway": "Financiën, inkoop en marketing gaan grotendeels naar India, met meer AI-inzet. AI en uitbesteding gaan steeds vaker samen; backofficeteams moeten weten welke taken intern blijven.",
+          "source_name": "ABC News",
+          "source_url": "https://www.abc.net.au/news/2026-11-10/850-jobs-to-go-from-qantas-as-airline-moves-roles-overseas/107368120"
+        },
+        {
+          "section": "onderwijs",
+          "headline": "Kamer wil landelijke AI-strategie voor mbo en hoger onderwijs",
+          "takeaway": "De motie-Rooderkerk vraagt AI-geletterdheid met kritisch denken, bronnenonderzoek en herkennen van desinformatie. Een landelijke lijn moet ongelijkheid tussen scholen voorkomen.",
+          "source_name": "Punt (Avans)",
+          "source_url": "https://punt.avans.nl/2026/11/tweede-kamer-wil-landelijke-ai-strategie-voor-mbo-en-hoger-onderwijs/"
+        },
+        {
+          "section": "onderwijs",
+          "headline": "Windesheim past opleidingen aan met AI-schaal van één tot vijf",
+          "takeaway": "Communicatie verschuift naar analytisch denken en begeleiden; ICT toetst met een AI-schaal per opdracht. Een mbo-team kan zo'n schaal overnemen zodat studenten vooraf weten wat mag.",
+          "source_name": "WIN (Windesheim)",
+          "source_url": "https://www.win-nieuws.nl/2026/11/10/ai-en-het-werkveld-zijn-de-opleidingen-van-windesheim-klaar-voor-de-toekomst/"
+        },
+        {
+          "section": "kansen",
+          "headline": "Goedgekeurde AI-werkplek voor gemeenten en waterschappen",
+          "takeaway": "Adviseurs richten een veilige AI-werkplek in met spelregels en training, nu de Kamer vragen stelt over gratis AI-gebruik door ambtenaren.",
+          "source_name": "",
+          "source_url": ""
+        },
+        {
+          "section": "kansen",
+          "headline": "Taakherontwerp voor backofficeteams",
+          "takeaway": "Opleiders en hr-adviseurs bieden korte trajecten over welke taken AI overneemt en welke erbij komen, nu werkgevers die keuzes maken.",
+          "source_name": "",
+          "source_url": ""
+        },
+        {
+          "section": "persoonlijk",
+          "headline": "AI-leveranciersscan voor mkb en non-profits",
+          "takeaway": "Zes uur werk voor een herbruikbare scan van AI-diensten, sleutels en dataopslag; eerste test gratis in ruil voor een referentie.",
+          "source_name": "",
+          "source_url": ""
+        },
+        {
+          "section": "persoonlijk",
+          "headline": "Gesprekskaart AI-geletterdheid voor studentbegeleiders",
+          "takeaway": "Drie uur voor een kaart met vier begeleidingsvragen op basis van de Kamermotie, te bespreken in een teamoverleg vóór de eduGenAI-pilot afloopt.",
+          "source_name": "",
+          "source_url": ""
+        }
+      ],
+      "transcript": "Goedemorgen. Het is woensdag 11 november. Dit is AI in een paar minuten. Vandaag: Databricks investeert ruim een half miljard dollar in Nederland. Gartner verwacht door AI vooral ander werk, niet minder werk. En de Kamer wil een landelijke AI-strategie voor mbo en hoger onderwijs.\n\nHet Amerikaanse databedrijf Databricks investeert de komende drie jaar meer dan vijfhonderd miljoen dollar in Nederland, meldt Computable. Het bedrijf breidt in Amsterdam zijn grootste Europese centrum voor onderzoek en ontwikkeling uit. Het aantal medewerkers hier moet verdubbelen. Vóór 2030 wil Databricks bovendien meer dan veertigduizend mensen opleiden in data- en AI-vaardigheden. Klanten zijn onder meer ABN Amro, Heineken, PostNL en het UMC Utrecht. Dat versterkt Amsterdam als plek voor AI-ontwikkeling, maar maakt de strijd om datatalent ook harder. Een middelgroot ICT-bedrijf doet er goed aan nu te bekijken hoe het zijn eigen dataspecialisten vasthoudt.\n\nDan de Tweede Kamer. In een debat van ruim zeven uur over de digitale begrotingen klonk maandag veel kritiek op de versnipperde regie, schrijft iBestuur. Het CDA vroeg hoe het kabinet voorkomt dat ambtenaren gratis AI-diensten gebruiken. Dat is namelijk niet toegestaan. Minister Van Weel verwees bij AI-camerabrillen naar Europese privacyrichtlijnen die volgend jaar verschijnen. Staatssecretaris Aerdts zegde toe dat de routekaart digitale autonomie in de eerste maanden van 2027 naar de Kamer gaat. Voor een gemeente betekent dit: zorg nu voor een goedgekeurde AI-werkplek, zodat medewerkers niet uitwijken naar gratis tools.\n\nDan het nieuws uit het buitenland.\n\nHet Amerikaanse AI-platform Fireworks meldt dat een inbraak groter is dan eerst gedacht. Via een externe cloudleverancier kwamen aanvallers eind oktober op ontwikkelmachines van het bedrijf. Daarbij werden factuurgegevens geraakt. Bij een beperkt aantal klanten ging het ook om geheime sleutels, datasets en onvoltooide modellen. Fireworks koppelt de aanval aan een criminele groep die gestolen toegang tot taalmodellen doorverkoopt. Voor Nederlandse organisaties die modellen laten trainen bij gespecialiseerde Amerikaanse platforms wordt de keuze scherper. Ze kunnen goedkoop en snel blijven werken met zo'n platform, en het risico voor hun eigen bedrijfsdata accepteren. Of ze wijken uit naar een Europese of eigen omgeving, met hogere kosten en een tragere start.\n\nMeta breidt deze maand wereldwijd zijn AI-leeftijdsschatting uit, meldt Al Jazeera. Het systeem analyseert gedrag en berichten op Instagram. Vermoedelijke tieners komen in een tieneraccount, ook als zij een volwassen geboortedatum opgaven. Facebook en Threads volgen later. Of en wanneer dit in de EU geldt, staat niet in het bericht. Voor Nederlandse scholen en jeugdorganisaties ontstaat een dilemma. Ze kunnen vertrouwen op deze automatische controle van het platform: dat is gemakkelijk, maar leunt op het profileren van jongeren. Of ze blijven zelf inzetten op voorlichting en afspraken met ouders: dat kost meer tijd, maar maakt minder afhankelijk van Meta.\n\nDan werk en de arbeidsmarkt.\n\nAI levert tot 2030 wereldwijd per saldo één komma zeven miljoen banen op, verwacht onderzoeksbureau Gartner, meldt Rockingrobots. Er komen tien komma zes miljoen banen bij en acht komma negen miljoen verdwijnen. Hooguit één komma acht procent van de werkenden verliest direct zijn baan door AI. Maar bij ruim twintig procent verandert de inhoud van het werk. In de publieke sector verwacht Gartner per saldo wel minder banen. En bedrijven stelden dit jaar al één komma drie miljoen nieuwe functies uit.\n\nHoe dat in de praktijk uitpakt, laat Qantas zien. De Australische luchtvaartmaatschappij schrapt achthonderdvijftig kantoorbanen, meldt ABC News. Werk in financiën, inkoop en marketing gaat naar Accenture, vooral naar teams in India. Qantas wil zo zijn verouderde systemen vernieuwen en meer AI inzetten. De vakbond noemt het nieuws schokkend.\n\nVoor werkgevers is de les: AI verandert vooral taken, maar AI en uitbesteding gaan steeds vaker samen. Wie veel backofficewerk heeft, bepaalt nu welke taken intern blijven, en leidt mensen daarvoor op.\n\nDan onderwijs en AI.\n\nDe Tweede Kamer wil een landelijke AI-strategie voor mbo, hbo en universiteiten. Een motie van D66-Kamerlid Rooderkerk kreeg vorige week brede steun. Alleen PVV en Forum voor Democratie stemden tegen. Studenten moeten AI-geletterd worden, met nadruk op kritisch denken, bronnenonderzoek, het herkennen van desinformatie en de grenzen van AI. Ook docenten moeten beter met AI leren werken. Hoe de strategie eruitziet, is nog onduidelijk. Dit raakt de kansengelijkheid. Een landelijke lijn moet voorkomen dat de ene student goed wordt voorbereid en de andere niet, alleen door de keuze van school. Voor docenten en begeleiders wordt AI-geletterdheid zo een deel van hun eigen vak.\n\nHogeschool Windesheim laat zien hoe opleidingen zich aanpassen, schrijft het hogeschoolblad WIN. Uit onderzoek van een docent blijkt dat negenennegentig procent van de afstudeerbedrijven al AI gebruikt. De opleiding Communicatie verschuift van producten maken naar analytisch denken, met een nieuw kerngebied verbinden en begeleiden. Bij ICT werkt men met een AI-schaal van één tot vijf. Die loopt van toetsen zonder AI tot samenwerken met AI, als de student zijn werk volledig kan verantwoorden. Dat past bij de docent als coach: niet alleen het eindproduct beoordelen, maar het denkproces. Een mbo-team kan zo'n schaal per opdracht overnemen, zodat studenten vooraf weten wat mag.\n\nTot slot: de kansen.\n\nEén. Ambtenaren mogen geen gratis AI-diensten gebruiken, en de Kamer stelt daar nu vragen over. Voor adviseurs ligt er een kans bij gemeenten en waterschappen: richt in een paar weken een goedgekeurde AI-werkplek in, met heldere spelregels en een korte training. Waarom nu: de politieke druk is er, en de vraag ligt al op tafel.\n\nTwee. Gartner verwacht dat bij één op de vijf werkenden de inhoud van het werk verandert. Voor opleiders en hr-adviseurs ligt er een kans in korte trajecten voor backofficeteams: welke taken neemt AI over, en welke nieuwe taken komen erbij. Waarom nu: werkgevers maken deze keuzes nu, zoals Qantas laat zien.\n\nTot slot, speciaal voor jou: jouw kansen deze week.\n\nEerst als ondernemer. Het nieuws: bij het AI-platform Fireworks werden geheime sleutels en datasets van klanten buitgemaakt, door criminelen die gestolen toegang tot AI-modellen doorverkopen. Veel mkb-bedrijven en non-profits gebruiken AI-diensten met zulke sleutels, zonder dat iemand overzicht heeft. Je achtergrond in de verkoop van cloudbeveiliging past hier precies. Wat je deze week doet: ontwerp een AI-leveranciersscan van één dagdeel. Drie onderdelen: welke AI-diensten de organisatie gebruikt, waar sleutels en data staan, en of de leverancier gegevens bewaart. Test de scan gratis bij één organisatie uit je netwerk, in ruil voor een referentie. De ROI: ongeveer zes uur werk en geen kosten. Daarna is de scan herhaalbaar en verkoopbaar, als vast pakket of als opstap naar een adviesopdracht. De impact: je staat bekend als de adviseur die AI veilig maakt, niet alleen sneller. Als je dit deze week niet oppakt, mis je deze kans omdat het onderzoek bij Fireworks nog loopt en het onderwerp nu vers is. Wie nu een concreet aanbod heeft, wordt gebeld bij het volgende lek.\n\nDan je werk als I-coach. Het nieuws: de Kamer wil een landelijke AI-strategie voor het mbo, met kritisch denken, bronnenonderzoek, desinformatie en de grenzen van AI als kern. Windesheim werkt al met een AI-schaal per opdracht. Wat je deze week doet: vertaal die vier kernpunten naar studentbegeleiding. Maak een kaart van één pagina met per punt een vraag die een begeleider in een gesprek kan stellen. Bijvoorbeeld: hoe weet je dat dit antwoord klopt? Bespreek de kaart in een teamoverleg van een half uur. De ROI: ongeveer drie uur voorbereiding en geen kosten. Begeleiders hoeven niets extra in te plannen, want het past in bestaande gesprekken. De impact: AI-geletterdheid bereikt studenten via de begeleiding, juist ook studenten die thuis minder hulp krijgen. Als je dit deze week niet oppakt, mis je deze kans omdat de invulling van de strategie nog open ligt en de eduGenAI-pilot eind december afloopt. Wie nu met praktijkvoorbeelden komt, bepaalt mee hoe AI vanaf januari in de begeleiding landt.\n\nDat was AI in een paar minuten, de woensdag-editie. Dank u voor het luisteren. Morgen om acht uur weer, met het belangrijkste AI-nieuws van de dag."
+    },
     {
       "id": "2026-11-10",
       "date": "2026-11-10",
