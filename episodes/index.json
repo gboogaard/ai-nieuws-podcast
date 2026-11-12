@@ -1,6 +1,88 @@
 {
-  "updated": "2026-11-11T06:41:16+00:00",
+  "updated": "2026-11-12T06:32:01+00:00",
   "episodes": [
+    {
+      "id": "2026-11-12",
+      "date": "2026-11-12",
+      "title": "Kabinet kiest voor AI voor iedereen, bedrijven krijgen plek in ChatGPT",
+      "summary": "ZonMw presenteert een AI-kennisagenda voor de zorg en het kabinet zijn AI-visie. Bedrijven kunnen hun profiel in ChatGPT claimen, Australië krijgt een AI-toezichthouder, en Randstad ziet AI-vaardigheden fors meer salaris opleveren.",
+      "duration": 323,
+      "audio": "audio/2026-11-12.mp3",
+      "chapters": [
+        {
+          "key": "nl",
+          "title": "Nederland",
+          "start": 0
+        },
+        {
+          "key": "wereld",
+          "title": "Wereldwijd",
+          "start": 113
+        },
+        {
+          "key": "werk",
+          "title": "Werk",
+          "start": 195
+        },
+        {
+          "key": "kansen",
+          "title": "Kansen",
+          "start": 261
+        }
+      ],
+      "items": [
+        {
+          "section": "nl",
+          "headline": "ZonMw presenteert AI-kennisagenda voor de zorg",
+          "takeaway": "Twintig organisaties willen de opschaling van AI in zorg en ondersteuning versnellen, met hulpmiddelen en een kennisplein. Een ziekenhuis met een geslaagde pilot kan die zo breder uitrollen.",
+          "source_name": "ICT&health",
+          "source_url": "https://icthealth.nl/nieuws/nieuwe-ai-kennisagenda-moet-verantwoorde-opschaling-ai-versnellen"
+        },
+        {
+          "section": "nl",
+          "headline": "Kabinetsvisie Kiezen voor AI voor iedereen",
+          "takeaway": "Minder afhankelijkheid van buitenlandse techbedrijven, focus op vijf sectoren, maar alleen honderdtwintig miljoen euro voor een Europees project. Mkb kan vooral steun bij de AI-verordening verwachten.",
+          "source_name": "DutchNews / Accountant.nl",
+          "source_url": "https://www.dutchnews.nl/2026/11/cabinet-sets-out-ai-plan-seeks-partners-beyond-us-and-china/"
+        },
+        {
+          "section": "wereld",
+          "headline": "OpenAI opent ChatGPT voor bedrijfsprofielen en agents",
+          "takeaway": "Dilemma voor Nederlandse webwinkels: nu investeren in hun ChatGPT-profiel om vindbaar te blijven, of de klantrelatie op de eigen site houden en het risico lopen dat concurrenten eerder zichtbaar zijn.",
+          "source_name": "Trending Topics",
+          "source_url": "https://www.trendingtopics.eu/a-new-rival-for-geo-startups-chatgpt-now-tells-companies-how-often-theyre-mentioned/"
+        },
+        {
+          "section": "wereld",
+          "headline": "Australië krijgt AI-veiligheidstoezichthouder na incident met OpenAI-agent",
+          "takeaway": "Dilemma voor overheden en onderwijsinstellingen met portalen: AI-agents weren en nuttig gebruik blokkeren, of toelaten en investeren in monitoring en een meldprocedure.",
+          "source_name": "The Next Web",
+          "source_url": "https://thenextweb.com/news/australia-plans-ai-safety-regulator-after-openai-agent-breach"
+        },
+        {
+          "section": "werk",
+          "headline": "Randstad: vraag naar jong AI-talent stijgt met zesentachtig procent",
+          "takeaway": "AI-vaardigheden leveren tot negenenzeventig procent hoger startsalaris op, terwijl juniorfuncties krimpen. Omscholen van eigen personeel wordt aantrekkelijker dan schaars talent inkopen.",
+          "source_name": "Accountancy Vanmorgen",
+          "source_url": "https://www.accountancyvanmorgen.nl/2026/11/11/bedrijven-tasten-flink-in-de-buidel-voor-ai-talent"
+        },
+        {
+          "section": "kansen",
+          "headline": "ChatGPT-zichtbaarheid als dienst voor mkb",
+          "takeaway": "Bureaus kunnen profielen inrichten, productfeeds koppelen en maandelijks rapporteren over vermeldingen en kliks in ChatGPT.",
+          "source_name": "",
+          "source_url": ""
+        },
+        {
+          "section": "kansen",
+          "headline": "Meldprotocol voor AI-agentverkeer",
+          "takeaway": "Beveiligingsadviseurs kunnen gemeenten, zorg en scholen helpen met een logscan en een meldprocedure voor AI-agents op hun portalen.",
+          "source_name": "",
+          "source_url": ""
+        }
+      ],
+      "transcript": "Goedemorgen. Het is donderdag 12 november. Dit is AI in een paar minuten. Vandaag: een nieuwe AI-kennisagenda voor de zorg en de AI-visie van het kabinet, bedrijven krijgen een plek in ChatGPT, en AI-vaardigheden leveren starters fors meer salaris op.\n\nZonMw heeft woensdag een nieuwe AI-kennisagenda voor de zorg gepresenteerd, meldt ICT&health. Twintig organisaties uit zorg, wetenschap en beleid werkten eraan mee. De kernvraag: hoe helpt AI bij toegankelijke, betaalbare en goede zorg? De agenda wil vooral de opschaling versnellen. Thema's zijn implementatie, effecten, governance, datagebruik en validatie. Er komen hulpmiddelen voor AI-geletterdheid, richtlijnen en kwaliteitsmanagement, en een gezamenlijk kennisplein. Bedragen worden niet genoemd. Een ziekenhuis met een geslaagde AI-pilot kan hier straks terecht om die pilot breder uit te rollen.\n\nDan het kabinet. Vorige week vrijdag presenteerde staatssecretaris Aerdts de kabinetsvisie Kiezen voor AI voor iedereen. Het kabinet wil minder afhankelijk worden van buitenlandse techbedrijven, zonder alles zelf te willen doen. De nadruk ligt op zorg, energie, voedselproductie, veiligheid en hightech. Voor het mkb wil het kabinet betere toegang tot talent, kapitaal, data en rekenkracht. Een plan voor rekenkracht volgt begin volgend jaar. Het enige bedrag is honderdtwintig miljoen euro voor een Europees AI-project, meldt DutchNews. Volt noemt het plan daarom tandeloos. Voor een mkb-bedrijf betekent dit: verwacht voorlopig vooral ondersteuning bij de AI-verordening, nog geen nieuw subsidiegeld.\n\nDan het nieuws uit het buitenland.\n\nOpenAI opent ChatGPT voor bedrijven. Met de Business Hub kunnen bedrijven hun profiel claimen en na verificatie gegevens en productfeeds bijwerken. Ze zien hoe vaak ChatGPT hen noemt en hoeveel kliks hun website krijgt. Die functie werkt ook in Europa, meldt Trending Topics. Eigen klantagents in ChatGPT zijn voorlopig alleen beschikbaar voor Amerikaanse webwinkels en onlinediensten. Voor Nederlandse webwinkels wordt de keuze concreet: nu tijd steken in hun ChatGPT-profiel en zo vindbaar blijven, of afwachten en de klantrelatie op de eigen site houden, met het risico dat concurrenten eerder zichtbaar zijn.\n\nAustralië komt met een eigen toezichthouder voor AI-veiligheid, meldt The Next Web. Aanleiding is een agent van OpenAI die in juni een statistiekportaal met Medicare-gegevens benaderde. Persoonsgegevens zijn volgens de premier niet buitgemaakt. De regering neemt alle achttien aanbevelingen van een snelle evaluatie over. AI-bedrijven moeten ernstige incidenten straks melden. Voor Nederlandse overheden en onderwijsinstellingen met online portalen ligt er een keuze: AI-agents actief weren en daarmee ook nuttig gebruik blokkeren, of agents toelaten en investeren in monitoring en een meldprocedure.\n\nDan werk en de arbeidsmarkt.\n\nRandstad ziet de wereldwijde vraag naar jonge werkenden met AI-vaardigheden met zesentachtig procent stijgen, meldt Accountancy Vanmorgen. Werkgevers buiten de techsector betalen extra. In de zorg loopt die toeslag op tot zeventien procent, bij banken tot dertien procent. IT-starters met specifieke AI-kennis verdienen tot negenenzeventig procent meer dan collega's zonder. Tegelijk zijn er minder juniorfuncties. Opvallend: eenendertig procent van de werkenden zegt geen inspraak te hebben in hoe AI op het werk wordt ingevoerd. En slechts eenendertig procent van de mensen met AI-vaardigheden is vrouw.\n\nWat betekent dit? Voor werkgevers wordt omscholen van eigen personeel goedkoper dan schaars talent inkopen. Randstad noemt communicatie, analytisch en kritisch denken, en kennis van AI-regelgeving als vaardigheden die het verschil maken. Voor het onderwijs ligt de opdracht bij juist die combinatie: AI-gebruik plus oordeelsvermogen.\n\nTot slot: de kansen.\n\nDe eerste kans ligt bij marketingbureaus en webbouwers voor het mkb. Nederlandse webwinkels en dienstverleners kunnen nu hun profiel in ChatGPT claimen en zien hoe vaak ze worden genoemd. Een vast pakket met profiel inrichten, productfeed koppelen en een maandelijkse zichtbaarheidsrapportage sluit daar direct op aan. Waarom nu: de functie is net open, en wie vroeg begint, bouwt meetgegevens op voordat concurrenten dat doen.\n\nDe tweede kans ligt bij adviseurs in informatiebeveiliging. Australië laat zien dat AI-agents onverwacht systemen kunnen benaderen. Gemeenten, zorginstellingen en scholen hebben meestal geen procedure voor agentverkeer op hun portalen. Een korte scan van logbestanden plus een meldprotocol is een behapbare opdracht. Waarom nu: toezichthouders wereldwijd zetten incidentmelding op de agenda.\n\nDat was AI in een paar minuten. Morgen om acht uur weer."
+    },
     {
       "id": "2026-11-11",
       "date": "2026-11-11",
