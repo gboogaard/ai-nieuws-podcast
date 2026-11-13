@@ -1,6 +1,95 @@
 {
-  "updated": "2026-11-12T06:32:01+00:00",
+  "updated": "2026-11-13T06:31:38+00:00",
   "episodes": [
+    {
+      "id": "2026-11-13",
+      "date": "2026-11-13",
+      "title": "Nvidia-topman Huang stapt op, kinderen vertrouwen AI hun vragen toe",
+      "summary": "Jensen Huang vertrekt bij Nvidia en het nieuwe gebruiksbeleid van Anthropic gaat in. In Nederland: kinderen stellen AI vragen die ze mensen niet durven te stellen, en Dijsselbloem twijfelt aan de banengroei in Brainport. Plus het scenario van de week over zorg en hulpverlening.",
+      "duration": 369,
+      "audio": "audio/2026-11-13.mp3",
+      "chapters": [
+        {
+          "key": "nl",
+          "title": "Nederland",
+          "start": 0
+        },
+        {
+          "key": "wereld",
+          "title": "Wereldwijd",
+          "start": 101
+        },
+        {
+          "key": "werk",
+          "title": "Werk",
+          "start": 206
+        },
+        {
+          "key": "kansen",
+          "title": "Kansen",
+          "start": 306
+        }
+      ],
+      "items": [
+        {
+          "section": "nl",
+          "headline": "Kwart van kinderen stelt AI vragen die ze anders niet durven stellen",
+          "takeaway": "Onderzoek onder ruim 165.000 leerlingen: 26 procent in groep 7 en 8 stelt AI vragen die ze aan bekenden niet stellen; de Kindertelefoon krijgt wekelijks de vraag of kinderen met een mens of AI praten. Basisscholen kunnen het gesprek over chatbots een vaste plek in de lessen geven.",
+          "source_name": "ANP via Welingelichte Kringen",
+          "source_url": "https://www.welingelichtekringen.nl/samenleving/kwart-kinderen-stelt-ai-vragen-die-ze-anders-niet-durven-stellen"
+        },
+        {
+          "section": "nl",
+          "headline": "Dijsselbloem: AI kan deel van extra Brainport-banen overbodig maken",
+          "takeaway": "Op de AI Summit Brainport zei de Eindhovense burgemeester dat AI een deel van de verwachte 70.000 extra banen rond de chipindustrie overbodig kan maken. Dat raakt ook planning van wonen en onderwijs; technische mbo's doen er goed aan opleidingsaantallen niet alleen op de oude prognose te baseren.",
+          "source_name": "Studio040",
+          "source_url": "https://studio040.substack.com/p/daily-digest-from-eindhoven-thursday-d08"
+        },
+        {
+          "section": "wereld",
+          "headline": "Jensen Huang stapt op als topman van Nvidia",
+          "takeaway": "Huang vertrekt per direct; CFO Colette Kress is interim-CEO, het aandeel sloot ruim 4 procent lager. Dilemma voor Nederlandse inkopers van rekenkracht: volledig op Nvidia blijven bouwen met de beste software maar één leverancier in onrust, of spreiden over andere chipmakers met minder afhankelijkheid maar overstapkosten.",
+          "source_name": "Nvidia (SEC 8-K) en Yahoo Finance",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
+        },
+        {
+          "section": "wereld",
+          "headline": "Nieuw gebruiksbeleid Anthropic van kracht",
+          "takeaway": "Sinds 12 november moeten AI-adviezen over onder meer werk, onderwijs en zorg inhoudelijk door een deskundige worden beoordeeld en moet de betrokkene horen dat AI is gebruikt. Dilemma voor hogescholen en HR-afdelingen: elke AI-beoordeling laten nakijken en melden, wat tijd kost, of AI uit beoordelingsprocessen halen en de tijdwinst verliezen.",
+          "source_name": "Unite.AI / Agent Builders HQ",
+          "source_url": "https://www.unite.ai/anthropic-updates-usage-policy-adding-model-abuse-and-deception-rules/"
+        },
+        {
+          "section": "werk",
+          "headline": "Payscale: 61 procent van werkgevers herschrijft functies door AI",
+          "takeaway": "74 procent verwacht effect op personeelsaantallen, maar slechts 16 procent van werknemers kreeg meer loon na AI-scholing. Nederlandse werkgevers die functies herschrijven, kunnen ook vastleggen hoe AI-vaardigheid wordt beloond.",
+          "source_name": "Payscale via GlobeNewswire",
+          "source_url": "https://www.globenewswire.com/news-release/2026/11/10/3399638/0/en/payscale-s-ai-workforce-impact-report-ai-is-boosting-productivity-but-employers-struggle-to-put-a-price-on-it.html"
+        },
+        {
+          "section": "werk",
+          "headline": "Scenario: AI beantwoordt over vier jaar de eerste vragen in zorg en hulpverlening",
+          "takeaway": "Denkoefening: uitvraag, invoer en planning verdwijnen grotendeels, het gesprek bij twijfel en crisis blijft mensenwerk, toezicht op de chatbot is nieuw. Eerste stap: schrijf drie gesprekken op die altijd door een mens gevoerd moeten worden.",
+          "source_name": "",
+          "source_url": ""
+        },
+        {
+          "section": "kansen",
+          "headline": "Inrichten van menselijke controle op AI-adviezen",
+          "takeaway": "Voor adviseurs van scholen, hogescholen en HR: per proces vastleggen wie het AI-advies nakijkt en hoe de betrokkene wordt geïnformeerd. Waarom nu: het beleid van Anthropic geldt sinds 12 november.",
+          "source_name": "",
+          "source_url": ""
+        },
+        {
+          "section": "kansen",
+          "headline": "Ouderavond en lespakket over veilig chatbotgebruik",
+          "takeaway": "Voor trainers in mediawijsheid: aanbod voor basisscholen, aansluitend op het advies van Kindertelefoon en Unicef. Waarom nu: de cijfers zijn vers en scholen staan open voor het gesprek.",
+          "source_name": "",
+          "source_url": ""
+        }
+      ],
+      "transcript": "Goedemorgen. Het is vrijdag 13 november. Dit is AI in een paar minuten. Vandaag: Jensen Huang stapt op bij Nvidia, een kwart van de oudere basisschoolkinderen deelt geheime vragen met AI, en werkgevers herschrijven functies.\n\nEen kwart van de kinderen in groep zeven en acht stelt AI soms vragen die ze aan bekenden niet durven te stellen. Dat blijkt uit onderzoek van MediaMasters, Unicef Nederland en de Kindertelefoon, meldt het ANP. Ruim honderdvijfenzestigduizend leerlingen deden mee. De Kindertelefoon krijgt van kinderen van acht tot dertien jaar gemiddeld vijf keer per week de vraag of ze met een mens of met AI praten. Directeur Roline de Wilde noemt dat niet verrassend, maar wel zorgelijk. Unicef waarschuwt dat kinderen een chatbot te veel kunnen vertrouwen. De organisaties raden aan AI-gebruik thuis en in de klas te bespreken. Het onderzoek hoort bij de Week van de Mediawijsheid. Een basisschool kan het gesprek over chatbots nu een vaste plek geven in de lessen.\n\nIn Eindhoven sprak burgemeester Jeroen Dijsselbloem gisteren op de AI Summit Brainport. Volgens Studio zero veertig zei hij dat AI een deel van de zeventigduizend extra banen rond de chipindustrie overbodig kan maken. Dat telt, omdat de groeiplannen van de regio deels uitgaan van duizenden extra werknemers. Minder banen raakt ook de planning van woningen, onderwijs en infrastructuur. Een technisch mbo in de regio baseert opleidingsaantallen dan beter niet alleen op de oude groeiprognose.\n\nDan het nieuws uit het buitenland.\n\nJensen Huang is gisteren met directe ingang opgestapt als topman van Nvidia, de grootste leverancier van AI-chips. Dat staat in een melding aan de Amerikaanse beurswaakhond. Nvidia noemt geen reden. Volgens Amerikaanse media volgt het vertrek op beschuldigingen over affaires. Financieel directeur Colette Kress wordt tijdelijk topman. Het aandeel daalde tijdens de handel tot dertien procent en sloot ruim vier procent lager. Dinsdag publiceert Nvidia kwartaalcijfers. Voor Nederlandse organisaties die rekenkracht inkopen wordt de keuze scherper. Blijft u volledig op Nvidia-chips bouwen, dan houdt u de beste software, maar draagt u het risico van één leverancier in onrust. Spreidt u over andere chipmakers, dan bent u minder afhankelijk, maar kost de overstap tijd en ontwikkelcapaciteit.\n\nSinds gisteren geldt het nieuwe gebruiksbeleid van Anthropic, de maker van Claude. De regels voor zwaarwegende adviezen worden concreter. Het gaat onder meer om werk, onderwijs, zorg, krediet, verzekeringen en uitkeringen. Een deskundige moet zo'n AI-advies inhoudelijk beoordelen en kunnen wijzigen. De betrokkene moet horen dat AI is gebruikt. Er komen ook nieuwe regels tegen misleidende campagnes en nepaccounts. Voor hogescholen en HR-afdelingen die Claude gebruiken bij beoordelingen ligt er een dilemma. Zij kunnen elke AI-beoordeling laten nakijken en melden, wat docenten en recruiters tijd kost. Of zij halen AI uit die beoordelingsprocessen, en verliezen dan de tijdwinst.\n\nDan werk en de arbeidsmarkt.\n\nEenenzestig procent van de werkgevers herschrijft functieomschrijvingen vanwege AI. Dat meldt salarisonderzoeker Payscale in een Amerikaans rapport. Vierenzeventig procent verwacht dat AI binnen een jaar invloed heeft op personeelsaantallen of werving. Werknemers zien de tijdwinst beperkt. Eenenzestig procent zegt dat AI minder dan tien uur per week bespaart. Slechts zestien procent kreeg meer salaris na scholing in AI. Werkgevers en werknemers kijken hier verschillend naar. Drieëntachtig procent van de bestuurders zegt meer te betalen of te gaan betalen voor AI-vaardigheden. Bij HR-medewerkers is dat vierenvijftig procent. Voor Nederlandse werkgevers betekent dit: functiehuizen en loonschalen raken achter op het werk dat mensen echt doen. Wie nu functies herschrijft, kan beter ook vastleggen hoe AI-vaardigheid wordt beloond.\n\nTot slot het scenario van de week. Wat als AI over vier jaar de eerste vragen in zorg en hulpverlening beantwoordt? Een chatbot doet dan de eerste uitvraag bij huisarts, wijkteam of hulplijn. Het invoeren van gegevens en het plannen van afspraken verdwijnen grotendeels. Het gesprek bij twijfel, zorgen of crisis blijft mensenwerk. Nieuw is het toezicht op wat de chatbot doorstuurt en wat hij zelf afhandelt. De vraag van de Kindertelefoon, mens of AI, wordt dan een dagelijkse vraag. Welke gesprekken in uw werk moeten altijd door een mens worden gevoerd, en waarom? Een eerste stap: schrijf er deze week drie op en bespreek ze met uw team.\n\nTot slot: de kansen.\n\nDe eerste kans ligt bij adviseurs voor scholen, hogescholen en HR-afdelingen. Het nieuwe beleid van Anthropic vraagt menselijke beoordeling en openheid bij AI-adviezen over werk en onderwijs. De AI-verordening vraagt al langer om toezicht door mensen. Een kort traject dat per proces vastlegt wie het AI-advies nakijkt en hoe de betrokkene wordt geïnformeerd, is direct bruikbaar. Waarom nu: de regels gelden sinds gisteren.\n\nDe tweede kans is voor trainers in mediawijsheid. Uit het onderzoek blijkt dat kinderen chatbots vragen stellen die ze aan mensen niet stellen. Een ouderavond of lespakket voor basisscholen over veilig chatbotgebruik sluit aan bij het advies van de Kindertelefoon en Unicef. Waarom nu: de cijfers zijn vers, en wie nu een aanbod heeft, is er eerder bij dan anderen.\n\nDat was AI in een paar minuten. Fijn weekend. Zondag het weekoverzicht, maandag om acht uur weer het dagelijkse bulletin."
+    },
     {
       "id": "2026-11-12",
       "date": "2026-11-12",
