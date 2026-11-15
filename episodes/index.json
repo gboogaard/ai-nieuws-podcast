@@ -1,6 +1,116 @@
 {
-  "updated": "2026-11-13T06:31:38+00:00",
+  "updated": "2026-11-15T07:52:24+00:00",
   "episodes": [
+    {
+      "id": "2026-11-15",
+      "date": "2026-11-15",
+      "title": "Weekoverzicht: Europa praat over AI, het werk verandert al",
+      "summary": "EU-leiders voeren hun eerste AI-top, Nvidia verliest zijn topman, ChatGPT opent de deur voor bedrijven en Databricks investeert fors in Nederland. De rode draad: AI verandert vooral taken, en organisaties moeten het werk zelf herontwerpen.",
+      "duration": 317,
+      "audio": "audio/2026-11-15.mp3",
+      "chapters": [
+        {
+          "key": "week",
+          "title": "De week",
+          "start": 0
+        },
+        {
+          "key": "trend",
+          "title": "Rode draad",
+          "start": 140
+        },
+        {
+          "key": "uitproberen",
+          "title": "Probeer zelf",
+          "start": 212
+        },
+        {
+          "key": "vooruit",
+          "title": "Volgende week",
+          "start": 267
+        }
+      ],
+      "items": [
+        {
+          "section": "week",
+          "headline": "Eerste AI-top van EU-leiders in Dublin, nog zonder besluiten",
+          "takeaway": "Von der Leyen schat de benodigde investering voor technologische onafhankelijkheid op minstens 500 miljard euro; de Commissie komt met financieringsvoorstellen. AI keert terug op 5 februari 2027 en wordt centraal thema van de Sociale Top in 2027.",
+          "source_name": "EU Alive",
+          "source_url": "https://eualive.net/eu-leaders-hold-first-high-level-ai-talks-in-dublin/"
+        },
+        {
+          "section": "week",
+          "headline": "Jensen Huang stapt op bij Nvidia, Colette Kress interim-CEO",
+          "takeaway": "De belangrijkste leverancier van AI-chips zit in een leiderschapswissel; Nederlandse inkopers van rekenkracht doen er goed aan hun afhankelijkheid van één leverancier te herzien.",
+          "source_name": "Nvidia (SEC 8-K)",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
+        },
+        {
+          "section": "week",
+          "headline": "ChatGPT opent voor bedrijfsprofielen en krijgt in de VS een agent-portemonnee",
+          "takeaway": "Bedrijven kunnen sinds 10 november in bèta hun profiel claimen; de ChatGPT Wallet laat agents in de VS afrekenen na goedkeuring van de gebruiker. Webwinkels moeten nadenken over hun zichtbaarheid in chatbots.",
+          "source_name": "eesel; OpenAI via AI Frontier Daily",
+          "source_url": "https://www.eesel.ai/blog/how-to-claim-your-business-on-chatgpt"
+        },
+        {
+          "section": "week",
+          "headline": "Databricks investeert ruim vijfhonderd miljoen dollar in Nederland",
+          "takeaway": "Uitbreiding van het Amsterdamse R&D-centrum en verdubbeling van het personeel; meer concurrentie om datatalent.",
+          "source_name": "Computable",
+          "source_url": "https://www.computable.nl/2026/11/10/kort-google-lanceert-nieuwe-ai-chips-databricks-steekt-half-miljard-in-nederland-en-meer/"
+        },
+        {
+          "section": "week",
+          "headline": "Werk verandert sneller dan het verdwijnt",
+          "takeaway": "Gartner: per saldo 1,7 miljoen banen erbij tot 2030, maar ander werk voor ruim twintig procent; Payscale: 61 procent van werkgevers herschrijft functies; Randstad: vraag naar jong AI-talent plus 86 procent.",
+          "source_name": "Rockingrobots; Payscale; Accountancy Vanmorgen",
+          "source_url": "https://www.rockingrobots.nl/ai-levert-tegen-2030-netto-17-miljoen-banen-op/"
+        },
+        {
+          "section": "trend",
+          "headline": "Rode draad: van AI-gebruik naar herontwerp van werk",
+          "takeaway": "Functies worden herschreven, cao's nemen AI op en menselijke controle op AI-adviezen wordt eis. Organisaties moeten per proces vastleggen wat AI doet en wie verantwoordelijk blijft.",
+          "source_name": "Payscale via GlobeNewswire",
+          "source_url": "https://www.globenewswire.com/news-release/2026/11/10/3399638/0/en/payscale-s-ai-workforce-impact-report-ai-is-boosting-productivity-but-employers-struggle-to-put-a-price-on-it.html"
+        },
+        {
+          "section": "uitproberen",
+          "headline": "Probeer Gemini 4 Hydrogen in de gratis Gemini-app",
+          "takeaway": "Wereldwijd uitgerold; gratis gebruikers krijgen het via automatische modelkeuze bij zwaardere vragen. Test een meerstapsopdracht met openbare informatie, geen vertrouwelijke gegevens.",
+          "source_name": "AI Wereld; Notebookcheck",
+          "source_url": "https://aiwereld.nl/nieuws/goedemorgen-ai-nieuwe-gemini-maar-wie-bouwt-de-rekenkracht"
+        },
+        {
+          "section": "vooruit",
+          "headline": "Watt Matters in AI, 16 en 17 november, Eindhoven",
+          "takeaway": "Tweedaagse conferentie op de High Tech Campus over energie-efficiënte AI.",
+          "source_name": "IO+",
+          "source_url": "https://ioplus.nl/nl/posts/de-io-week-watt-matters-in-ai-keert-terug---groter-en-urgenter"
+        },
+        {
+          "section": "vooruit",
+          "headline": "Emerce AI Live, 17 november, Rotterdam",
+          "takeaway": "Eendaags AI-evenement van Emerce.",
+          "source_name": "AgendAI",
+          "source_url": "https://agendai.nl/"
+        },
+        {
+          "section": "vooruit",
+          "headline": "Nvidia-kwartaalcijfers op 17 november",
+          "takeaway": "Eerste cijfers onder interim-CEO Colette Kress.",
+          "source_name": "Nvidia",
+          "source_url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/"
+        },
+        {
+          "section": "vooruit",
+          "headline": "Beursgang Anthropic op 19 november",
+          "takeaway": "Notering aan de Nasdaq onder ANT; tot 64,4 miljard dollar uit de openbare aanbieding.",
+          "source_name": "The Next Web",
+          "source_url": "https://thenextweb.com/news/anthropic-ipo-terms-1-4-trillion-valuation"
+        }
+      ],
+      "transcript": "Goedemorgen. Het is zondag 15 november. Dit is het weekoverzicht van AI in een paar minuten. De rode draad van deze week: AI verandert vooral taken, niet hele banen, en organisaties moeten nu zelf bepalen hoe het werk eruit gaat zien.\n\nEerst de week in vijf berichten.\n\nHet eerste bericht: de Europese regeringsleiders spraken vrijdag in Dublin voor het eerst uitgebreid over AI. Commissievoorzitter Von der Leyen schat dat Europa minstens vijfhonderd miljard euro nodig heeft voor technologische onafhankelijkheid. Ook Mistral-topman Arthur Mensch en Nobelprijswinnaar Geoffrey Hinton schoven aan. Er vielen geen besluiten. Op 5 februari staat AI opnieuw op de agenda van de leiders.\n\nHet tweede bericht: Jensen Huang stapte vrijdag per direct op als topman van Nvidia. Financieel directeur Colette Kress neemt het tijdelijk over. Het aandeel sloot ruim vier procent lager. Nvidia levert de meeste chips voor AI-rekencentra. Onrust aan de top raakt dus ook Nederlandse kopers van rekenkracht.\n\nHet derde bericht: ChatGPT wordt een winkelstraat. OpenAI laat bedrijven sinds dinsdag hun profiel in ChatGPT claimen, als test. Vrijdag volgde in de Verenigde Staten een digitale portemonnee, waarmee agents zelf aankopen afrekenen. De gebruiker keurt elke betaling goed. Voor webwinkels verschuift de vindbaarheid zo deels van de zoekmachine naar de chatbot.\n\nHet vierde bericht: Databricks investeert ruim vijfhonderd miljoen dollar in Nederland, meldt Computable. Het Amerikaanse databedrijf breidt zijn ontwikkelcentrum in Amsterdam uit en verdubbelt het personeel hier. Vóór 2030 wil het bedrijf meer dan veertigduizend mensen opleiden. Dat is goed voor de kenniseconomie, maar maakt de strijd om datatalent heviger.\n\nHet vijfde bericht: het werk verandert sneller dan het verdwijnt. Gartner verwacht tot 2030 per saldo meer banen door AI, maar bij ruim een vijfde van de werkenden verandert het werk. Volgens Payscale herschrijft eenenzestig procent van de werkgevers functies door AI. En Randstad ziet de vraag naar jong AI-talent met zesentachtig procent stijgen.\n\nDan de rode draad.\n\nDeze week kwam steeds dezelfde boodschap terug: AI vervangt niet zozeer banen, maar verandert wat mensen op een dag doen. Werkgevers herschrijven functies. Qantas schrapt achthonderdvijftig kantoorbanen en combineert uitbesteding met AI. Werkgevers en bonden in de metaal en techniek zetten AI en scholing op de cao-agenda. En sinds 12 november eist Anthropic dat AI-adviezen over werk, onderwijs en zorg door een deskundige worden beoordeeld.\n\nWat betekent dat de komende maanden? Voor organisaties: wacht niet tot een leverancier of regel de keuze maakt. Begin klein, met één proces dat veel tijd kost. Bepaal welke taken AI doet, wie het resultaat controleert en wie verantwoordelijk blijft.\n\nVoor werkenden: AI-vaardigheid levert meer op, maar volgens Payscale kreeg slechts zestien procent na scholing meer loon. Maak dat bespreekbaar.\n\nEn voor het onderwijs: de Kamer vraagt een landelijke AI-strategie voor mbo en hoger onderwijs. Scholen die nu al werken met heldere afspraken over wat mag, lopen voor.\n\nProbeer dit zelf.\n\nGoogle brengt deze week Gemini 4 Hydrogen uit, een sneller model dat meerdere stappen na elkaar kan uitvoeren. Het wordt wereldwijd uitgerold in de Gemini-app, in Google Zoeken en voor ontwikkelaars.\n\nU begint in de gratis Gemini-app of op de website. Laat de automatische modelkeuze aanstaan, want gratis gebruikers krijgen Hydrogen alleen bij vragen die meer denkwerk vragen. Geef een opdracht in stappen, bijvoorbeeld: vat dit openbare rapport samen, haal er drie actiepunten uit en zet ze in een tabel. Via de denkstappen onder het antwoord ziet u welk model antwoordde.\n\nLet op twee dingen. De verbeteringen komen voorlopig uit tests van Google zelf, dus vergelijk het resultaat met wat u nu gebruikt. En zet geen vertrouwelijke klant- of personeelsgegevens in een gratis dienst.\n\nTot slot: wat staat er volgende week op de agenda?\n\nMaandag en dinsdag is op de High Tech Campus in Eindhoven de conferentie Watt Matters in AI, over energiezuinige AI en netcongestie.\n\nDinsdag 17 november is in Rotterdam Emerce AI Live. Dezelfde dag presenteert Nvidia zijn kwartaalcijfers, de eerste onder interim-topvrouw Kress.\n\nDonderdag 19 november gaat Anthropic naar de Nasdaq. Het is een van de grootste beursgangen ooit: het bedrijf wil tot vierenzestig miljard dollar ophalen.\n\nEn verder vooruit: op 5 februari spreken de Europese leiders opnieuw over AI.\n\nDat was het weekoverzicht van AI in een paar minuten. Morgen om acht uur weer het dagelijkse bulletin, met het nieuws sinds vrijdag."
+    },
     {
       "id": "2026-11-13",
       "date": "2026-11-13",
