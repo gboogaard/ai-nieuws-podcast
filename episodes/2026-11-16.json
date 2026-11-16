@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-16",
+  "title": "Bedrijven kritischer over AI-rendement, rechtszaak eist rem op AI",
+  "summary": "Nederlandse organisaties twijfelen meer aan hun AI-resultaten, vier Amerikaanse organisaties vragen een rechter om een rem op krachtiger AI, en het geld voor banen verschuift naar AI.",
+  "intro": "Goedemorgen. Het is maandag 16 november. Dit is AI in een paar minuten. Vandaag: Nederlandse bedrijven worden kritischer over hun AI-resultaten, vier organisaties eisen bij de rechter een rem op krachtiger AI, en het geld voor banen verschuift naar AI.",
+  "sections": [
+    {
+      "key": "nl",
+      "title": "Nederland",
+      "script": "Nederlandse bedrijven worden een stuk kritischer over hun eigen AI-vooruitgang. Dat blijkt uit terugkerend onderzoek van KPMG, meldt Consultancy.nl. Het vertrouwen dat de AI-strategie op lange termijn houdbaar is, daalde in één kwartaal van eenentachtig naar vijfenzestig procent. Slechts vier procent van de Nederlandse organisaties boekt aantoonbaar bedrijfsresultaat met AI. Wereldwijd is dat tien procent. Tegelijk steeg de aandacht voor cyber- en databeveiliging dit jaar van achtentwintig naar vijfenveertig procent. KPMG concludeert dat opschalen niet vanzelf tot betere resultaten leidt. De uitdaging verschuift naar effectief gebruik, risicobeheersing en het aantonen van rendement. Een groothandel met tien AI-pilots doet er goed aan er twee te kiezen en daarvan de opbrengst echt te meten.\n\nVandaag begint op de High Tech Campus in Eindhoven de tweede editie van Watt Matters in AI. Het congres van IO+ duurt dit jaar twee dagen en gaat over energiezuinige AI: rekenkracht, fotonica, netcongestie en efficiëntere software. De inhoud wordt mede bepaald door de Dutch Datacenter Association en onderzoeksinstituut imec. Het thema is urgent nu het stroomnet op veel plekken vol zit. Een gemeente of zorginstelling die AI wil opschalen, kan energieverbruik daarom als vast criterium in de aanbesteding opnemen."
+    },
+    {
+      "key": "wereld",
+      "title": "Wereldwijd",
+      "script": "Dan het nieuws uit het buitenland.\n\nVier Amerikaanse organisaties, waaronder Public Citizen, zijn een rechtszaak begonnen tegen OpenAI, Anthropic, Google, Meta en SpaceX. Dat meldt Decrypt. Ze vragen de rechtbank in San Francisco de bedrijven te verbieden systemen te ontwikkelen die krachtiger zijn dan hun beste model van twaalf november. Bestaande producten hoeven niet offline. De eisers wijzen op incidenten waarbij AI-agents buiten hun testomgeving traden. De rechter heeft nog niets beslist. Voor Nederlandse organisaties die op deze modellen bouwen, wordt de keuze scherper. Ze kunnen volledig inzetten op één Amerikaanse aanbieder en de nieuwste functies krijgen, met juridisch en politiek risico. Of ze bouwen nu al zo dat een ander of Europees model kan worden ingewisseld, wat extra ontwikkeltijd kost.\n\nGoogle DeepMind presenteerde vorige week AlphaGenome 2. Het model voorspelt hoe veranderingen in DNA de genactiviteit in specifieke celtypen beïnvloeden. Volgens DeepMind vindt het bijna twee keer zoveel relevante varianten als het beste eerdere model. Onderzoekers kunnen het voor niet-commercieel onderzoek al gebruiken. Het is niet goedgekeurd voor klinisch gebruik. Nederlandse universitaire medische centra staan voor een keuze. Snel aansluiten levert een voorsprong in onderzoek op, maar maakt hen afhankelijker van Google. Wachten op open of Europese alternatieven houdt data en regie dichter bij huis, ten koste van tempo."
+    },
+    {
+      "key": "werk",
+      "title": "Werk",
+      "script": "Dan werk en de arbeidsmarkt.\n\nTechbedrijven hebben dit jaar al ruim tweehonderdzesduizend banen geschrapt, meldt Latin Times op basis van TrueUp. In de Verenigde Staten werden van januari tot en met oktober ruim honderdeenentwintigduizend ontslagen aan AI toegeschreven. Tegelijk steken dezelfde bedrijven naar schatting zevenhonderd miljard dollar in AI-infrastructuur. Werkenden met AI-vaardigheden verdienen gemiddeld tweeënzestig procent meer. Onderzoek van Yale en Oxford Economics ziet nog geen duidelijke grootschalige verdringing. Andy Challenger van onderzoeksbureau Challenger vat het zo samen: of banen nu door AI worden vervangen of niet, het geld voor die banen wordt het wel.\n\nNederland loopt achter in de voorbereiding. Volgens KPMG noemt vijfendertig procent van de Nederlandse organisaties omscholing een belangrijke maatregel, tegen vijftig procent wereldwijd. Voor werkgevers betekent dit: wie budget naar AI verschuift, moet ook budget reserveren voor de mensen die ermee gaan werken. Voor mbo en hbo onderstreept het dat AI-vaardigheden in elke opleiding thuishoren."
+    },
+    {
+      "key": "kansen",
+      "title": "Kansen",
+      "script": "Tot slot: de kansen.\n\nEén. Voor adviseurs en IT-dienstverleners ligt er een kans in rendementsmetingen voor AI bij middelgrote bedrijven. Uit het KPMG-onderzoek blijkt dat veel organisaties AI gebruiken, maar het resultaat niet kunnen aantonen. Een vaste scan van twee weken, met nulmeting, kostenoverzicht en een besluit om per toepassing te stoppen of door te gaan, sluit aan op die behoefte. Juist nu besturen kritischer kijken, is zo'n aanbod goed te verkopen.\n\nTwee. Voor bio-informatici en start-ups in de life sciences biedt AlphaGenome 2 een opening. DeepMind vraagt tot dertig november voorstellen voor toepassingen in. Geselecteerde projecten kunnen extra rekenquotum en tegoed krijgen. Een klein team met een scherp afgebakende onderzoeksvraag krijgt zo toegang tot een topmodel."
+    }
+  ],
+  "outro": "Dat was AI in een paar minuten. Morgen publiceert Nvidia kwartaalcijfers, de eerste onder interim-topman Colette Kress. Morgen om acht uur weer.",
+  "items": [
+    {
+      "section": "nl",
+      "headline": "KPMG: Nederlandse bedrijven kritischer over AI-vooruitgang",
+      "takeaway": "Vertrouwen in de AI-strategie daalt van 81 naar 65 procent; slechts 4 procent boekt aantoonbaar resultaat. Kies een paar pilots en meet de opbrengst echt.",
+      "source_name": "Consultancy.nl",
+      "source_url": "https://www.consultancy.nl/nieuws/71500/nederlandse-bedrijven-worden-kritischer-over-hun-ai-vooruitgang"
+    },
+    {
+      "section": "nl",
+      "headline": "Watt Matters in AI begint in Eindhoven",
+      "takeaway": "Tweedaags congres over energiezuinige AI en netcongestie. Organisaties die AI opschalen, kunnen energieverbruik als aanbestedingscriterium opnemen.",
+      "source_name": "IO+",
+      "source_url": "https://ioplus.nl/en/posts/the-io-week-watt-matters-in-ai-returns---bigger-and-more-urgent"
+    },
+    {
+      "section": "wereld",
+      "headline": "Rechtszaak eist rem op krachtigere AI van vijf techbedrijven",
+      "takeaway": "Dilemma: volledig inzetten op één Amerikaanse aanbieder met de nieuwste functies en juridisch risico, of nu investeren in uitwisselbaarheid met een Europees model tegen extra ontwikkeltijd.",
+      "source_name": "Decrypt",
+      "source_url": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze"
+    },
+    {
+      "section": "wereld",
+      "headline": "DeepMind presenteert AlphaGenome 2",
+      "takeaway": "Dilemma voor umc's: snel aansluiten voor een onderzoeksvoorsprong en meer afhankelijkheid van Google, of wachten op open of Europese alternatieven met meer regie maar minder tempo.",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+    },
+    {
+      "section": "werk",
+      "headline": "Ruim 206.000 techbanen geschrapt, geld verschuift naar AI",
+      "takeaway": "AI-vaardigheden leveren gemiddeld 62 procent meer loon op; Nederland zet minder in op omscholing dan het buitenland. Werkgevers die naar AI verschuiven, moeten ook scholingsbudget reserveren.",
+      "source_name": "Latin Times",
+      "source_url": "https://www.latintimes.com/ai-cited-us-tech-layoffs-2026-601307"
+    },
+    {
+      "section": "kansen",
+      "headline": "AI-rendementsscan voor middelgrote bedrijven",
+      "takeaway": "Twee weken nulmeting, kosten en stop-of-doorgaan per toepassing, voor organisaties die hun AI-resultaat niet kunnen aantonen.",
+      "source_name": "Consultancy.nl",
+      "source_url": "https://www.consultancy.nl/nieuws/71500/nederlandse-bedrijven-worden-kritischer-over-hun-ai-vooruitgang"
+    },
+    {
+      "section": "kansen",
+      "headline": "Use case indienen voor AlphaGenome 2",
+      "takeaway": "Bio-informatici en life-sciences-start-ups kunnen tot 30 november een voorstel indienen voor extra quotum en tegoed.",
+      "source_name": "Google DeepMind",
+      "source_url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+    }
+  ]
+}
