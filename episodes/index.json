@@ -1,6 +1,133 @@
 {
-  "updated": "2026-11-17T06:26:45+00:00",
+  "updated": "2026-11-18T06:35:54+00:00",
   "episodes": [
+    {
+      "id": "2026-11-18",
+      "date": "2026-11-18",
+      "title": "AI-agent hackt zelfstandig, SURF opent AI-omgeving voor het onderwijs",
+      "summary": "Google ziet de eerste volledig zelfstandige cyberaanval door een AI-agent, onderzoekers vinden het Europese cloud- en AI-plan te zwak, en SURF AI met eduGenAI start in januari. Plus de woensdagblokken onderwijs en jouw kansen.",
+      "duration": 518,
+      "audio": null,
+      "chapters": [
+        {
+          "key": "nl",
+          "title": "Nederland",
+          "start": 0
+        },
+        {
+          "key": "wereld",
+          "title": "Wereldwijd",
+          "start": 97
+        },
+        {
+          "key": "werk",
+          "title": "Werk",
+          "start": 184
+        },
+        {
+          "key": "onderwijs",
+          "title": "Onderwijs",
+          "start": 243
+        },
+        {
+          "key": "kansen",
+          "title": "Kansen",
+          "start": 344
+        },
+        {
+          "key": "persoonlijk",
+          "title": "Kansen",
+          "start": 393
+        }
+      ],
+      "items": [
+        {
+          "section": "nl",
+          "headline": "UvA-onderzoekers: Europees cloud- en AI-plan beschermt digitale autonomie onvoldoende",
+          "takeaway": "Volgens het IViR kan de Cloud and AI Development Act overheden zelfs hinderen bij een bewuste keuze voor een Europese aanbieder. Gemeenten doen er goed aan hun eigen autonomie-eisen nu vast te leggen.",
+          "source_name": "Computable",
+          "source_url": "https://computable.nl/2026/11/17/uva-onderzoekers-kritisch-op-eu-voorstel-digitale-autonomie"
+        },
+        {
+          "section": "nl",
+          "headline": "Google zet Gemini in afgeschermde Europese cloud, in Nederland met Thales",
+          "takeaway": "Organisaties kunnen AI-modellen binnen hun eigen regio draaien en DORA-naleving makkelijker aantonen. De technologie blijft wel van Google.",
+          "source_name": "Computable",
+          "source_url": "https://www.computable.nl/2026/11/17/kort-google-breidt-soevereine-eu-cloud-uit-topambtenaar-amsterdam-taait-af-ondanks-ict-crisis-en-meer/"
+        },
+        {
+          "section": "wereld",
+          "headline": "Google ziet eerste volledig zelfstandige cyberaanval door AI-agent",
+          "takeaway": "Een AI-agent maakte zonder menselijke hulp een aanval uit een beveiligingsupdate. Dilemma: updates direct automatisch installeren met kans op uitval, of eerst testen en aanvallers een open venster geven.",
+          "source_name": "Digit",
+          "source_url": "https://www.digit.fyi/google-observes-first-fully-autonomous-cyber-attack/"
+        },
+        {
+          "section": "wereld",
+          "headline": "OpenAI geeft vijftigduizend gratis ChatGPT-abonnementen aan onderzoekers",
+          "takeaway": "Aanmelden vanaf 23 november, wie het eerst komt. Dilemma voor universiteiten en hogescholen: gratis en snel via een Amerikaanse aanbieder, of wachten op SURF AI met meer regie over data.",
+          "source_name": "The Next Web",
+          "source_url": "https://thenextweb.com/news/openai-chatgpt-academic-researchers-50000-grants-plus"
+        },
+        {
+          "section": "werk",
+          "headline": "Goldman Sachs: golf van AI-ontslagen uitgesteld, niet afgeblazen",
+          "takeaway": "Nog één jaar weinig aannames en weinig ontslagen; daarna meer verdringing, vooral bij economische tegenwind. Werkgevers kunnen de krappe markt nu benutten voor omscholing.",
+          "source_name": "Fortune",
+          "source_url": "https://fortune.com/2026/11/16/why-no-ai-layoff-wave-goldman-sachs-outlook-recession-jobs/"
+        },
+        {
+          "section": "werk",
+          "headline": "Nabu automatiseert negentig procent van antiwitwascontroles met AI-agents",
+          "takeaway": "Het Gentse bedrijf breidt uit naar Nederland; een mens neemt de eindbeslissing. Een voorbeeld van hoe taken verschuiven naar controle en oordeel.",
+          "source_name": "Computable",
+          "source_url": "https://www.computable.nl/2026/11/17/kort-google-breidt-soevereine-eu-cloud-uit-topambtenaar-amsterdam-taait-af-ondanks-ict-crisis-en-meer/"
+        },
+        {
+          "section": "onderwijs",
+          "headline": "SURF AI met eduGenAI vanaf januari voor mbo, hbo en wo",
+          "takeaway": "Eén veilige AI-omgeving voor het hele onderwijs verkleint de kloof tussen studenten met en zonder betaald abonnement. Trainingsmateriaal is vrij te gebruiken.",
+          "source_name": "Npuls",
+          "source_url": "https://npuls.nl/nieuws/surf-ai-binnenkort-beschikbaar-voor-onderwijs-en-onderzoek"
+        },
+        {
+          "section": "onderwijs",
+          "headline": "Zuid-Korea controleert examenbrillen na AI-fraude door topkandidaat",
+          "takeaway": "Ook de Engelse toezichthouder noemt AI-detectie onbetrouwbaar. Toetsing verschuift naar het volgen van het leerproces, met de docent als coach.",
+          "source_name": "The Next Web",
+          "source_url": "https://thenextweb.com/news/south-korea-ai-cheating-college-exam-glasses"
+        },
+        {
+          "section": "kansen",
+          "headline": "Versneld patchbeheer voor mkb",
+          "takeaway": "Een abonnement dat updates voor internetservers snel test en installeert, sluit aan op AI-aanvallen die bekende lekken razendsnel misbruiken.",
+          "source_name": "",
+          "source_url": ""
+        },
+        {
+          "section": "kansen",
+          "headline": "Autonomie-eisen voor AI- en cloudaanbestedingen",
+          "takeaway": "Een kort traject dat per toepassing risiconiveau, datalocatie en een Europees alternatief vastlegt, helpt overheden en zorginstellingen bij hun volgende aanbesteding.",
+          "source_name": "",
+          "source_url": ""
+        },
+        {
+          "section": "persoonlijk",
+          "headline": "Workshop Veilig onderzoeken met ChatGPT voor lectoraten",
+          "takeaway": "Acht uur werk, één betaalde sessie dekt de investering. Aanmelding voor de OpenAI-abonnementen opent op 23 november.",
+          "source_name": "",
+          "source_url": ""
+        },
+        {
+          "section": "persoonlijk",
+          "headline": "Overstap naar SURF AI voorbereiden voor het team",
+          "takeaway": "Vier uur werk met bestaand trainingsmateriaal; klaar voor de start in januari, voordat december door de feestdagen kort wordt.",
+          "source_name": "",
+          "source_url": ""
+        }
+      ],
+      "transcript": "Goedemorgen. Het is woensdag 18 november. Dit is AI in een paar minuten. Vandaag: Google ziet een eerste volledig zelfstandige cyberaanval door een AI-agent, Amsterdamse onderzoekers vinden het Europese cloudplan te zwak, en SURF opent in januari een eigen AI-omgeving voor het hele onderwijs.\n\nOnderzoekers van het Instituut voor Informatierecht van de Universiteit van Amsterdam zijn kritisch over de Cloud and AI Development Act. Dat meldt Computable. Daarmee wil de Europese Commissie de Europese cloud- en AI-sector versterken en de afhankelijkheid van Amerikaanse aanbieders verkleinen. Overheden mogen bij aanbestedingen vaak geen extra eisen stellen om minder afhankelijk te worden van één leverancier. Onderzoeker Kristina Irion waarschuwt dat het voorstel overheden zelfs kan tegenhouden als zij bewust voor een Europees alternatief kiezen. De Commissie verwacht dat maar tien procent van de toepassingen onder de hoogste beveiligingsniveaus valt. Alleen daar zijn clouddiensten van buiten de EU uitgesloten. Een gemeente die nu een AI-werkplek aanbesteedt, doet er goed aan haar eigen eisen voor digitale autonomie vast te leggen, voordat Brussel de ruimte daarvoor beperkt.\n\nTegelijk speelt Google in op die zorgen. Op een top in Brussel kondigde Google Cloud aan dat zijn Gemini-modellen beschikbaar komen in een afgeschermde omgeving die door Europese partners wordt beheerd. In Nederland speelt Thales daarbij een rol. Organisaties kunnen AI-modellen zo binnen hun eigen regio draaien. Een verzekeraar kan zo makkelijker aantonen waar zijn data blijven. Maar de technologie blijft van Google.\n\nDan het nieuws uit het buitenland.\n\nGoogle heeft voor het eerst een volledig zelfstandige cyberaanval door een AI-agent waargenomen. Dat meldt het beveiligingsteam van Google, schrijft Digit. Een aanvaller gebruikte een AI-systeem dat code vóór en na een beveiligingsupdate vergelijkt. Het systeem vond zo het lek en schreef zonder menselijke hulp een werkende aanval. Volgens Google gebruiken criminelen en spionagegroepen deze techniek om bekende lekken snel en op grote schaal te misbruiken, vooral bij servers die aan internet hangen. Voor Nederlandse organisaties wordt de keuze scherper. Ze kunnen updates voortaan direct en automatisch installeren, met het risico dat een systeem uitvalt. Of ze blijven eerst uitgebreid testen, en accepteren dat aanvallers in die dagen een open deur vinden.\n\nOpenAI breidt zijn programma voor wetenschappers fors uit, meldt The Next Web. Er komen vijftigduizend gratis ChatGPT-abonnementen bij, elk voor één onderzoeker en maximaal twee collega's. Aanmelden kan vanaf drieëntwintig november. Wie het eerst komt, wordt het eerst geholpen. Voor Nederlandse universiteiten en hogescholen ontstaat een dilemma. Ze kunnen onderzoekers deze gratis toegang laten aanvragen: dat is snel en kost niets, maar onderzoeksdata belanden bij een Amerikaanse aanbieder. Of ze verwijzen hen naar de eigen omgeving van SURF, die in januari start: meer regie over data, maar wachten en mogelijk minder functies.\n\nDan werk en de arbeidsmarkt.\n\nDe verwachte golf van AI-ontslagen is in de Verenigde Staten dit jaar uitgebleven. Volgens zakenbank Goldman Sachs is die golf uitgesteld, niet afgeblazen, meldt Fortune. Goldman verwacht nog één jaar met weinig aannames en weinig ontslagen. Daarna krijgt verdringing door AI meer effect. Een econoom van de bank schatte eerder dat tot negen procent van de werkenden tijdens de overgang zijn baan kan verliezen. Bij economische tegenwind versnelt dat, omdat bedrijven dan snijden in personeelskosten.\n\nHoe taken nu al verschuiven, laat het Gentse bedrijf Nabu zien. Het zet AI-agents in voor antiwitwascontroles bij financiële instellingen, en breidt uit naar Nederland. Volgens Nabu wordt negentig procent van het werk geautomatiseerd. Een mens neemt de eindbeslissing.\n\nDe les voor werkgevers: gebruik de krappe arbeidsmarkt nu om mensen om te scholen, voordat een dip de keuzes maakt. Voor werkenden: word de mens die de eindbeslissing neemt.\n\nDan onderwijs en AI.\n\nSURF en Npuls introduceren SURF AI, een eigen AI-omgeving voor onderwijs en onderzoek. Vanaf januari krijgen aangesloten instellingen uit mbo, hbo en wo toegang. De chatapplicatie eduGenAI, ontwikkeld met onderwijsinstellingen, wordt daar onderdeel van. In de landelijke pilot zijn honderdtwintig toepassingen getest. Dit jaar volgden honderdvijftig deelnemers van negenenveertig instellingen de training AI in de onderwijspraktijk. Het lesmateriaal is vrij te gebruiken. Dit raakt direct de kansengelijkheid. Als elke student dezelfde veilige AI-omgeving krijgt, hangt goede toegang niet meer af van wie thuis een betaald abonnement heeft. Voor docenten en begeleiders betekent het: er komt één gedeelde basis om AI-vaardigheden aan te leren, in plaats van losse gratis tools.\n\nIn Zuid-Korea heeft de beste kandidaat van het nationale examen voor belastingadviseur bekend dat hij vals speelde met AI. Hij fotografeerde de vragen met een minicamera en las de antwoorden van een AI-dienst af op zijn telefoon. Dat meldt The Next Web. Bij het landelijke toelatingsexamen voor de universiteit, met ruim vijfhonderdduizend deelnemers, wordt nu elke bril gecontroleerd. In Engeland waarschuwde de toezichthouder op het hoger onderwijs vorige week dat AI-detectiesoftware onbetrouwbaar is. Begeleide toetsen kunnen nodig zijn in plaats van verslagen thuis. Dit raakt de rol van de docent. Wie alleen het eindproduct beoordeelt, wordt kwetsbaar. De docent als coach, die het leerproces volgt en gesprekken voert over het werk, kan beter zien wat een student zelf beheerst. Voor examencommissies in het mbo is dit het moment om toetsvormen te herzien.\n\nTot slot: de kansen.\n\nEén. Voor IT-dienstverleners in het mkb ligt er een kans in versneld patchbeheer. Aanvallers gebruiken AI om binnen korte tijd bekende lekken te misbruiken. Een vast abonnement dat updates voor servers die aan internet hangen binnen een afgesproken korte termijn test en installeert, sluit precies aan op dat risico. Juist kleine bedrijven zonder eigen IT-afdeling hebben dat nodig.\n\nTwee. Voor adviseurs in aanbesteding en informatiebeheer ligt er werk bij overheden en zorginstellingen. Zij moeten nu bepalen welke eisen zij aan digitale autonomie stellen, terwijl het Europese voorstel nog wordt besproken. Een kort traject dat per toepassing het risiconiveau, de datalocatie en een Europees alternatief vastlegt, helpt hen bij de volgende aanbesteding van AI- en clouddiensten.\n\nTot slot, speciaal voor jou: jouw kansen deze week.\n\nEerst als ondernemer. Het nieuws: OpenAI geeft vijftigduizend gratis ChatGPT-abonnementen aan onderzoekers, aanmelden vanaf drieëntwintig november, wie het eerst komt. Veel lectoraten en onderzoeksgroepen gaan dat aanvragen, maar weten niet wat ze wel en niet mogen invoeren. Wat je deze week doet: maak een workshop van twee uur, Veilig onderzoeken met ChatGPT. Drie delen: welke data je nooit invoert, hoe je persoonsgegevens vooraf verwijdert, en hoe je de AVG-afspraken met je instelling vastlegt. Bied hem aan bij drie lectoraten in je netwerk. De ROI: ongeveer acht uur werk en geen kosten. Eén betaalde sessie dekt dat al, en de workshop is daarna herhaalbaar. De impact: je wordt bekend als de adviseur die AI en privacy verbindt in het hoger onderwijs, een markt die je via je onderwijswerk al kent. Als je dit deze week niet oppakt, mis je deze kans omdat de aanmelding op drieëntwintig november opent en de vraag naar uitleg juist in de weken daarna ontstaat.\n\nDan je werk als I-coach. Het nieuws: eduGenAI wordt vanaf januari onderdeel van SURF AI, en het trainingsmateriaal AI in de onderwijspraktijk is vrij te gebruiken. Wat je deze week doet: meld je aan voor het tweewekelijkse vragenuur over SURF AI. Maak daarna een overzicht van één pagina voor je team: wat verandert er na de pilot, welke drie toepassingen passen bij studentbegeleiding, en welke privacyregels blijven gelden. Plan een korte instructie in de eerste week van januari. De ROI: ongeveer vier uur werk en geen kosten. Je bespaart collega's het zelf uitzoeken, en je hergebruikt bestaand materiaal in plaats van alles zelf te maken. De impact: de overstap verloopt soepel en AI-geletterdheid groeit vanaf de eerste dag. Als je dit deze week niet oppakt, mis je deze kans omdat de nieuwe omgeving in januari start en december door de feestdagen kort is. Wie nu voorbereidt, staat klaar als collega's vragen stellen.\n\nDat was AI in een paar minuten. Dank voor het luisteren en een goede woensdag verder. Morgen om acht uur weer."
+    },
     {
       "id": "2026-11-17",
       "date": "2026-11-17",
