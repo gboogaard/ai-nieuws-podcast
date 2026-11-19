@@ -1,6 +1,102 @@
 {
-  "updated": "2026-11-18T06:35:54+00:00",
+  "updated": "2026-11-19T06:31:27+00:00",
   "episodes": [
+    {
+      "id": "2026-11-19",
+      "date": "2026-11-19",
+      "title": "Veel AI, weinig vernieuwing; OpenAI mikt op juristen en verkopers",
+      "summary": "Volgens de Innovatie Monitor gebruikt 88 procent van de bedrijven AI, maar vooral voor bestaand werk. Verder: GPT-6.2 Astra en Sol, langere bewaartermijn bij Gemini en wat AI doet met het leerwerk van juniors.",
+      "duration": 289,
+      "audio": null,
+      "chapters": [
+        {
+          "key": "nl",
+          "title": "Nederland",
+          "start": 0
+        },
+        {
+          "key": "wereld",
+          "title": "Wereldwijd",
+          "start": 94
+        },
+        {
+          "key": "werk",
+          "title": "Werk",
+          "start": 179
+        },
+        {
+          "key": "kansen",
+          "title": "Kansen",
+          "start": 236
+        }
+      ],
+      "items": [
+        {
+          "section": "nl",
+          "headline": "Innovatie Monitor: 88 procent van bedrijven gebruikt AI, vernieuwing blijft uit",
+          "takeaway": "Werknemers besteden gemiddeld 2,9 uur per week aan AI, meer dan in de VS of Duitsland, maar AI verbetert vooral bestaand tekst- en kantoorwerk. Een installatiebedrijf kan zich afvragen welke nieuwe dienst AI mogelijk maakt.",
+          "source_name": "ANP via Nieuws.nl",
+          "source_url": "https://nieuws.nl/economie/onderzoek-88-procent-van-nederlandse-bedrijven-gebruikt-ai"
+        },
+        {
+          "section": "nl",
+          "headline": "Europees AI-bureau zoekt AI-oplossingen voor het mkb",
+          "takeaway": "Maximaal honderd Europese aanbieders van kant-en-klare AI komen in een catalogus voor de digitale innovatiehubs; aanmelden tot 17 december. Een route naar mkb-klanten in heel Europa.",
+          "source_name": "Europese Commissie",
+          "source_url": "https://digital-strategy.ec.europa.eu/en/news/call-expression-interest-european-ai-providers"
+        },
+        {
+          "section": "wereld",
+          "headline": "OpenAI brengt GPT-6.2 Astra en Sol uit",
+          "takeaway": "Astra voor zwaar werk, Sol voor dagelijks werk en agents, met lagere kosten per taak. Dilemma voor hogescholen en mbo: het nieuwste Amerikaanse model breed inzetten, of wachten op SURF AI met eduGenAI in januari met minder functies maar meer datazeggenschap.",
+          "source_name": "OpenAI Developer Community",
+          "source_url": "https://community.openai.com/t/gpt-6-2-astra-and-sol-are-now-available/1417531"
+        },
+        {
+          "section": "wereld",
+          "headline": "Gemini bewaart chats zonder geschiedenis voortaan twee maanden",
+          "takeaway": "AI-training en geschiedenis worden aparte instellingen, maar chats met geschiedenis uit blijven ongeveer twee maanden bewaard in plaats van 72 uur. Dilemma voor werkgevers: de gratis app toestaan, of verbieden en betalen voor een zakelijke omgeving met gegevensafspraken.",
+          "source_name": "Notebookcheck",
+          "source_url": "https://www.notebookcheck.net/Gemini-separates-history-from-AI-training-but-keeps-chats-longer.1452356.0.html"
+        },
+        {
+          "section": "werk",
+          "headline": "OpenAI richt zich op juristen en verkopers",
+          "takeaway": "Astra for Law haalt op 53,8 procent van juridische onderzoeksvragen de volle score; ChatGPT for Sales bouwt klantenlijsten en werkt het CRM bij. Juist het leerwerk van juniors verschuift, dus werkgevers moeten herzien hoe starters ervaring opdoen.",
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/astra-law-6-2/"
+        },
+        {
+          "section": "werk",
+          "headline": "ChatGPT for Sales koppelt aan Salesforce en HubSpot",
+          "takeaway": "Een Sales-plugin en ruim dertig partnerkoppelingen voor prospectonderzoek, gespreksvoorbereiding en CRM-updates, voor Business- en Enterprise-klanten.",
+          "source_name": "AI TLDR",
+          "source_url": "https://ai-tldr.dev/releases/openai-chatgpt-for-sales/"
+        },
+        {
+          "section": "kansen",
+          "headline": "Aanmelden voor de EDIH-catalogus",
+          "takeaway": "Nederlandse makers van mkb-klare AI-software kunnen zich tot 17 december aanmelden; maximaal honderd plaatsen, de oproep kan eerder sluiten.",
+          "source_name": "Europese Commissie",
+          "source_url": "https://digital-strategy.ec.europa.eu/en/news/call-expression-interest-european-ai-providers"
+        },
+        {
+          "section": "kansen",
+          "headline": "Innovatiesessie: van AI-kantoortool naar nieuwe dienst",
+          "takeaway": "Adviseurs en trainers kunnen mkb-bedrijven in een dagdeel helpen één nieuwe dienst of werkwijze met AI te ontwerpen, zoals een bestelassistent voor een groothandel.",
+          "source_name": "",
+          "source_url": ""
+        },
+        {
+          "section": "kansen",
+          "headline": "Check van Gemini-instellingen en AI-beleid",
+          "takeaway": "Help scholen en kleine organisaties hun privacy-instellingen en AI-beleid na te lopen nu Google chats langer bewaart.",
+          "source_name": "",
+          "source_url": ""
+        }
+      ],
+      "transcript": "Goedemorgen. Het is donderdag negentien november. Dit is AI in een paar minuten. Vandaag: Nederland gebruikt veel AI maar vernieuwt weinig, OpenAI brengt nieuwe modellen voor juristen en verkopers, en Google bewaart Gemini-gesprekken langer.\n\nBijna negen op de tien Nederlandse bedrijven gebruiken AI, maar echte vernieuwing blijft uit. Dat blijkt uit de Nederlandse Innovatie Monitor van de Universiteit van Amsterdam en SEO Economisch Onderzoek, meldt het ANP. Een werknemer besteedt gemiddeld bijna drie uur per week aan AI. In de Verenigde Staten is dat bijna twee uur, in Duitsland en het Verenigd Koninkrijk anderhalf uur. Toch zetten bedrijven AI vooral in om bestaand werk te verbeteren, zoals teksten schrijven. Nieuwe producten of verdienmodellen ontstaan nauwelijks. Hoogleraar Henk Volberda zegt het zo: de AI-revolutie voltrekt zich voorlopig vooral achter het beeldscherm. Ook geopolitiek weegt zwaarder. Eenenzestig procent van de bedrijven voelt die invloed sterk, vorig jaar was dat veertig procent. Een installatiebedrijf dat AI nu alleen voor offertes gebruikt, kan de vraag stellen welke dienst het met dezelfde technologie nieuw kan aanbieden.\n\nDan Europa. Het Europese AI-bureau zoekt Europese aanbieders van kant-en-klare AI-oplossingen voor het mkb. De beste komen in een catalogus voor de Europese digitale innovatiehubs, die mkb-bedrijven helpen met testen en training. Er is plaats voor maximaal honderd aanbieders. Aanmelden kan tot zeventien december. Voor een Nederlands softwarebedrijf met een werkend product is dit een route naar klanten in heel Europa.\n\nDan het nieuws uit het buitenland.\n\nOpenAI heeft twee nieuwe modellen uitgebracht: GPT zes punt twee Astra en Sol. Astra is bedoeld voor zwaar werk zoals softwareontwikkeling en wetenschappelijk onderzoek. Sol is het zuinigere model voor dagelijks werk en agents. Volgens OpenAI kost een taak met Astra minder dan een derde van wat het vorige topmodel kostte. De modellen zijn beschikbaar voor betalende gebruikers, ook in de onderwijsversie, en via de API. Voor Nederlandse hogescholen en mbo-instellingen wordt de keuze scherper. Ze kunnen het nieuwste Amerikaanse model breed inzetten en profiteren van lagere kosten per taak. Of ze wachten op de Europese omgeving van SURF met eduGenAI, die in januari opent, en accepteren tijdelijk minder functies in ruil voor meer zeggenschap over data.\n\nGoogle verandert de privacy-instellingen van de Gemini-app. Gebruikers kunnen voortaan AI-training uitzetten en toch hun geschiedenis bewaren. Maar chats met geschiedenis uit blijven nu ongeveer twee maanden bewaard, in plaats van tweeënzeventig uur, meldt Notebookcheck. Menselijke beoordelaars kunnen meekijken. Onduidelijk is nog of zakelijke en onderwijsaccounts geraakt worden. Voor Nederlandse werkgevers ligt er een keuze. Ze laten medewerkers de gratis app gebruiken en accepteren dat gesprekken langer bij Google liggen. Of ze verbieden de app en betalen voor een zakelijke omgeving met contractuele afspraken over gegevens.\n\nDan werk en de arbeidsmarkt.\n\nOpenAI richt zich deze week nadrukkelijk op twee beroepsgroepen. Astra for Law is een versie voor juridisch onderzoek. In een onafhankelijke test kreeg het model op ruim vijftig procent van de vragen de volle score, tegen zesenveertig procent in september. Het schrijft pleitnota's, vergelijkt wetteksten en beoordeelt huurcontracten. Daarnaast is er ChatGPT for Sales. Dat koppelt aan systemen als Salesforce en HubSpot. Het bouwt klantenlijsten, maakt gespreksvoorbereidingen en stelt wijzigingen in het klantsysteem voor.\n\nStrategisch valt op welke taken het raakt. Het zijn precies de klussen waarmee juniors het vak leren: uitzoekwerk, voorbereiding en administratie. Dat sluit aan bij de Innovatie Monitor: AI zit vooral in tekst- en kantoorwerk. Voor werkgevers betekent dit dat ze opnieuw moeten bedenken hoe starters ervaring opdoen. Voor het onderwijs wordt beoordelen en controleren van AI-werk een kernvaardigheid.\n\nTot slot: de kansen.\n\nVoor Nederlandse makers van AI-software voor het mkb ligt er een kans in de Europese catalogus. Wie een werkend product heeft, kan zich tot zeventien december aanmelden. Er zijn maximaal honderd plaatsen, en de oproep kan eerder sluiten. Snel zijn loont dus.\n\nVoor adviseurs en trainers ligt er een kans in het gat dat de Innovatie Monitor laat zien. Bedrijven gebruiken AI al, maar alleen voor bestaand werk. Een korte sessie van een dagdeel kan een mkb-bedrijf helpen één nieuwe dienst of werkwijze te bedenken. Denk aan een groothandel die klanten een AI-assistent voor bestellingen aanbiedt.\n\nEen derde kans is klein maar direct: help scholen en kleine organisaties hun Gemini-instellingen en AI-beleid te controleren, nu Google gesprekken langer bewaart.\n\nDat was AI in een paar minuten. Dank voor het luisteren en een goede donderdag verder. Morgen om acht uur weer."
+    },
     {
       "id": "2026-11-18",
       "date": "2026-11-18",
