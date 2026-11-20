@@ -1,6 +1,95 @@
 {
-  "updated": "2026-11-19T06:31:27+00:00",
+  "updated": "2026-11-20T06:26:29+00:00",
   "episodes": [
+    {
+      "id": "2026-11-20",
+      "date": "2026-11-20",
+      "title": "Anthropic stijgt op beursdag, AP waarschuwt voor AI-camerabrillen",
+      "summary": "De AP raadt AI-camerabrillen af na een test, Mollie wint een prijs met AI-agents voor auditors en Anthropic sluit zijn eerste beursdag ruim hoger. Verder: banken leggen het risico van AI-agents bij de klant, Nadella over werk en het scenario van de week over de financiële functie.",
+      "duration": 338,
+      "audio": null,
+      "chapters": [
+        {
+          "key": "nl",
+          "title": "Nederland",
+          "start": 0
+        },
+        {
+          "key": "wereld",
+          "title": "Wereldwijd",
+          "start": 90
+        },
+        {
+          "key": "werk",
+          "title": "Werk",
+          "start": 178
+        },
+        {
+          "key": "kansen",
+          "title": "Kansen",
+          "start": 279
+        }
+      ],
+      "items": [
+        {
+          "section": "nl",
+          "headline": "AP raadt AI-camerabrillen af na test van zes brillen",
+          "takeaway": "Een bril beweerde bij een nagespeelde reanimatie ten onrechte dat er een ambulance onderweg was. De AP adviseert eigenaren van gebouwen de brillen in hun huisregels te verbieden, wat scholen en zorginstellingen nu al kunnen doen.",
+          "source_name": "NOS",
+          "source_url": "https://nos.nl/artikel/2640119-autoriteit-persoonsgegevens-ai-camerabrillen-brengen-veiligheid-in-gevaar"
+        },
+        {
+          "section": "nl",
+          "headline": "Mollie wint auditprijs met AI-agents voor interne auditors",
+          "takeaway": "Agents helpen bij voorbereiding, uitvoering en rapportage; de auditor beslist en bronnen worden vastgelegd. Een voorbeeld voor financiële instellingen die agents in een gecontroleerd proces willen inzetten.",
+          "source_name": "Banken.nl",
+          "source_url": "https://www.banken.nl/nieuws/27610/mollie-wint-internal-audit-innovation-award-met-ai-platform-voor-auditors"
+        },
+        {
+          "section": "wereld",
+          "headline": "Anthropic sluit eerste beursdag ruim boven uitgifteprijs",
+          "takeaway": "Uitgifte op 83 dollar, circa 81 miljard dollar opgehaald, waardering 1,5 biljoen dollar. Dilemma: bouwen op één leverancier onder beleggersdruk, of investeren in toepassingen die van model kunnen wisselen.",
+          "source_name": "AP via BNN Bloomberg",
+          "source_url": "https://bnnbloomberg.ca/business/company-news/2026/11/19/anthropic-set-to-begin-trading-as-a-us15-trillion-company-in-the-biggest-ipo-on-record"
+        },
+        {
+          "section": "wereld",
+          "headline": "Citi en PNC maken klanten verantwoordelijk voor AI-agents",
+          "takeaway": "Wie een externe agent toegang geeft tot de rekening, draagt het risico, ook bij hacks. Dilemma voor Nederlandse banken en fintechs: risico doorschuiven naar de klant, of zelf een veilige agentkoppeling bieden en zo vertrouwen winnen.",
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
+        },
+        {
+          "section": "werk",
+          "headline": "Nadella: elke medewerker wordt manager van agents",
+          "takeaway": "Microsoft bood zestigduizend medewerkers een vertrekregeling aan en zegt ontwikkelaars niet te vervangen door AI. Meta laat een agent meer dan zestig procent van bepaald modelwerk doen. Werkgevers moeten het aansturen van agents gaan trainen.",
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+        },
+        {
+          "section": "werk",
+          "headline": "Scenario: agents doen over drie jaar het meeste voorbereidende werk in de financiële functie",
+          "takeaway": "Verzamelen van bewijs en invullen van werkprogramma's verdwijnt grotendeels; oordeel en het toetsen van agents blijven en groeien. Eerste stap: laat een AI-assistent één routinecontrole voorbereiden en vergelijk.",
+          "source_name": "",
+          "source_url": ""
+        },
+        {
+          "section": "kansen",
+          "headline": "Huisregelpakket voor AI-camerabrillen",
+          "takeaway": "Voor privacyadviseurs en facilitaire dienstverleners: huisregel, bebording en personeelsinstructie voor sportscholen, zorg, scholen en kantoren, na het advies van de AP.",
+          "source_name": "NOS",
+          "source_url": "https://nos.nl/artikel/2640119-autoriteit-persoonsgegevens-ai-camerabrillen-brengen-veiligheid-in-gevaar"
+        },
+        {
+          "section": "kansen",
+          "headline": "Agent-check voor mkb-financiën",
+          "takeaway": "Voor boekhouders en financieel adviseurs: inventariseren welke AI-tools toegang hebben tot bank en boekhouding, met advies over rechten en inloggegevens.",
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
+        }
+      ],
+      "transcript": "Goedemorgen. Het is vrijdag twintig november. Dit is AI in een paar minuten. Vandaag: de toezichthouder raadt AI-camerabrillen af, Anthropic sluit zijn eerste beursdag ruim hoger, en Amerikaanse banken leggen het risico van AI-agents bij de klant.\n\nDe Autoriteit Persoonsgegevens raadt af om AI-camerabrillen te kopen. Dat meldt de NOS. De toezichthouder onderzocht zes brillen die in Nederland te koop zijn, met prijzen van onder de honderd tot boven de vijfhonderd euro. Twee brillen zijn uitgebreid getest in nagespeelde situaties. Bij een gesimuleerde reanimatie zei één bril herhaaldelijk dat er al een ambulance onderweg was. Dat was niet zo. Ook bijsluiters van medicijnen en waarschuwingen voor extreem weer gingen mis. De AP wil dat de politiek de bevindingen gebruikt bij de vraag of een verbod nodig is. Eigenaren van gebouwen krijgen het advies om de brillen in hun huisregels te verbieden. Een sportschool, ziekenhuis of school kan dat nu al regelen, nog voordat er wetgeving komt.\n\nBetaalbedrijf Mollie heeft de Internal Audit Innovation Award van Protiviti gewonnen, meldt Banken.nl. Mollie bouwde een platform waarin gespecialiseerde AI-agents interne auditors helpen bij voorbereiding, uitvoering en rapportage. De auditor beoordeelt en beslist zelf, en elke bron wordt vastgelegd. ING en ABN AMRO waren de andere finalisten. Voor een middelgrote verzekeraar laat dit zien hoe agents in een gecontroleerd proces passen: de mens blijft verantwoordelijk, de agent doet het zoekwerk.\n\nDan het nieuws uit het buitenland.\n\nAnthropic, de maker van Claude, is naar de beurs gegaan. De aandelen werden uitgegeven voor drieëntachtig dollar, boven de verwachte bandbreedte. Het bedrijf haalde ongeveer eenentachtig miljard dollar op, bij een waardering van anderhalf biljoen dollar, meldt AP. De koers sloot op zevenennegentig dollar. Anthropic is nog niet winstgevend en heeft voor ongeveer negenhonderd miljard dollar aan verplichtingen voor rekenkracht. OpenAI heeft zijn beursgang uitgesteld tot volgend jaar. Voor Nederlandse organisaties die op Claude bouwen wordt de keuze concreter. Ze kunnen inzetten op één leverancier die door beleggers wordt afgerekend op groei, met kans op prijsverhoging. Of ze bouwen hun toepassingen zo dat ze van model kunnen wisselen Dat kost nu ontwikkeltijd, maar geeft later onderhandelingsruimte.\n\nAmerikaanse banken leggen het risico van AI-agents bij de klant, meldt TechCrunch. Citi heeft zijn voorwaarden aangepast. Wie een AI-agent van een ander bedrijf toegang geeft tot zijn rekening, is verantwoordelijk voor wat die agent doet. Ook als criminelen via een gelekte inlog toeslaan. PNC deed woensdag hetzelfde. JPMorgan en Bank of America gingen vorige maand voor. Voor Nederlandse banken en fintechs ligt hier een keuze. Ze volgen de Amerikaanse lijn en schuiven het risico door naar de klant. Of ze bieden een veilige koppeling voor agents aan, dragen meer risico en winnen daarmee vertrouwen van klanten.\n\nDan werk en de arbeidsmarkt.\n\nMicrosoft-topman Satya Nadella heeft uitgelegd waarom hij in oktober zestigduizend medewerkers een vertrekregeling aanbood. Volgens hem wilde hij dat iedereen zelf een keuze kon maken, in plaats van opnieuw een grote ontslagronde. Dat zei hij woensdag op de DealBook-conferentie, meldt TechCrunch. Nadella zegt dat hij softwareontwikkelaars niet vervangt door AI. Wel wordt elke medewerker een manager van agents. Volgens hem gaat dat in alle banen gebeuren, maar duurt het langer dan iedereen verwacht. Meta laat zien hoe dat eruitziet. Een interne agent voert inmiddels meer dan zestig procent van een bepaald soort aanpassingen aan advertentiemodellen uit. Meta spreekt van drie keer zoveel productiviteit voor de betrokken engineers. Voor werkgevers betekent dit dat aansturen en controleren van agents een vaardigheid wordt die ze moeten trainen, ook bij medewerkers zonder leidinggevende functie.\n\nTot slot het scenario van de week. Wat als AI-agents over drie jaar het meeste voorbereidende werk in de financiële functie doen? Denk aan controles, afstemmingen en eerste versies van auditrapporten. Het verzamelen van bewijs en het invullen van werkprogramma's verdwijnt dan grotendeels. Het oordeel blijft bij de mens: is dit risico acceptabel, klopt dit verhaal? Nieuw werk ontstaat in het ontwerpen van controles voor agents en het toetsen van hun uitkomsten. Dit is een denkoefening, geen voorspelling. Welke drie taken in uw week zijn vooral verzamelen en controleren, en wat zou u doen met die tijd? Een eerste stap: laat een AI-assistent deze week één routinecontrole voorbereiden en vergelijk het resultaat met uw eigen werk.\n\nTot slot: de kansen.\n\nVoor privacyadviseurs en facilitaire dienstverleners ligt er een kans in AI-camerabrillen. De AP adviseert eigenaren van gebouwen om de brillen in hun huisregels te verbieden. Sportscholen, zorginstellingen, scholen en kantoren hebben daarvoor teksten, bebording en een instructie voor het personeel nodig. Een vast pakket met huisregel, communicatie en een korte uitleg aan de receptie is snel te leveren en de vraag is er nu.\n\nVoor boekhouders en financiële adviseurs van het mkb ligt er een kans in een agent-check. Steeds meer ondernemers geven AI-tools toegang tot hun bankrekening of boekhouding. Amerikaanse banken maken de klant al verantwoordelijk als het misgaat. Een korte inventarisatie van welke tools waar bij kunnen, met een advies over rechten en inloggegevens, voorkomt schade en is als vaste dienst aan te bieden.\n\nDat was AI in een paar minuten. Fijn weekend. Zondag het weekoverzicht, maandag om acht uur weer het dagelijkse bulletin."
+    },
     {
       "id": "2026-11-19",
       "date": "2026-11-19",
