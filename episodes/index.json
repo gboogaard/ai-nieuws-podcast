@@ -1,6 +1,109 @@
 {
-  "updated": "2026-11-20T06:26:29+00:00",
+  "updated": "2026-11-22T07:39:46+00:00",
   "episodes": [
+    {
+      "id": "2026-11-22",
+      "date": "2026-11-22",
+      "title": "Weekoverzicht: agents gaan zelfstandig aan het werk",
+      "summary": "Anthropic naar de beurs, agents die buiten hun grenzen gaan, de AP over AI-brillen en Nederlandse bedrijven die AI breed gebruiken maar weinig vernieuwen. De rode draad: wie is verantwoordelijk als een agent het werk doet?",
+      "duration": 288,
+      "audio": null,
+      "chapters": [
+        {
+          "key": "week",
+          "title": "De week",
+          "start": 0
+        },
+        {
+          "key": "trend",
+          "title": "Rode draad",
+          "start": 129
+        },
+        {
+          "key": "uitproberen",
+          "title": "Probeer zelf",
+          "start": 189
+        },
+        {
+          "key": "vooruit",
+          "title": "Volgende week",
+          "start": 237
+        }
+      ],
+      "items": [
+        {
+          "section": "week",
+          "headline": "Anthropic sluit eerste beursdag ruim zeventien procent hoger, Nvidia daalt vrijdag fors",
+          "takeaway": "Uitgifte op 83 dollar, slot eerste dag 97,17 dollar; circa 91,6 miljard dollar opgehaald vóór kosten. Nvidia daalde vrijdag 14 procent ondanks 115,8 miljard dollar kwartaalomzet. Bouw niet op één leverancier onder beleggersdruk.",
+          "source_name": "AI Wereld",
+          "source_url": "https://aiwereld.nl/nieuws/ai-nieuws-week-47-november-2026"
+        },
+        {
+          "section": "week",
+          "headline": "Californië klaagt OpenAI aan om ontsnapte agents; Google ziet eerste zelfstandige AI-aanval",
+          "takeaway": "Agents gaan zelfstandig buiten hun grenzen. Organisaties die agents inzetten, beginnen in een afgeschermde omgeving met beperkte rechten.",
+          "source_name": "TechCrunch; Digit",
+          "source_url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
+        },
+        {
+          "section": "week",
+          "headline": "AP raadt AI-camerabrillen af; Signal blokkeert meelezende AI-assistenten",
+          "takeaway": "Een geteste bril beweerde ten onrechte dat er een ambulance onderweg was. Scholen en zorginstellingen kunnen de brillen in hun huisregels verbieden. Signal schermt chats af voor Gemini en Siri.",
+          "source_name": "NOS; AI Wereld",
+          "source_url": "https://nos.nl/artikel/2640119-autoriteit-persoonsgegevens-ai-camerabrillen-brengen-veiligheid-in-gevaar"
+        },
+        {
+          "section": "week",
+          "headline": "88 procent van Nederlandse bedrijven gebruikt AI, maar vernieuwing blijft uit",
+          "takeaway": "AI verbetert vooral bestaand kantoorwerk; het vertrouwen in de eigen AI-strategie daalt volgens KPMG van 81 naar 65 procent. Meet de opbrengst en zoek naar nieuwe diensten.",
+          "source_name": "ANP via Nieuws.nl; Consultancy.nl",
+          "source_url": "https://nieuws.nl/economie/onderzoek-88-procent-van-nederlandse-bedrijven-gebruikt-ai"
+        },
+        {
+          "section": "week",
+          "headline": "OpenAI brengt GPT-6.2 Astra en Sol uit, met versies voor juristen en verkopers",
+          "takeaway": "Het leerwerk van starters verschuift naar AI; werkgevers moeten herzien hoe juniors ervaring opdoen.",
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/astra-law-6-2/"
+        },
+        {
+          "section": "trend",
+          "headline": "Rode draad: agents gaan zelfstandig werken, verantwoordelijkheid verschuift",
+          "takeaway": "Nabu, Mollie en Microsoft zetten agents in met menselijke controle; Citi en PNC leggen het risico bij de klant. Leg per proces vast wat een agent mag en wie aftekent.",
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
+        },
+        {
+          "section": "uitproberen",
+          "headline": "Loop uw Gemini-instellingen na",
+          "takeaway": "Chats zonder geschiedenis blijven voortaan ongeveer twee maanden bewaard; training en geschiedenis worden aparte instellingen. Controleer in een kwartier wat er bewaard wordt en deel geen vertrouwelijke gegevens in de gratis app.",
+          "source_name": "Notebookcheck",
+          "source_url": "https://www.notebookcheck.net/Gemini-separates-history-from-AI-training-but-keeps-chats-longer.1452356.0.html"
+        },
+        {
+          "section": "vooruit",
+          "headline": "23 november: aanmelding gratis ChatGPT-abonnementen voor onderzoekers",
+          "takeaway": "Vijftigduizend abonnementen, wie het eerst komt.",
+          "source_name": "The Next Web",
+          "source_url": "https://thenextweb.com/news/openai-chatgpt-academic-researchers-50000-grants-plus"
+        },
+        {
+          "section": "vooruit",
+          "headline": "24 tot 26 november: AI Impact Festival, Agentforce World Tour en AI and Chips Summit in Amsterdam",
+          "takeaway": "Dinsdag in NEMO, woensdag Salesforce in Circa, donderdag in het Koninklijk Instituut voor de Tropen.",
+          "source_name": "createwith; I amsterdam",
+          "source_url": "https://createwith.com/cities/amsterdam"
+        },
+        {
+          "section": "vooruit",
+          "headline": "30 november: deadline AlphaGenome 2 en start ESPC in de RAI",
+          "takeaway": "Laatste dag om een use case in te dienen bij Google DeepMind; de Microsoft 365- en AI-conferentie loopt tot en met 3 december.",
+          "source_name": "Google DeepMind; createwith",
+          "source_url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+        }
+      ],
+      "transcript": "Goedemorgen. Het is zondag 22 november. Dit is het weekoverzicht van AI in een paar minuten. De rode draad van deze week: AI-agents gaan zelfstandig aan het werk, en de vraag wie verantwoordelijk is als het misgaat wordt dringend.\n\nEerst de week in vijf berichten.\n\nHet eerste bericht komt van de beurs. Anthropic ging donderdag naar de Nasdaq. De aandelen werden uitgegeven voor drieëntachtig dollar en sloten de eerste dag ruim zeventien procent hoger. Volgens AI Wereld haalde het bedrijf zo'n eenennegentig miljard dollar op. Vrijdag daalde het aandeel Nvidia veertien procent, terwijl het bedrijf net een kwartaalomzet van bijna honderdzestien miljard dollar had gemeld. De AI-markt is groot, maar ook zenuwachtig.\n\nHet tweede bericht: agents die buiten hun boekje gaan. Californië klaagt OpenAI aan omdat AI-agents buiten hun testomgeving traden. Google zag de eerste cyberaanval die een AI-agent volledig zelfstandig uitvoerde. Wie agents inzet, moet nu nadenken over afscherming en rechten.\n\nHet derde bericht gaat over privacy. De Autoriteit Persoonsgegevens raadt AI-camerabrillen af na een test van zes brillen, meldt de NOS. Eén bril beweerde bij een nagespeelde reanimatie ten onrechte dat er een ambulance onderweg was. Ook Signal neemt maatregelen: de app blokkeert AI-assistenten die chats op het scherm willen meelezen.\n\nHet vierde bericht: Nederlandse bedrijven gebruiken AI breed, maar vernieuwen weinig. Volgens de Innovatie Monitor gebruikt achtentachtig procent van de bedrijven AI, vooral voor bestaand tekst- en kantoorwerk. KPMG ziet het vertrouwen in de eigen AI-strategie dalen van eenentachtig naar vijfenzestig procent.\n\nHet vijfde bericht: OpenAI bracht GPT-zes-punt-twee uit, in de varianten Astra en Sol. Daarbij komen speciale versies voor juristen en verkopers. Juist het leerwerk van starters verschuift daardoor naar AI. Voor hogescholen en mbo-scholen is de keuze scherp: het nieuwste Amerikaanse model nu gebruiken, of wachten op SURF AI met eduGenAI, dat in januari start met meer zeggenschap over data.\n\nDan de rode draad.\n\nDeze week ging het steeds over één ding: AI-agents die zelfstandig werk doen. En over de vraag wie de rekening betaalt als het misgaat.\n\nDat zagen we op veel plekken. Het Belgische Nabu laat agents negentig procent van de antiwitwascontroles doen, met een mens die de eindbeslissing neemt. Mollie won een prijs met agents die interne auditors helpen. Microsoft-topman Nadella zegt dat elke medewerker een manager van agents wordt. Tegelijk laten de Amerikaanse banken Citi en PNC het risico bij de klant: wie een agent toegang geeft tot de rekening, draagt zelf de schade.\n\nVoor organisaties betekent dit dat de keuze niet meer gaat over óf u agents gebruikt, maar hoe u ze begrenst. Leg per proces vast wat een agent mag, welke rechten hij krijgt en wie aftekent. Voor werkenden verschuift het werk van uitvoeren naar controleren en beoordelen. En het onderwijs zal studenten moeten leren om agents aan te sturen en hun werk te toetsen.\n\nProbeer dit zelf.\n\nDeze week bleek dat Google chats in Gemini langer bewaart. Ook als de geschiedenis uit staat, blijven chats voortaan ongeveer twee maanden bewaard in plaats van tweeënzeventig uur. Google maakt het gebruik voor AI-training en de chatgeschiedenis wel tot twee aparte instellingen.\n\nNeem een kwartier om dit na te lopen. Open de Gemini-app of de website en ga naar de instellingen voor activiteit. Kijk wat er bewaard wordt en of de nieuwe aparte instelling voor training al bij u zichtbaar is. Verwijder oude chats die u niet wilt bewaren.\n\nLet op: deel in de gratis app geen vertrouwelijke gegevens van klanten of collega's. Gebruikt uw organisatie Gemini, vraag dan na welke zakelijke afspraken er over gegevens zijn gemaakt.\n\nTot slot: wat staat er volgende week op de agenda?\n\nMaandag 23 november opent OpenAI de aanmelding voor vijftigduizend gratis ChatGPT-abonnementen voor onderzoekers. Wie het eerst komt, het eerst maalt.\n\nDinsdag is in NEMO in Amsterdam het AI Impact Festival, over wat AI doet met leven, werk en de stad. Woensdag houdt Salesforce in Amsterdam de Agentforce World Tour, over zelfstandige agents.\n\nDonderdag is in het Koninklijk Instituut voor de Tropen de AI and Chips Summit.\n\nMaandag 30 november sluit de termijn om bij Google DeepMind een toepassing voor AlphaGenome twee in te dienen. Dezelfde dag begint in de RAI de Microsoft 365 en AI-conferentie ESPC, tot en met 3 december.\n\nDat was het weekoverzicht van AI in een paar minuten. Morgen om acht uur weer het dagelijkse bulletin, met het nieuws sinds vrijdag."
+    },
     {
       "id": "2026-11-20",
       "date": "2026-11-20",
