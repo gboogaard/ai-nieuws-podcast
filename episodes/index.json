@@ -1,6 +1,95 @@
 {
-  "updated": "2026-11-22T07:39:46+00:00",
+  "updated": "2026-11-23T06:30:04+00:00",
   "episodes": [
+    {
+      "id": "2026-11-23",
+      "date": "2026-11-23",
+      "title": "Nederland leidt Europese AI-samenwerking voor scholen",
+      "summary": "Nederland gaat acht landen voor in een Europese samenwerking voor digitaal en veilig AI-gebruik op school. Verder: Amazon wil AI-start-up Decart kopen, een Koreaanse minister treedt af na examenophef, en agents blijken als digitale collega nog zwak.",
+      "duration": 294,
+      "audio": null,
+      "chapters": [
+        {
+          "key": "nl",
+          "title": "Nederland",
+          "start": 0
+        },
+        {
+          "key": "wereld",
+          "title": "Wereldwijd",
+          "start": 91
+        },
+        {
+          "key": "werk",
+          "title": "Werk",
+          "start": 173
+        },
+        {
+          "key": "kansen",
+          "title": "Kansen",
+          "start": 241
+        }
+      ],
+      "items": [
+        {
+          "section": "nl",
+          "headline": "Nederland leidt Europese samenwerking EDU-EDIC voor AI op school",
+          "takeaway": "Acht EU-landen werken onder Nederlands voorzitterschap aan veilig AI-gebruik, standaarden en dataportabiliteit voor scholen. Scholen moeten straks zonder dataverlies van app kunnen wisselen.",
+          "source_name": "AI Wereld",
+          "source_url": "https://aiwereld.nl/nieuws/nederland-eu-edu-edic-ai-op-school"
+        },
+        {
+          "section": "nl",
+          "headline": "Kamer wil betere bescherming van makers tegen AI",
+          "takeaway": "Motie-Beckerman aangenomen: het kabinet onderzoekt bescherming van makers en praat met de Kunstenbond. Bureaus en uitgevers doen er goed aan AI-afspraken met freelancers vast te leggen.",
+          "source_name": "AI Wereld",
+          "source_url": "https://aiwereld.nl/nieuws/ai-nieuws-week-47-november-2026"
+        },
+        {
+          "section": "wereld",
+          "headline": "Amazon in laatste fase van overname Decart voor 7,5 miljard dollar",
+          "takeaway": "Dilemma voor organisaties op AWS: dieper integreren met één aanbieder voor snelheid, of nu een tweede, liefst Europese, aanbieder inrichten tegen extra beheerkosten.",
+          "source_name": "Financial Times",
+          "source_url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616"
+        },
+        {
+          "section": "wereld",
+          "headline": "Koreaanse onderwijsminister treedt af na ophef over AI-fraude bij examen",
+          "takeaway": "Dilemma voor examencommissies: investeren in dure detectie en surveillance, of toetsing omvormen naar mondelinge verdediging en praktijkopdrachten die meer docenturen kosten.",
+          "source_name": "Korea JoongAng Daily",
+          "source_url": "https://www.koreajoongangdaily.com/opinion/education-minister-must-answer-for-chaotic-college-entrance-exam/12982032"
+        },
+        {
+          "section": "werk",
+          "headline": "OpenAI: agents ronden 46 procent van onderzoekstaken zelfstandig af",
+          "takeaway": "In maart was dat nog 23 procent. Taken van twee tot vier uur komen binnen bereik van agents.",
+          "source_name": "AI Wereld",
+          "source_url": "https://aiwereld.nl/nieuws/goedemorgen-ai-nvidia-verliest-14-nederlandse-bedrijven-zoeken-winst"
+        },
+        {
+          "section": "werk",
+          "headline": "Coding-agents maken in gesimuleerd bedrijf minder dan één op tien taken af",
+          "takeaway": "Losse opdrachten gaan goed, rommelige overdrachten niet. Heldere opdrachten en goede overdracht worden kernvaardigheden.",
+          "source_name": "The Decoder",
+          "source_url": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/"
+        },
+        {
+          "section": "kansen",
+          "headline": "Exitscan voor scholen",
+          "takeaway": "Adviseurs in onderwijs-ict brengen apps, dataopslag en overstapbaarheid in kaart, nu Europa inzet op dataportabiliteit.",
+          "source_name": "",
+          "source_url": ""
+        },
+        {
+          "section": "kansen",
+          "headline": "Werkplaats agent-klaar werken voor mkb-teams",
+          "takeaway": "Ict-dienstverleners helpen teams tickets en overdrachten zo in te richten dat agents er zelfstandig mee kunnen werken.",
+          "source_name": "",
+          "source_url": ""
+        }
+      ],
+      "transcript": "Goedemorgen. Het is maandag 23 november. Dit is AI in een paar minuten. Vandaag: Nederland leidt een Europese samenwerking voor AI op school, Amazon onderhandelt over een overname van zeven en een half miljard dollar, en AI-agents blijken als digitale collega nog niet klaar.\n\nAcht EU-landen gaan samenwerken aan veilig AI-gebruik op school, aan technische standaarden en aan het delen van onderwijsdata. De groep heet EDU-EDIC. Nederland is voorzitter en Den Haag wordt de thuisbasis, meldt AI Wereld. Vrijdag gaven de landen in Brussel het startsein. Staatssecretaris Tielen schrijft aan de Kamer dat veel scholen afhankelijk zijn van een paar grote, niet-Europese bedrijven. Het doel is dat scholen kunnen kiezen uit meer diensten en hun data kunnen meenemen als ze overstappen. Kennisnet, SURF en SIVON adviseren. Een school die drie apps gebruikt voor cijfers, huiswerk en lesvideo's, moet straks zonder dataverlies kunnen wisselen. De landen kiezen nu hun speerpunten. Daarmee kunnen ze Europees geld aanvragen.\n\nDan de makers. De Tweede Kamer heeft een motie van SP-Kamerlid Beckerman aangenomen. Het kabinet moet onderzoeken hoe makers beter beschermd worden tegen AI, en daarover praten met de Kunstenbond. Denk aan een illustrator die wil bepalen of een AI-bedrijf zijn werk mag gebruiken, of een stemacteur wiens stem wordt nagebootst. Voor reclamebureaus en uitgevers is dit het moment om hun afspraken over AI en rechten met freelancers vast te leggen.\n\nDan het nieuws uit het buitenland.\n\nAmazon zit in de laatste fase van gesprekken over de overname van AI-start-up Decart, voor zeven en een half miljard dollar. Dat meldt de Financial Times op basis van ingewijden. Een deal kan al volgende week volgen. Decart staat bekend om AI-modellen die in real time werken en om zuinige AI-infrastructuur. Voor Nederlandse organisaties die op Amazon Web Services draaien, wordt de keuze scherper: dieper integreren met de AI-diensten van één aanbieder en sneller nieuwe functies krijgen, of nu al een tweede, liefst Europese, aanbieder inrichten en extra beheerkosten accepteren om afhankelijkheid te beperken.\n\nIn Zuid-Korea is minister van Onderwijs Choi Kyo-jin afgetreden, meldt de Korea JoongAng Daily. Aanleiding was ophef over de maatregelen tegen fraude met AI rond het landelijke toelatingsexamen. Choi had gezegd dat hij AI-fraude zelf waarschijnlijk niet zou herkennen. Eerder dit jaar kwam AI-fraude al voor bij een nationaal examen en een essaytoets. Voor Nederlandse examencommissies, in het mbo en hoger onderwijs, ligt er een duidelijke keuze. Investeren in surveillance en detectie, met hoge kosten en een wapenwedloop die u niet wint. Of toetsing omvormen naar mondelinge verdediging en opdrachten in de praktijk, wat meer docenturen kost maar fraude met AI veel minder lonend maakt.\n\nDan werk en de arbeidsmarkt.\n\nTwee berichten laten zien hoe ver AI-agents zijn als collega. Volgens een intern rapport van OpenAI, waarover AI Wereld schrijft, rondden agents in oktober zesenveertig procent af van geselecteerde onderzoekstaken van twee tot vier uur, zonder menselijke hulp. In maart was dat nog drieëntwintig procent.\n\nTegelijk beschrijft The Decoder een experiment waarin coding-agents werken als digitale medewerkers in een gesimuleerd softwarebedrijf, met collega's, projectborden en chatgeschiedenis. Zelfs de sterkste modellen van Anthropic en OpenAI maakten minder dan één op de tien taken volledig af. Losse, duidelijke opdrachten gaan snel. Maar bij onvolledige overdrachten en rommelige tickets raken ze het overzicht kwijt.\n\nDe les voor werkgevers: de winst zit niet alleen in het model, maar in hoe het werk is georganiseerd. Heldere opdrachten, goede overdracht en vastgelegde context worden kernvaardigheden. Voor werkenden betekent dit dat taken als het afbakenen en controleren van werk aan belang winnen. Het onderwijs kan studenten daarin nu al trainen.\n\nTot slot: de kansen.\n\nEén. Voor adviseurs in onderwijs-ict ligt er een kans in een exitscan voor scholen. Breng per school in kaart welke apps er draaien, waar de data staan en hoe makkelijk die mee te nemen zijn bij een overstap. De Europese samenwerking maakt dataportabiliteit een beleidsdoel, en schoolbesturen die nu hun contracten doorlichten, onderhandelen straks sterker.\n\nTwee. Voor ict-dienstverleners en trainers in het mkb ligt er een kans in een werkplaats agent-klaar werken. Help teams hun tickets, overdrachten en werkafspraken zo vast te leggen dat een agent ermee uit de voeten kan. Het onderzoek van deze week laat zien dat daar het knelpunt zit, niet in het model. Begin met één team en meet hoeveel taken een agent daarna wel zelfstandig afrondt.\n\nDat was AI in een paar minuten. Ik wens u een goede start van de week. Morgen om acht uur weer."
+    },
     {
       "id": "2026-11-22",
       "date": "2026-11-22",
